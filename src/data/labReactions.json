@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "cux_naoh_cuoh2",
+    "reactants": ["CuSO4", "NaOH"],
+    "products": ["Cu(OH)2", "Na2SO4"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(56, 189, 248, 0.65)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "Cu(OH)2",
+        "color": "blue",
+        "hex": "#0EA5E9",
+        "name": { "kk": "Көгілдір тұнба", "ru": "Голубой осадок", "en": "Blue precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "CuSO4 + 2NaOH = Cu(OH)2↓ + Na2SO4",
+      "fullIonic": "Cu²⁺ + SO4²⁻ + 2Na⁺ + 2OH⁻ = Cu(OH)2↓ + 2Na⁺ + SO4²⁻",
+      "netIonic": "Cu²⁺ + 2OH⁻ = Cu(OH)2↓"
+    },
+    "explanation": {
+      "kk": "Мыс(II) иондары гидроксид иондарымен байланысып, суда ерімейтін ашық көгілдір түсті тұнба түзеді.",
+      "ru": "Ионы меди(II) связываются с гидроксид-ионами, образуя характерный ярко-голубой студенистый осадок.",
+      "en": "Copper(II) ions react with hydroxide ions to precipitate insoluble gelatinous blue copper(II) hydroxide."
+    },
+    "practicalFact": {
+      "kk": "Cu(OH)2 глюкоза мен альдегидтерді анықтауға сапалық реакцияларда (Троммер/Бенедикт сынамасы) қолданылады.",
+      "ru": "Свежеосаждённый Cu(OH)2 используется в медицине и биохимии для качественного обнаружения глюкозы.",
+      "en": "Freshly precipitated Cu(OH)2 is used in Trommer and Benedict tests to detect reducing sugars like glucose."
+    }
+  },
+  {
+    "id": "cux_koh_cuoh2",
+    "reactants": ["CuSO4", "KOH"],
+    "products": ["Cu(OH)2", "K2SO4"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(56, 189, 248, 0.65)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "Cu(OH)2",
+        "color": "blue",
+        "hex": "#0EA5E9",
+        "name": { "kk": "Көгілдір тұнба", "ru": "Голубой осадок", "en": "Blue precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "CuSO4 + 2KOH = Cu(OH)2↓ + K2SO4",
+      "fullIonic": "Cu²⁺ + SO4²⁻ + 2K⁺ + 2OH⁻ = Cu(OH)2↓ + 2K⁺ + SO4²⁻",
+      "netIonic": "Cu²⁺ + 2OH⁻ = Cu(OH)2↓"
+    },
+    "explanation": {
+      "kk": "Калий сілтісі мыс сульфатымен алмасу реакциясына түсіп, көгілдір мыс(II) гидроксидін тұнбаға түсіреді.",
+      "ru": "Едкое кали реагирует с медным купоросом с образованием голубого осадка гидроксида меди(II).",
+      "en": "Potassium hydroxide reacts with copper sulfate, precipitating bright blue copper(II) hydroxide."
+    },
+    "practicalFact": {
+      "kk": "Бұл реакция мыс катионын сапалық анықтаудың негізгі тәсілі болып табылады.",
+      "ru": "Это качественная реакция на ион меди Cu²⁺ в аналитической химии.",
+      "en": "This analytical reaction serves as a standard confirmation test for Cu²⁺ ions."
+    }
+  },
+  {
+    "id": "agno3_hcl_agcl",
+    "reactants": ["AgNO3", "HCl"],
+    "products": ["AgCl", "HNO3"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "AgCl",
+        "color": "white",
+        "hex": "#F8FAFC",
+        "name": { "kk": "Ақ ірімшік тәрізді тұнба", "ru": "Белый творожистый осадок", "en": "White curdy precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "AgNO3 + HCl = AgCl↓ + HNO3",
+      "fullIonic": "Ag⁺ + NO3⁻ + H⁺ + Cl⁻ = AgCl↓ + H⁺ + NO3⁻",
+      "netIonic": "Ag⁺ + Cl⁻ = AgCl↓"
+    },
+    "explanation": {
+      "kk": "Күміс ионы хлорид ионымен лезде ақ ірімшік тәрізді тұнба береді, бұл тұнба азот қышқылында ерімейді.",
+      "ru": "Ионы серебра реагируют с хлорид-ионами, выпадает плотный белый творожистый осадок AgCl.",
+      "en": "Silver ions instantly react with chloride ions to precipitate insoluble white curdy silver chloride."
+    },
+    "practicalFact": {
+      "kk": "Хлорид иондары мен тұз қышқылын анықтауға арналған эталондық сапалық реакция.",
+      "ru": "Классическая качественная реакция на хлорид-ионы, открытая ещё средневековыми алхимиками.",
+      "en": "The definitive analytical test for chlorides and hydrochloric acid in solutions."
+    }
+  },
+  {
+    "id": "agno3_nacl_agcl",
+    "reactants": ["AgNO3", "NaCl"],
+    "products": ["AgCl", "NaNO3"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "AgCl",
+        "color": "white",
+        "hex": "#F8FAFC",
+        "name": { "kk": "Ақ ірімшік тәрізді тұнба", "ru": "Белый творожистый осадок", "en": "White curdy precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "AgNO3 + NaCl = AgCl↓ + NaNO3",
+      "fullIonic": "Ag⁺ + NO3⁻ + Na⁺ + Cl⁻ = AgCl↓ + Na⁺ + NO3⁻",
+      "netIonic": "Ag⁺ + Cl⁻ = AgCl↓"
+    },
+    "explanation": {
+      "kk": "Ас тұзына күміс нитратын қосқанда AgCl ақ тұнбасы пайда болады.",
+      "ru": "При добавлении нитрата серебра к раствору поваренной соли выпадает осадок хлорида серебра.",
+      "en": "Adding silver nitrate to common salt solution precipitates pure silver chloride."
+    },
+    "practicalFact": {
+      "kk": "AgCl жарық әсерінен ыдырап қараяды, бұл қасиет классикалық фотопленканың негізін қалаған.",
+      "ru": "AgCl темнеет на свету за счёт фотохимического разложения — основа классической фотографии.",
+      "en": "Silver chloride decomposes under light turning gray-violet, which founded analog photography."
+    }
+  },
+  {
+    "id": "bacl2_h2so4_baso4",
+    "reactants": ["BaCl2", "H2SO4"],
+    "products": ["BaSO4", "HCl"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.35)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "BaSO4",
+        "color": "white",
+        "hex": "#F1F5F9",
+        "name": { "kk": "Ақ майда кристалды тұнба", "ru": "Белый мелкокристаллический осадок", "en": "Dense white precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "BaCl2 + H2SO4 = BaSO4↓ + 2HCl",
+      "fullIonic": "Ba²⁺ + 2Cl⁻ + 2H⁺ + SO4²⁻ = BaSO4↓ + 2H⁺ + 2Cl⁻",
+      "netIonic": "Ba²⁺ + SO4²⁻ = BaSO4↓"
+    },
+    "explanation": {
+      "kk": "Барий иондары сульфатпен қышқылдарда мүлде ерімейтін тығыз ақ барий сульфаты тұнбасын түзеді.",
+      "ru": "Ионы бария связывают сульфат-ионы в белый осадок BaSO4, абсолютно нерастворимый в кислотах.",
+      "en": "Barium ions react with sulfate ions to form dense white BaSO4, completely insoluble in acids."
+    },
+    "practicalFact": {
+      "kk": "Барий сульфаты рентген контрастты зат («барий ботқасы») ретінде асқазанды зерттеуде кең қолданылады.",
+      "ru": "«Баритовая каша» используется в медицине как безопасное рентгеноконтрастное вещество.",
+      "en": "Insoluble BaSO4 is safely ingested as a radiopaque contrast agent for gastrointestinal X-rays."
+    }
+  },
+  {
+    "id": "bacl2_cuso4_baso4",
+    "reactants": ["BaCl2", "CuSO4"],
+    "products": ["BaSO4", "CuCl2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(56, 189, 248, 0.65)",
+      "solutionColorTo": "rgba(14, 165, 233, 0.4)",
+      "precipitate": {
+        "formula": "BaSO4",
+        "color": "white",
+        "hex": "#F1F5F9",
+        "name": { "kk": "Ақ тұнба", "ru": "Белый осадок", "en": "White precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "BaCl2 + CuSO4 = BaSO4↓ + CuCl2",
+      "fullIonic": "Ba²⁺ + 2Cl⁻ + Cu²⁺ + SO4²⁻ = BaSO4↓ + Cu²⁺ + 2Cl⁻",
+      "netIonic": "Ba²⁺ + SO4²⁻ = BaSO4↓"
+    },
+    "explanation": {
+      "kk": "Мыс сульфаты мен барий хлориді әрекеттесіп ақ BaSO4 тұнбасын береді, ал ерітінді мыс(II) хлоридінің жасылдау-көгілдір түсіне ауысады.",
+      "ru": "Образуется белый осадок сульфата бария, а надосадочная жидкость окрашивается в цвет CuCl2.",
+      "en": "Dense white BaSO4 precipitates while the solution takes on the greenish-blue tint of CuCl2."
+    },
+    "practicalFact": {
+      "kk": "Тұздардың екеуі де ерімді болса да, алмасу реакциясы тұнба түзілуі арқасында соңына дейін жүреді.",
+      "ru": "Пример реакции ионного обмена между двумя солями, идущей до конца благодаря выпадению осадка.",
+      "en": "A classic example of double displacement driven to completion by precipitation."
+    }
+  },
+  {
+    "id": "fecl3_naoh_feoh3",
+    "reactants": ["FeCl3", "NaOH"],
+    "products": ["Fe(OH)3", "NaCl"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(217, 119, 6, 0.65)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.2)",
+      "precipitate": {
+        "formula": "Fe(OH)3",
+        "color": "brown",
+        "hex": "#B45309",
+        "name": { "kk": "Қоңыр-қызыл (тот түсті) тұнба", "ru": "Бурый (ржавый) осадок", "en": "Reddish-brown precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "FeCl3 + 3NaOH = Fe(OH)3↓ + 3NaCl",
+      "fullIonic": "Fe³⁺ + 3Cl⁻ + 3Na⁺ + 3OH⁻ = Fe(OH)3↓ + 3Na⁺ + 3Cl⁻",
+      "netIonic": "Fe³⁺ + 3OH⁻ = Fe(OH)3↓"
+    },
+    "explanation": {
+      "kk": "Темір(III) иондары гидроксид иондарымен әрекеттесіп, тот түсті қоңыр Fe(OH)3 тұнбасын береді.",
+      "ru": "Ионы трёхвалентного железа связываются с щёлочью в объёмный бурый осадок гидроксида железа(III).",
+      "en": "Iron(III) ions precipitate with hydroxide into characteristic rust-brown iron(III) hydroxide."
+    },
+    "practicalFact": {
+      "kk": "Табиғаттағы темірдің тот басуының негізгі химиялық құрамдас бөлігі — осы қосылыс.",
+      "ru": "Осадок имеет химический состав, аналогичный минералу лимониту и обыкновенной ржавчине.",
+      "en": "This reddish-brown compound constitutes the principal chemical component of natural rust."
+    }
+  },
+  {
+    "id": "pbno32_ki_pbi2",
+    "reactants": ["Pb(NO3)2", "KI"],
+    "products": ["PbI2", "KNO3"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.35)",
+      "solutionColorTo": "rgba(254, 240, 138, 0.25)",
+      "precipitate": {
+        "formula": "PbI2",
+        "color": "yellow",
+        "hex": "#EAB308",
+        "name": { "kk": "Ашық алтын-сары тұнба («Алтын жаңбыр»)", "ru": "Ярко-жёлтый осадок («Золотой дождь»)", "en": "Bright yellow precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Pb(NO3)2 + 2KI = PbI2↓ + 2KNO3",
+      "fullIonic": "Pb²⁺ + 2NO3⁻ + 2K⁺ + 2I⁻ = PbI2↓ + 2K⁺ + 2NO3⁻",
+      "netIonic": "Pb²⁺ + 2I⁻ = PbI2↓"
+    },
+    "explanation": {
+      "kk": "Қорғасын нитраты калий иодидімен әрекеттескенде сиқырлы ашық сары түсті PbI2 кристалл тұнбасы түзіледі.",
+      "ru": "Выпадает красивейший ярко-жёлтый осадок иодида свинца. При нагревании растворяется, а при остывании искрится золотыми чешуйками.",
+      "en": "Forms dazzling bright yellow lead(II) iodide crystals, famed as the 'Golden Rain' demonstration."
+    },
+    "practicalFact": {
+      "kk": "Ыстық суда еріп, салқындағанда жарқыраған алтын қабыршақтар түрінде кристалға айналады («Алтын жаңбыр» тәжірибесі).",
+      "ru": "Опыт «Золотой дождь» — один из самых красивых химических демонстрационных опытов в мире.",
+      "en": "Lead iodide dissolves in boiling water and recrystallizes on cooling into sparkling golden platelets."
+    }
+  },
+  {
+    "id": "na2co3_hcl_co2",
+    "reactants": ["Na2CO3", "HCl"],
+    "products": ["NaCl", "H2O", "CO2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "CO2",
+        "intensity": "high",
+        "name": { "kk": "Көмірқышқыл газы (көпіршіктер)", "ru": "Углекислый газ (бурное вскипание)", "en": "Carbon dioxide (effervescence)" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Na2CO3 + 2HCl = 2NaCl + H2O + CO2↑",
+      "fullIonic": "2Na⁺ + CO3²⁻ + 2H⁺ + 2Cl⁻ = 2Na⁺ + 2Cl⁻ + H2O + CO2↑",
+      "netIonic": "CO3²⁻ + 2H⁺ = H2O + CO2↑"
+    },
+    "explanation": {
+      "kk": "Тұз қышқылын қосқанда әлсіз көмір қышқылы түзіліп, ол лезде су мен көмірқышқыл газына ыдырайды (күшті көпіршу).",
+      "ru": "Кислота вытесняет нестойкую угольную кислоту, которая мгновенно распадается на воду и углекислый газ.",
+      "en": "Strong acid displaces unstable carbonic acid, instantly effervescing into water and carbon dioxide gas."
+    },
+    "practicalFact": {
+      "kk": "Карбонаттарды анықтаудың басты сапалық белгісі — қышқылдан көмірқышқыл газының көпіршіп бөлінуі.",
+      "ru": "Этот эффект используется в шипучих таблетках и разрыхлителях теста.",
+      "en": "This vigorous reaction is utilized in effervescent tablets and fire extinguishers."
+    }
+  },
+  {
+    "id": "na2co3_h2so4_co2",
+    "reactants": ["Na2CO3", "H2SO4"],
+    "products": ["Na2SO4", "H2O", "CO2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "CO2",
+        "intensity": "high",
+        "name": { "kk": "Көмірқышқыл газы", "ru": "Углекислый газ", "en": "Carbon dioxide" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Na2CO3 + H2SO4 = Na2SO4 + H2O + CO2↑",
+      "fullIonic": "2Na⁺ + CO3²⁻ + 2H⁺ + SO4²⁻ = 2Na⁺ + SO4²⁻ + H2O + CO2↑",
+      "netIonic": "CO3²⁻ + 2H⁺ = H2O + CO2↑"
+    },
+    "explanation": {
+      "kk": "Күкірт қышқылы содамен әрекеттесіп көмірқышқыл газын қарқынды бөліп шығарады.",
+      "ru": "Серная кислота вступает в бурную реакцию с содой с обильным выделением газа.",
+      "en": "Sulfuric acid reacts vigorously with sodium carbonate releasing carbon dioxide."
+    },
+    "practicalFact": {
+      "kk": "Көмірқышқыл газы ауадан ауыр және жануды қолдамайды, сондықтан өрт сөндіргіштерде қолданылады.",
+      "ru": "CO2 тяжелее воздуха и не поддерживает горение — основа углекислотных огнетушителей.",
+      "en": "Carbon dioxide is denser than air and smothers flames, making it ideal for fire suppression."
+    }
+  },
+  {
+    "id": "nahco3_hcl_co2",
+    "reactants": ["NaHCO3", "HCl"],
+    "products": ["NaCl", "H2O", "CO2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "CO2",
+        "intensity": "high",
+        "name": { "kk": "Көмірқышқыл газы", "ru": "Углекислый газ", "en": "Carbon dioxide" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "NaHCO3 + HCl = NaCl + H2O + CO2↑",
+      "fullIonic": "Na⁺ + HCO3⁻ + H⁺ + Cl⁻ = Na⁺ + Cl⁻ + H2O + CO2↑",
+      "netIonic": "HCO3⁻ + H⁺ = H2O + CO2↑"
+    },
+    "explanation": {
+      "kk": "Ас содасы тұз қышқылымен әрекеттесіп көпіршіп қайнайды, су және CO2 түзіледі.",
+      "ru": "Пищевая сода нейтрализует соляную кислоту желудочного сока с образованием пузырьков CO2.",
+      "en": "Baking soda reacts with hydrochloric acid, rapidly releasing carbon dioxide."
+    },
+    "practicalFact": {
+      "kk": "Медицинада асқазан қыжылын (жоғары қышқылдықты) басу үшін сода қолданылған классикалық реакция.",
+      "ru": "Раньше этот способ применяли для снижения изжоги, однако выделяющийся газ раздражает стенки желудка.",
+      "en": "Historically used as an antacid to relieve stomach heartburn, though newer agents are preferred."
+    }
+  },
+  {
+    "id": "nahco3_ch3cooh_co2",
+    "reactants": ["NaHCO3", "CH3COOH"],
+    "products": ["CH3COONa", "H2O", "CO2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "CO2",
+        "intensity": "high",
+        "name": { "kk": "Көмірқышқыл газы", "ru": "Углекислый газ", "en": "Carbon dioxide" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "NaHCO3 + CH3COOH = CH3COONa + H2O + CO2↑",
+      "fullIonic": "Na⁺ + HCO3⁻ + CH3COOH = CH3COO⁻ + Na⁺ + H2O + CO2↑",
+      "netIonic": "HCO3⁻ + CH3COOH = CH3COO⁻ + H2O + CO2↑"
+    },
+    "explanation": {
+      "kk": "Ас содасы мен сірке суының атақты «жанартау» реакциясы: көмірқышқыл газының көбігі атылып шығады.",
+      "ru": "Классическое «гашение соды уксусом» — основа кулинарной выпечки и домашних вулканов.",
+      "en": "The famous kitchen volcano reaction: vinegar effervesces violently with baking soda."
+    },
+    "practicalFact": {
+      "kk": "Аспаздықта қамырды қопсыту және көтеру үшін соданы сірке суымен сөндіреді.",
+      "ru": "Бөлінетін газ қамырды көпіршікті етіп, нанды үлпілдек етеді.",
+      "en": "In baking, the released CO2 gas creates porous air pockets, making cakes and breads fluffy."
+    }
+  },
+  {
+    "id": "caco3_hcl_co2",
+    "reactants": ["CaCO3", "HCl"],
+    "products": ["CaCl2", "H2O", "CO2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(245, 245, 245, 0.8)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "CO2",
+        "intensity": "high",
+        "name": { "kk": "Көмірқышқыл газы", "ru": "Углекислый газ", "en": "Carbon dioxide" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "CaCO3 + 2HCl = CaCl2 + H2O + CO2↑",
+      "fullIonic": "CaCO3 + 2H⁺ + 2Cl⁻ = Ca²⁺ + 2Cl⁻ + H2O + CO2↑",
+      "netIonic": "CaCO3 + 2H⁺ = Ca²⁺ + H2O + CO2↑"
+    },
+    "explanation": {
+      "kk": "Қатты бор немесе мәрмәр тұз қышқылында газ бөліп толықтай ериді.",
+      "ru": "Нерастворимый мел растворяется в кислоте с шипением за счёт образования растворимого хлорида кальция.",
+      "en": "Insoluble calcium carbonate (chalk/limestone) dissolves with brisk effervescence."
+    },
+    "practicalFact": {
+      "kk": "Қышқыл жаңбырлардың тарихи мәрмәр ескерткіштер мен ғимараттарды бұзуы осы реакциямен түсіндіріледі.",
+      "ru": "Именно так кислотные дожди разрушают античные мраморные скульптуры и фасады зданий.",
+      "en": "Acid rain degrades historic marble monuments through this dissolution mechanism."
+    }
+  },
+  {
+    "id": "caoh2_na2co3_caco3",
+    "reactants": ["Ca(OH)2", "Na2CO3"],
+    "products": ["CaCO3", "NaOH"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.5)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.4)",
+      "precipitate": {
+        "formula": "CaCO3",
+        "color": "white",
+        "hex": "#F8FAFC",
+        "name": { "kk": "Ақ лайлы тұнба (әк суының лайлануы)", "ru": "Белый осадок (помутнение)", "en": "White precipitate (milky)" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Ca(OH)2 + Na2CO3 = CaCO3↓ + 2NaOH",
+      "fullIonic": "Ca²⁺ + 2OH⁻ + 2Na⁺ + CO3²⁻ = CaCO3↓ + 2Na⁺ + 2OH⁻",
+      "netIonic": "Ca²⁺ + CO3²⁻ = CaCO3↓"
+    },
+    "explanation": {
+      "kk": "Әк суына карбонат қосқанда кальций карбонаты түзіліп, ерітінді сүттей ағарып лайланады.",
+      "ru": "Известковая вода мутнеет за счёт выпадения микрокристаллов нерастворимого карбоната кальция.",
+      "en": "Clear limewater turns cloudy and milky due to microcrystalline calcium carbonate."
+    },
+    "practicalFact": {
+      "kk": "Әк суы көмірқышқыл газын (CO2) анықтауға арналған мектеп химиясының ең басты реактиві.",
+      "ru": "Традиционный химический тест для проверки выдыхаемого воздуха на углекислый газ.",
+      "en": "Standard demonstration testing exhaled breath for carbon dioxide content."
+    }
+  },
+  {
+    "id": "zn_hcl_h2",
+    "reactants": ["Zn", "HCl"],
+    "products": ["ZnCl2", "H2"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "H2",
+        "intensity": "high",
+        "name": { "kk": "Сутек газы (көпіршіктер)", "ru": "Водород (пузырьки)", "en": "Hydrogen gas (bubbles)" }
+      },
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "Zn + 2HCl = ZnCl2 + H2↑",
+      "fullIonic": "Zn + 2H⁺ + 2Cl⁻ = Zn²⁺ + 2Cl⁻ + H2↑",
+      "netIonic": "Zn + 2H⁺ = Zn²⁺ + H2↑"
+    },
+    "explanation": {
+      "kk": "Мырыш сутектен белсенді металл болғандықтан, қышқылдан сутек газын қарқынды ығыстырып шығарады (орын басу).",
+      "ru": "Цинк как металл до водорода вытесняет газообразный водород из кислоты с выделением тепла.",
+      "en": "Zinc displaces hydrogen from acid via single replacement, generating hydrogen gas."
+    },
+    "practicalFact": {
+      "kk": "Зертханада Кипп аппаратында таза сутек газын алудың классикалық өндірістік әдісі.",
+      "ru": "Классический способ получения водорода в аппарате Киппа в школьных лабораториях.",
+      "en": "Standard laboratory synthesis of pure hydrogen gas in Kipp's apparatus."
+    }
+  },
+  {
+    "id": "zn_h2so4_h2",
+    "reactants": ["Zn", "H2SO4"],
+    "products": ["ZnSO4", "H2"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(241, 245, 249, 0.45)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "H2",
+        "intensity": "high",
+        "name": { "kk": "Сутек газы", "ru": "Водород", "en": "Hydrogen gas" }
+      },
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "Zn + H2SO4 = ZnSO4 + H2↑",
+      "fullIonic": "Zn + 2H⁺ + SO4²⁻ = Zn²⁺ + SO4²⁻ + H2↑",
+      "netIonic": "Zn + 2H⁺ = Zn²⁺ + H2↑"
+    },
+    "explanation": {
+      "kk": "Сұйылтылған күкірт қышқылы мырышпен әрекеттесіп, сутек газын және мырыш сульфатын түзеді.",
+      "ru": "Разбавленная серная кислота активно растворяет цинк с выделением пузырьков водорода.",
+      "en": "Dilute sulfuric acid actively dissolves zinc metal, producing hydrogen bubbles."
+    },
+    "practicalFact": {
+      "kk": "Сутек газы барлық газдардың ішіндегі ең жеңілі, ауадан 14.5 есе жеңіл.",
+      "ru": "Водород — самый лёгкий газ во Вселенной, он легче воздуха почти в 14.5 раз.",
+      "en": "Hydrogen is the lightest element and gas in the universe, 14.5 times lighter than air."
+    }
+  },
+  {
+    "id": "mg_hcl_h2",
+    "reactants": ["Mg", "HCl"],
+    "products": ["MgCl2", "H2"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "H2",
+        "intensity": "violent",
+        "name": { "kk": "Сутек газы (өте қарқынды)", "ru": "Водород (бурная реакция)", "en": "Hydrogen gas (violent)" }
+      },
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "Mg + 2HCl = MgCl2 + H2↑",
+      "fullIonic": "Mg + 2H⁺ + 2Cl⁻ = Mg²⁺ + 2Cl⁻ + H2↑",
+      "netIonic": "Mg + 2H⁺ = Mg²⁺ + H2↑"
+    },
+    "explanation": {
+      "kk": "Магний өте белсенді металл болғандықтан, реакция лезде және қатты жылу бөлумен жүреді.",
+      "ru": "Магний реагирует крайне бурно со свистом и сильным разогревом пробирки.",
+      "en": "Highly active magnesium reacts vigorously and exothermically, rapidly releasing H2."
+    },
+    "practicalFact": {
+      "kk": "Магнийдің белсенділігі мырыш пен темірден әлдеқайда жоғары.",
+      "ru": "Скорость выделения газа наглядно демонстрирует ряд активности металлов Бекетова.",
+      "en": "Demonstrates the high position of magnesium in the electrochemical activity series."
+    }
+  },
+  {
+    "id": "fe_hcl_h2",
+    "reactants": ["Fe", "HCl"],
+    "products": ["FeCl2", "H2"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.4)",
+      "solutionColorTo": "rgba(187, 247, 208, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "H2",
+        "intensity": "low",
+        "name": { "kk": "Сутек газы (баяу)", "ru": "Водород (умеренно)", "en": "Hydrogen gas (moderate)" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Fe + 2HCl = FeCl2 + H2↑",
+      "fullIonic": "Fe + 2H⁺ + 2Cl⁻ = Fe²⁺ + 2Cl⁻ + H2↑",
+      "netIonic": "Fe + 2H⁺ = Fe²⁺ + H2↑"
+    },
+    "explanation": {
+      "kk": "Темір тұз қышқылында баяу еріп, ашық жасылдау Fe(II) ерітіндісі мен сутек түзеді.",
+      "ru": "Железо окисляется соляной кислотой только до двухвалентного состояния (Fe²⁺, бледно-зелёный раствор).",
+      "en": "Iron slowly dissolves in hydrochloric acid forming pale-green iron(II) chloride."
+    },
+    "practicalFact": {
+      "kk": "Тотықтырғыш емес қышқылдар темірді тек +2 дәрежесіне дейін тотықтырады.",
+      "ru": "Важный экзаменационный факт: без сильных окислителей железо с кислотами даёт соли Fe²⁺, а не Fe³⁺.",
+      "en": "Non-oxidizing acids oxidize iron only to the +2 oxidation state."
+    }
+  },
+  {
+    "id": "fe_cuso4_cu",
+    "reactants": ["Fe", "CuSO4"],
+    "products": ["FeSO4", "Cu"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(56, 189, 248, 0.65)",
+      "solutionColorTo": "rgba(187, 247, 208, 0.35)",
+      "precipitate": {
+        "formula": "Cu",
+        "color": "red",
+        "hex": "#EA580C",
+        "name": { "kk": "Қызыл мыс қабаты", "ru": "Красный налёт меди", "en": "Red metallic copper" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Fe + CuSO4 = FeSO4 + Cu↓",
+      "fullIonic": "Fe + Cu²⁺ + SO4²⁻ = Fe²⁺ + SO4²⁻ + Cu↓",
+      "netIonic": "Fe + Cu²⁺ = Fe²⁺ + Cu↓"
+    },
+    "explanation": {
+      "kk": "Темір шеге мыс сульфатына салынғанда қызыл түсті металдық мыс қабатымен қапталады (орын басу).",
+      "ru": "Железо как более активный металл вытесняет медь из раствора соли; шероховатая поверхность покрывается медью.",
+      "en": "More active iron displaces copper from sulfate solution, depositing a reddish metallic copper coating."
+    },
+    "practicalFact": {
+      "kk": "Бұл тәжірибе металдардың электрохимиялық белсенділік қатарын (Бекетов қатары) толық дәлелдейді.",
+      "ru": "Исторический опыт, положивший начало созданию гидрометаллургии меди.",
+      "en": "Fundamental demonstration of metal activity series and foundational principle of hydrometallurgy."
+    }
+  },
+  {
+    "id": "al_hcl_h2",
+    "reactants": ["Al", "HCl"],
+    "products": ["AlCl3", "H2"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "H2",
+        "intensity": "high",
+        "name": { "kk": "Сутек газы", "ru": "Водород", "en": "Hydrogen gas" }
+      },
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "2Al + 6HCl = 2AlCl3 + 3H2↑",
+      "fullIonic": "2Al + 6H⁺ + 6Cl⁻ = 2Al³⁺ + 6Cl⁻ + 3H2↑",
+      "netIonic": "2Al + 6H⁺ = 2Al³⁺ + 3H2↑"
+    },
+    "explanation": {
+      "kk": "Оксид қабықшасы бұзылған соң алюминий қышқылда қарқынды еріп, көп мөлшерде сутек бөледі.",
+      "ru": "После растворения оксидной плёнки алюминий бурно реагирует с соляной кислотой.",
+      "en": "Once oxide film is breached, aluminum reacts actively with HCl yielding abundant H2."
+    },
+    "practicalFact": {
+      "kk": "Алюминий ауада жұқа тығыз оксид қабықшасымен (Al2O3) қапталғандықтан кәдімгі сумен әрекеттеспейді.",
+      "ru": "В быту алюминиевая посуда защищена оксидной плёнкой, но кислоты её легко растворяют.",
+      "en": "Aluminum cookware is protected by an oxide layer, but acids strip this layer readily."
+    }
+  },
+  {
+    "id": "al_naoh_h2",
+    "reactants": ["Al", "NaOH"],
+    "products": ["Na[Al(OH)4]", "H2"],
+    "type": "redox",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(241, 245, 249, 0.4)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "H2",
+        "intensity": "high",
+        "name": { "kk": "Сутек газы", "ru": "Водород", "en": "Hydrogen gas" }
+      },
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "2Al + 2NaOH + 6H2O = 2Na[Al(OH)4] + 3H2↑",
+      "fullIonic": "2Al + 2Na⁺ + 2OH⁻ + 6H2O = 2Na⁺ + 2[Al(OH)4]⁻ + 3H2↑",
+      "netIonic": "2Al + 2OH⁻ + 6H2O = 2[Al(OH)4]⁻ + 3H2↑"
+    },
+    "explanation": {
+      "kk": "Алюминийдің амфотерлі қасиеті: металл сілтіде де еріп, кешенді тетрагидроксоалюминат және сутек береді.",
+      "ru": "Амфотерность: алюминий растворяется в щелочах с образованием комплексного гидроксоалюмината и водорода.",
+      "en": "Amphoteric property: aluminum dissolves in alkalis yielding soluble aluminate and hydrogen."
+    },
+    "practicalFact": {
+      "kk": "Құбыр тазалағыш құралдарға («Крот») алюминий ұнтағы мен сілтіні сутек көбігін түзу үшін қосады.",
+      "ru": "Средства для прочистки труб содержат гранулы алюминия для механического выталкивания пробок пеной H2.",
+      "en": "Drain cleaners blend aluminum pellets with lye to generate scrubbing hydrogen foam."
+    }
+  },
+  {
+    "id": "naoh_hcl_neutralization",
+    "reactants": ["NaOH", "HCl"],
+    "products": ["NaCl", "H2O"],
+    "type": "neutralization",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(241, 245, 249, 0.4)",
+      "solutionColorTo": "rgba(224, 242, 254, 0.35)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "NaOH + HCl = NaCl + H2O",
+      "fullIonic": "Na⁺ + OH⁻ + H⁺ + Cl⁻ = Na⁺ + Cl⁻ + H2O",
+      "netIonic": "H⁺ + OH⁻ = H2O"
+    },
+    "explanation": {
+      "kk": "Классикалық бейтараптану реакциясы: қышқыл мен сілті бір-бірін бейтараптап, бейтарап ас тұзы мен су түзеді.",
+      "ru": "Классическая реакция нейтрализации между сильной кислотой и щёлочью с выделением тепла.",
+      "en": "Classic acid-base neutralization producing harmless salt and water with heat release."
+    },
+    "practicalFact": {
+      "kk": "Бейтараптану жылуы барлық күшті қышқылдар мен күшті негіздер үшін тұрақты: -57.3 кДж/моль.",
+      "ru": "Теплота нейтрализации для любых сильных кислот и оснований всегда постоянна (~57.3 кДж/моль).",
+      "en": "Standard molar enthalpy of neutralization for strong acids and bases is constant at -57.3 kJ/mol."
+    }
+  },
+  {
+    "id": "naoh_h2so4_neutralization",
+    "reactants": ["NaOH", "H2SO4"],
+    "products": ["Na2SO4", "H2O"],
+    "type": "neutralization",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(241, 245, 249, 0.4)",
+      "solutionColorTo": "rgba(224, 242, 254, 0.35)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "2NaOH + H2SO4 = Na2SO4 + 2H2O",
+      "fullIonic": "2Na⁺ + 2OH⁻ + 2H⁺ + SO4²⁻ = 2Na⁺ + SO4²⁻ + 2H2O",
+      "netIonic": "H⁺ + OH⁻ = H2O"
+    },
+    "explanation": {
+      "kk": "Күкірт қышқылын натрий гидроксидімен бейтараптау нәтижесінде натрий сульфаты түзіледі.",
+      "ru": "Нейтрализация двухосновной серной кислоты с образованием сульфата натрия.",
+      "en": "Neutralization of sulfuric acid by sodium hydroxide yielding sodium sulfate."
+    },
+    "practicalFact": {
+      "kk": "Түзілген Na2SO4 кристалданып, глаубер тұзы (мирабилит) Na2SO4*10H2O түзеді.",
+      "ru": "Продукт реакции кристаллизуется в виде знаменитой глауберовой соли.",
+      "en": "Crystallization of the reaction product yields Glauber's salt (mirabilite)."
+    }
+  },
+  {
+    "id": "koh_hcl_neutralization",
+    "reactants": ["KOH", "HCl"],
+    "products": ["KCl", "H2O"],
+    "type": "neutralization",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(241, 245, 249, 0.4)",
+      "solutionColorTo": "rgba(224, 242, 254, 0.35)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "KOH + HCl = KCl + H2O",
+      "fullIonic": "K⁺ + OH⁻ + H⁺ + Cl⁻ = K⁺ + Cl⁻ + H2O",
+      "netIonic": "H⁺ + OH⁻ = H2O"
+    },
+    "explanation": {
+      "kk": "Калий гидроксиді тұз қышқылымен әрекеттесіп бейтарап калий хлориді мен су түзеді.",
+      "ru": "Нейтрализация едкого кали соляной кислотой.",
+      "en": "Neutralization of potassium hydroxide with hydrochloric acid."
+    },
+    "practicalFact": {
+      "kk": "KCl ауыл шаруашылығында ең көп қолданылатын калий тыңайтқышы болып табылады.",
+      "ru": "Хлорид калия — ключевое калийное минеральное удобрение в сельском хозяйстве.",
+      "en": "Potassium chloride serves as the primary potash fertilizer worldwide."
+    }
+  },
+  {
+    "id": "caoh2_hcl_neutralization",
+    "reactants": ["Ca(OH)2", "HCl"],
+    "products": ["CaCl2", "H2O"],
+    "type": "neutralization",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.5)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.35)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "Ca(OH)2 + 2HCl = CaCl2 + 2H2O",
+      "fullIonic": "Ca²⁺ + 2OH⁻ + 2H⁺ + 2Cl⁻ = Ca²⁺ + 2Cl⁻ + 2H2O",
+      "netIonic": "H⁺ + OH⁻ = H2O"
+    },
+    "explanation": {
+      "kk": "Әк суы тұз қышқылымен бейтараптанып, суда өте жақсы еритін кальций хлоридін береді.",
+      "ru": "Известковая вода нейтрализуется соляной кислотой с образованием хлорида кальция.",
+      "en": "Limewater is neutralized by hydrochloric acid yielding soluble calcium chloride."
+    },
+    "practicalFact": {
+      "kk": "CaCl2 ылғалды өте күшті тартатындықтан, қыста тайғақ жолдарға себуге қолданылады.",
+      "ru": "CaCl2 гигроскопичен и широко используется в противогололёдных реагентах.",
+      "en": "Highly hygroscopic CaCl2 is widely spread on winter roads for de-icing."
+    }
+  },
+  {
+    "id": "cu_hno3_no2",
+    "reactants": ["Cu", "HNO3"],
+    "products": ["Cu(NO3)2", "NO2", "H2O"],
+    "type": "redox",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(254, 249, 195, 0.4)",
+      "solutionColorTo": "rgba(14, 165, 233, 0.6)",
+      "precipitate": null,
+      "gas": {
+        "formula": "NO2",
+        "intensity": "high",
+        "name": { "kk": "Қоңыр түсті улы газ NO2 («Түлкі құйрығы»)", "ru": "Бурый газ NO2 («Лисий хвост»)", "en": "Brown toxic gas NO2" }
+      },
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "Cu + 4HNO3 = Cu(NO3)2 + 2NO2↑ + 2H2O",
+      "fullIonic": "Cu + 4H⁺ + 4NO3⁻ = Cu²⁺ + 2NO3⁻ + 2NO2↑ + 2H2O",
+      "netIonic": "Cu + 4H⁺ + 2NO3⁻ = Cu²⁺ + 2NO2↑ + 2H2O"
+    },
+    "explanation": {
+      "kk": "Мыс концентрлі азот қышқылында еріп, ерітінді көкке боялады және қоңыр улы диоксид газы NO2 бөлінеді.",
+      "ru": "Медь окисляется концентрированной HNO3: выделяется бурый диоксид азота («лисий хвост»).",
+      "en": "Copper is oxidized by concentrated nitric acid releasing characteristic brown toxic NO2 gas."
+    },
+    "practicalFact": {
+      "kk": "Бұл реакцияны тек тартпа шкафта (вытяжной шкаф) жүргізу керек, себебі NO2 өкпеге өте қауіпті.",
+      "ru": "Опыт проводится строго в вытяжном шкафу из-за высокой токсичности диоксида азота.",
+      "en": "Must be performed exclusively inside a fume hood due to toxicity of nitrogen dioxide."
+    }
+  },
+  {
+    "id": "heat_cuoh2_cuo",
+    "reactants": ["Cu(OH)2"],
+    "products": ["CuO", "H2O"],
+    "type": "decomposition",
+    "requiresHeating": true,
+    "effects": {
+      "solutionColorFrom": "rgba(14, 165, 233, 0.3)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "CuO",
+        "color": "black",
+        "hex": "#1E293B",
+        "name": { "kk": "Қара тұнба (мыс(II) оксиді)", "ru": "Чёрный осадок оксида меди(II)", "en": "Black copper(II) oxide" }
+      },
+      "gas": null,
+      "temperature": "endothermic"
+    },
+    "equations": {
+      "molecular": "Cu(OH)2 =(t°)=> CuO↓ + H2O",
+      "fullIonic": "Cu(OH)2 =(t°)=> CuO↓ + H2O",
+      "netIonic": "Cu(OH)2 =(t°)=> CuO↓ + H2O"
+    },
+    "explanation": {
+      "kk": "Көгілдір мыс(II) гидроксидін қыздырғанда ол ыдырап, қара түсті мыс оксидіне (CuO) айналады.",
+      "ru": "При нагревании нерастворимый голубой гидроксид меди теряет воду и чернеет, превращаясь в оксид меди(II).",
+      "en": "Heating blue copper(II) hydroxide dehydrates it into black copper(II) oxide."
+    },
+    "practicalFact": {
+      "kk": "Ерімейтін негіздердің көпшілігі қыздырғанда негіздік оксид пен суға ыдырайды.",
+      "ru": "Общее правило школьной химии: нерастворимые гидроксиды разлагаются при нагревании на оксид и воду.",
+      "en": "General chemistry principle: insoluble base hydroxides decompose upon heating to oxides and water."
+    }
+  },
+  {
+    "id": "cux_nh3_complex",
+    "reactants": ["CuSO4", "NH3"],
+    "products": ["[Cu(NH3)4]SO4", "H2O"],
+    "type": "complex",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(56, 189, 248, 0.65)",
+      "solutionColorTo": "rgba(30, 58, 138, 0.9)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "CuSO4 + 4NH3 = [Cu(NH3)4]SO4",
+      "fullIonic": "Cu²⁺ + SO4²⁻ + 4NH3 = [Cu(NH3)4]²⁺ + SO4²⁻",
+      "netIonic": "Cu²⁺ + 4NH3 = [Cu(NH3)4]²⁺"
+    },
+    "explanation": {
+      "kk": "Аммиак суының артық мөлшерін қосқанда, түзілген тұнба еріп, қанық күлгін-көк (сапфир) түсті кешенді ион түзеді.",
+      "ru": "При избытке аммиака образуется красивейший глубокий чернильно-синий (сапфировый) аммиакат меди.",
+      "en": "Excess ammonia redissolves precipitate into a gorgeous deep royal sapphire-blue tetraamminecopper complex."
+    },
+    "practicalFact": {
+      "kk": "Швейцер реактиві — мыс аммиакаты целлюлозаны ерітіп, вискоза талшығын өндіруге пайдаланылады.",
+      "ru": "Раствор Швейцера растворяет хлопок и целлюлозу — основа производства медно-аммиачного шёлка.",
+      "en": "Schweizer's reagent dissolves cellulose for cuprammonium rayon textile manufacturing."
+    }
+  },
+  {
+    "id": "fecl3_nh3_feoh3",
+    "reactants": ["FeCl3", "NH3"],
+    "products": ["Fe(OH)3", "NH4Cl"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(217, 119, 6, 0.65)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "Fe(OH)3",
+        "color": "brown",
+        "hex": "#B45309",
+        "name": { "kk": "Қоңыр тұнба", "ru": "Бурый осадок", "en": "Brown precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "FeCl3 + 3NH3*H2O = Fe(OH)3↓ + 3NH4Cl",
+      "fullIonic": "Fe³⁺ + 3Cl⁻ + 3NH3*H2O = Fe(OH)3↓ + 3NH4⁺ + 3Cl⁻",
+      "netIonic": "Fe³⁺ + 3NH3*H2O = Fe(OH)3↓ + 3NH4⁺"
+    },
+    "explanation": {
+      "kk": "Аммиак суының сілтілік ортасы Fe(III) иондарымен қоңыр түсті гидроксид тұнбасын түзеді.",
+      "ru": "Слабое основание гидрат аммиака осаждает катионы трёхвалентного железа.",
+      "en": "Aqueous ammonia precipitates iron(III) as gelatinous rust-brown hydroxide."
+    },
+    "practicalFact": {
+      "kk": "Аммиак әлсіз негіз болғандықтан, Fe(OH)3 оның артық мөлшерінде қайта ерімейді.",
+      "ru": "В отличие от цинка и меди, гидроксид железа(III) не растворяется в избытке аммиака.",
+      "en": "Unlike copper, iron(III) hydroxide does not form soluble amine complexes in excess ammonia."
+    }
+  },
+  {
+    "id": "agno3_ki_agi",
+    "reactants": ["AgNO3", "KI"],
+    "products": ["AgI", "KNO3"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(254, 240, 138, 0.2)",
+      "precipitate": {
+        "formula": "AgI",
+        "color": "yellow",
+        "hex": "#FEF08A",
+        "name": { "kk": "Ашық сары тұнба", "ru": "Жёлтый осадок", "en": "Yellow precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "AgNO3 + KI = AgI↓ + KNO3",
+      "fullIonic": "Ag⁺ + NO3⁻ + K⁺ + I⁻ = AgI↓ + K⁺ + NO3⁻",
+      "netIonic": "Ag⁺ + I⁻ = AgI↓"
+    },
+    "explanation": {
+      "kk": "Күміс нитраты йодидпен әрекеттесіп ашық сары түсті AgI тұнбасын түзеді.",
+      "ru": "Выпадает бледно-жёлтый осадок иодида серебра, нерастворимый даже в концентрированном аммиаке.",
+      "en": "Precipitates pale yellow silver iodide, insoluble even in concentrated ammonia."
+    },
+    "practicalFact": {
+      "kk": "Күміс йодидінің микрокристалдары бұлттарды сеуіп, жаңбыр шақыру үшін авиацияда қолданылады.",
+      "ru": "Кристаллы AgI распыляют с самолётов для вызывания искусственного дождя и разгона облаков.",
+      "en": "Silver iodide crystals are seeded into storm clouds by aircraft to induce rain."
+    }
+  },
+  {
+    "id": "pbno32_h2so4_pbso4",
+    "reactants": ["Pb(NO3)2", "H2SO4"],
+    "products": ["PbSO4", "HNO3"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(240, 249, 255, 0.35)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "PbSO4",
+        "color": "white",
+        "hex": "#F8FAFC",
+        "name": { "kk": "Ақ тұнба", "ru": "Белый осадок", "en": "White precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Pb(NO3)2 + H2SO4 = PbSO4↓ + 2HNO3",
+      "fullIonic": "Pb²⁺ + 2NO3⁻ + 2H⁺ + SO4²⁻ = PbSO4↓ + 2H⁺ + 2NO3⁻",
+      "netIonic": "Pb²⁺ + SO4²⁻ = PbSO4↓"
+    },
+    "explanation": {
+      "kk": "Қорғасын(II) ионы күкірт қышқылымен ақ қорғасын сульфаты тұнбасын түзеді.",
+      "ru": "Ионы свинца образуют с сульфатами белый осадок PbSO4.",
+      "en": "Lead(II) ions form a white insoluble precipitate of lead(II) sulfate with sulfuric acid."
+    },
+    "practicalFact": {
+      "kk": "PbSO4 автомобиль қорғасын-қышқылды аккумуляторлары заряды біткенде пластиналарда жиналады.",
+      "ru": "Сульфат свинца образуется на пластинах автомобильных аккумуляторов при разряде (сульфатация).",
+      "en": "Lead sulfate forms on lead-acid car battery plates during battery discharge."
+    }
+  },
+  {
+    "id": "litmus_in_acid",
+    "reactants": ["Litmus", "HCl"],
+    "products": ["Litmus_Acid"],
+    "type": "indicator",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(168, 85, 247, 0.7)",
+      "solutionColorTo": "rgba(239, 68, 68, 0.8)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Лакмус (күлгін) + H⁺ = Лакмус (қызыл)",
+      "fullIonic": "Ind⁻ + H⁺ = HInd (қызыл / красный)",
+      "netIonic": "Ind⁻ + H⁺ = HInd"
+    },
+    "explanation": {
+      "kk": "Қышқылдық ортада (H⁺) күлгін лакмус ашық қызыл түске боялады.",
+      "ru": "В кислой среде (pH < 4.5) фиолетовый лакмус мгновенно краснеет.",
+      "en": "In acidic media (pH < 4.5), neutral purple litmus shifts to vivid red."
+    },
+    "practicalFact": {
+      "kk": "Ертеде лакмусты қыналардан (лишайник) арнайы бөліп алған тұңғыш химиялық индикатор.",
+      "ru": "Древнейший индикатор, открытый алхимиком Арнальдо де Виланова ещё в 1300 году.",
+      "en": "The oldest known chemical indicator, extracted from lichens around the year 1300."
+    }
+  },
+  {
+    "id": "litmus_in_base",
+    "reactants": ["Litmus", "NaOH"],
+    "products": ["Litmus_Base"],
+    "type": "indicator",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(168, 85, 247, 0.7)",
+      "solutionColorTo": "rgba(37, 99, 235, 0.85)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Лакмус (күлгін) + OH⁻ = Лакмус (көк)",
+      "fullIonic": "HInd + OH⁻ = Ind⁻ (көк / синий) + H2O",
+      "netIonic": "HInd + OH⁻ = Ind⁻ + H2O"
+    },
+    "explanation": {
+      "kk": "Сілтілік ортада (OH⁻) лакмус көк түске өзгереді.",
+      "ru": "В щелочной среде лакмус приобретает насыщенный синий цвет.",
+      "en": "In basic media, litmus turns deep blue due to ionization."
+    },
+    "practicalFact": {
+      "kk": "«Лакмус қағазы» сөзі өмірде кез келген сенімді сынақтың синониміне айналған.",
+      "ru": "Выражение «лакмусовая бумажка» стало метафорой надёжной проверки в любом деле.",
+      "en": "The phrase 'litmus test' is widely used as a metaphor for a definitive test."
+    }
+  },
+  {
+    "id": "phenolphthalein_in_base",
+    "reactants": ["Phenolphthalein", "NaOH"],
+    "products": ["Phenolphthalein_Base"],
+    "type": "indicator",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(255, 255, 255, 0.2)",
+      "solutionColorTo": "rgba(236, 72, 153, 0.85)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Фенолфталеин (түссіз) + OH⁻ = Таңқурай түсті (малиновый)",
+      "fullIonic": "H2Ind (түссіз) + 2OH⁻ = Ind²⁻ (таңқурай) + 2H2O",
+      "netIonic": "H2Ind + 2OH⁻ = Ind²⁻ + 2H2O"
+    },
+    "explanation": {
+      "kk": "Фенолфталеин бейтарап және қышқылда түссіз, бірақ сілтіде (pH > 8.2) ашық таңқурай (қызғылт) түске енеді.",
+      "ru": "«Фенолфталеиновый в щёлочи — малиновый!» При pH > 8.2 раствор мгновенно окрашивается в яркий малиновый цвет.",
+      "en": "Phenolphthalein turns strikingly bright pink/magenta in alkaline conditions (pH > 8.2)."
+    },
+    "practicalFact": {
+      "kk": "Титриметрияда қышқыл-негіздік титрлеудің соңғы нүктесін дәл анықтауға қолданылады.",
+      "ru": "Самый популярный индикатор для точного кислотно-основного титрования в аналитической химии.",
+      "en": "The gold standard indicator in acid-base titration endpoint determination."
+    }
+  },
+  {
+    "id": "methylorange_in_acid",
+    "reactants": ["MethylOrange", "HCl"],
+    "products": ["MethylOrange_Acid"],
+    "type": "indicator",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(249, 115, 22, 0.8)",
+      "solutionColorTo": "rgba(225, 29, 72, 0.9)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Метилоранж (қызғылт сары) + H⁺ = Қызыл түс",
+      "fullIonic": "Ind⁻ + H⁺ = HInd (қызыл / красный)",
+      "netIonic": "Ind⁻ + H⁺ = HInd"
+    },
+    "explanation": {
+      "kk": "Қышқыл қосқанда қызғылт сары метилоранж ашық қызыл түске өзгереді.",
+      "ru": "В кислой среде (pH < 3.1) метилоранж переходит в ярко-розово-красную форму.",
+      "en": "In acidic media (pH < 3.1), methyl orange shifts to intense reddish-pink."
+    },
+    "practicalFact": {
+      "kk": "Әлсіз негіздерді күшті қышқылмен титрлеуге ең қолайлы индикатор.",
+      "ru": "Идеален для титрования слабых оснований сильными кислотами благодаря низкому интервалу перехода.",
+      "en": "Optimal indicator for titration of weak bases with strong acids."
+    }
+  },
+  {
+    "id": "methylorange_in_base",
+    "reactants": ["MethylOrange", "NaOH"],
+    "products": ["MethylOrange_Base"],
+    "type": "indicator",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(249, 115, 22, 0.8)",
+      "solutionColorTo": "rgba(234, 179, 8, 0.9)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Метилоранж + OH⁻ = Сары түс",
+      "fullIonic": "HInd + OH⁻ = Ind⁻ (сары / жёлтый) + H2O",
+      "netIonic": "HInd + OH⁻ = Ind⁻ + H2O"
+    },
+    "explanation": {
+      "kk": "Сілті қосқанда метилоранж таза сары түске боялады.",
+      "ru": "В щелочной среде окраска метилового оранжевого становится чисто жёлтой.",
+      "en": "In alkaline solution, methyl orange displays a pure clear yellow color."
+    },
+    "practicalFact": {
+      "kk": "Метилоранж түсінің өзгеру аралығы: pH 3.1 (қызыл) — 4.4 (сары).",
+      "ru": "Интервал перехода окраски метилоранжа лежит в узком диапазоне pH 3.1–4.4.",
+      "en": "Transition interval of methyl orange is confined to pH 3.1 to 4.4."
+    }
+  },
+  {
+    "id": "neutralize_pink_phenolphthalein",
+    "reactants": ["Phenolphthalein", "NaOH", "HCl"],
+    "products": ["NaCl", "H2O", "Phenolphthalein"],
+    "type": "neutralization",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(236, 72, 153, 0.85)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": null,
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "NaOH + HCl + Фенолфталеин = NaCl + H2O (түссіздену)",
+      "fullIonic": "OH⁻ + H⁺ = H2O",
+      "netIonic": "H⁺ + OH⁻ = H2O"
+    },
+    "explanation": {
+      "kk": "Сілтісі бар таңқурай түсті ерітіндіге қышқыл қосқанда, бейтараптану жүріп ерітінді қайтадан толық түссізденеді.",
+      "ru": "При добавлении кислоты к малиновому раствору щёлочи происходит нейтрализация и окраска полностью обесцвечивается.",
+      "en": "Adding acid to the magenta basic solution neutralizes the hydroxide, completely discharging the color back to clear."
+    },
+    "practicalFact": {
+      "kk": "Бұл тәжірибе бейтараптану нүктесінің дәл жеткенін көзбен көруге мүмкіндік береді.",
+      "ru": "Наглядная демонстрация достижения точки эквивалентности при нейтрализации.",
+      "en": "Vivid proof of reaching the stoichiometric equivalence point during titration."
+    }
+  },
+  {
+    "id": "cu_agno3_ag",
+    "reactants": ["Cu", "AgNO3"],
+    "products": ["Cu(NO3)2", "Ag"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.4)",
+      "solutionColorTo": "rgba(14, 165, 233, 0.5)",
+      "precipitate": {
+        "formula": "Ag",
+        "color": "gray",
+        "hex": "#94A3B8",
+        "name": { "kk": "Күміс қылқандары («Күміс ағашы»)", "ru": "Серебряные иглы («Серебряное дерево»)", "en": "Silvery needle crystals" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Cu + 2AgNO3 = Cu(NO3)2 + 2Ag↓",
+      "fullIonic": "Cu + 2Ag⁺ + 2NO3⁻ = Cu²⁺ + 2NO3⁻ + 2Ag↓",
+      "netIonic": "Cu + 2Ag⁺ = Cu²⁺ + 2Ag↓"
+    },
+    "explanation": {
+      "kk": "Мыс сымын күміс нитратына салғанда жылтыр күміс кристалдары өсіп, ерітінді көк түске енеді.",
+      "ru": "Медь вытесняет серебро из раствора нитрата: на проволоке растут блестящие кристаллы серебра, раствор синеет.",
+      "en": "Copper displaces silver, growing glistening needle-like silver crystals while solution turns blue."
+    },
+    "practicalFact": {
+      "kk": "Алхимияда «Диана ағашы» (Arbor Dianae) деп аталған атақты кристалдық тәжірибе.",
+      "ru": "В алхимии этот опыт называли «Деревом Дианы» в честь богини Луны и серебра.",
+      "en": "Historically called the 'Philosopher's Tree' or 'Arbor Dianae' by ancient alchemists."
+    }
+  },
+  {
+    "id": "zn_cuso4_cu",
+    "reactants": ["Zn", "CuSO4"],
+    "products": ["ZnSO4", "Cu"],
+    "type": "displacement",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(56, 189, 248, 0.65)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": {
+        "formula": "Cu",
+        "color": "red",
+        "hex": "#EA580C",
+        "name": { "kk": "Қызыл-қоңыр мыс шөгіндісі", "ru": "Губчатая красная медь", "en": "Spongy red metallic copper" }
+      },
+      "gas": null,
+      "temperature": "exothermic"
+    },
+    "equations": {
+      "molecular": "Zn + CuSO4 = ZnSO4 + Cu↓",
+      "fullIonic": "Zn + Cu²⁺ + SO4²⁻ = Zn²⁺ + SO4²⁻ + Cu↓",
+      "netIonic": "Zn + Cu²⁺ = Zn²⁺ + Cu↓"
+    },
+    "explanation": {
+      "kk": "Мырыш түйіршіктері мысты ығыстырып, көк ерітінді түссізденеді және қызыл мыс шөгеді.",
+      "ru": "Цинк энергично вытесняет медь: раствор обесцвечивается, выпадает губчатый осадок меди.",
+      "en": "Zinc actively displaces copper, discharging the blue color and depositing red copper."
+    },
+    "practicalFact": {
+      "kk": "Даниэль-Якоби гальваникалық элементінің (тұңғыш химиялық ток көзі) негізі осы реакция.",
+      "ru": "Принцип работы знаменитого гальванического элемента Даниэля-Якоби (первой надёжной батареи).",
+      "en": "Forms the chemical basis of the Daniell-Jacobi galvanic electrochemical cell."
+    }
+  },
+  {
+    "id": "caco3_hno3_co2",
+    "reactants": ["CaCO3", "HNO3"],
+    "products": ["Ca(NO3)2", "H2O", "CO2"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(245, 245, 245, 0.8)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "CO2",
+        "intensity": "high",
+        "name": { "kk": "Көмірқышқыл газы", "ru": "Углекислый газ", "en": "Carbon dioxide" }
+      },
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "CaCO3 + 2HNO3 = Ca(NO3)2 + H2O + CO2↑",
+      "fullIonic": "CaCO3 + 2H⁺ + 2NO3⁻ = Ca²⁺ + 2NO3⁻ + H2O + CO2↑",
+      "netIonic": "CaCO3 + 2H⁺ = Ca²⁺ + H2O + CO2↑"
+    },
+    "explanation": {
+      "kk": "Азот қышқылы кальций карбонатын көмірқышқыл газын қарқынды бөле отырып ерітеді.",
+      "ru": "Азотная кислота легко растворяет карбонат кальция с шипением (выделение CO2).",
+      "en": "Nitric acid readily dissolves calcium carbonate with effervescence of CO2."
+    },
+    "practicalFact": {
+      "kk": "Түзілген кальций нитраты (норвегиялық селитра) ауыл шаруашылығында бағалы тыңайтқыш.",
+      "ru": "Кальциевая селитра Ca(NO3)2 — важнейшее водорастворимое азотно-кальциевое удобрение.",
+      "en": "Calcium nitrate is an important agricultural water-soluble fertilizer."
+    }
+  },
+  {
+    "id": "fecl3_koh_feoh3",
+    "reactants": ["FeCl3", "KOH"],
+    "products": ["Fe(OH)3", "KCl"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(217, 119, 6, 0.65)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.2)",
+      "precipitate": {
+        "formula": "Fe(OH)3",
+        "color": "brown",
+        "hex": "#B45309",
+        "name": { "kk": "Қоңыр тұнба", "ru": "Бурый осадок", "en": "Rust-brown precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "FeCl3 + 3KOH = Fe(OH)3↓ + 3KCl",
+      "fullIonic": "Fe³⁺ + 3Cl⁻ + 3K⁺ + 3OH⁻ = Fe(OH)3↓ + 3K⁺ + 3Cl⁻",
+      "netIonic": "Fe³⁺ + 3OH⁻ = Fe(OH)3↓"
+    },
+    "explanation": {
+      "kk": "Калий гидроксиді мен темір(III) хлориді әрекеттесіп көлемді қоңыр Fe(OH)3 тұнбасын түзеді.",
+      "ru": "Осаждение трёхвалентного железа едким кали с образованием бурого геля.",
+      "en": "Precipitation of iron(III) by potassium hydroxide forming thick rust-brown gel."
+    },
+    "practicalFact": {
+      "kk": "Fe(OH)3 гелі ағынды суларды тазалауда ластаушы бөлшектерді жинау (коагуляция) үшін қолданылады.",
+      "ru": "Коагуляция солями железа — стандартный промышленный метод очистки питьевой воды.",
+      "en": "Iron hydroxide coagulation is a standard method in municipal wastewater purification."
+    }
+  },
+  {
+    "id": "caoh2_nahco3_caco3",
+    "reactants": ["Ca(OH)2", "NaHCO3"],
+    "products": ["CaCO3", "NaOH", "H2O"],
+    "type": "exchange",
+    "requiresHeating": false,
+    "effects": {
+      "solutionColorFrom": "rgba(248, 250, 252, 0.5)",
+      "solutionColorTo": "rgba(240, 249, 255, 0.4)",
+      "precipitate": {
+        "formula": "CaCO3",
+        "color": "white",
+        "hex": "#F8FAFC",
+        "name": { "kk": "Ақ тұнба", "ru": "Белый осадок", "en": "White precipitate" }
+      },
+      "gas": null,
+      "temperature": "neutral"
+    },
+    "equations": {
+      "molecular": "Ca(OH)2 + NaHCO3 = CaCO3↓ + NaOH + H2O",
+      "fullIonic": "Ca²⁺ + 2OH⁻ + Na⁺ + HCO3⁻ = CaCO3↓ + Na⁺ + OH⁻ + H2O",
+      "netIonic": "Ca²⁺ + OH⁻ + HCO3⁻ = CaCO3↓ + H2O"
+    },
+    "explanation": {
+      "kk": "Әк суына ас содасын қосқанда кальций карбонатының ақ тұнбасы түзіледі.",
+      "ru": "Известковая вода реагирует с гидрокарбонатом натрия с выпадением белого осадка мела.",
+      "en": "Limewater reacts with sodium bicarbonate precipitating white calcium carbonate."
+    },
+    "practicalFact": {
+      "kk": "Судың уақытша кермектігін әк суымен жұмсарту (әктеу әдісі) осы реакцияға негізделген.",
+      "ru": "Известковый метод умягчения воды — устранение гидрокарбонатной (временной) жёсткости.",
+      "en": "The lime-softening process removes temporary water hardness via this exact reaction."
+    }
+  },
+  {
+    "id": "heat_nh3_gas",
+    "reactants": ["NH3"],
+    "products": ["NH3_gas"],
+    "type": "decomposition",
+    "requiresHeating": true,
+    "effects": {
+      "solutionColorFrom": "rgba(241, 245, 249, 0.4)",
+      "solutionColorTo": "rgba(224, 242, 254, 0.3)",
+      "precipitate": null,
+      "gas": {
+        "formula": "NH3",
+        "intensity": "high",
+        "name": { "kk": "Өткір иісті аммиак газы", "ru": "Газ аммиак с резким запахом", "en": "Pungent ammonia gas" }
+      },
+      "temperature": "endothermic"
+    },
+    "equations": {
+      "molecular": "NH3*H2O =(t°)=> NH3↑ + H2O",
+      "fullIonic": "NH3*H2O =(t°)=> NH3↑ + H2O",
+      "netIonic": "NH3*H2O =(t°)=> NH3↑ + H2O"
+    },
+    "explanation": {
+      "kk": "Аммиак суын қыздырғанда одан өткір иісті газ тәрізді аммиак бөлініп ұшады.",
+      "ru": "При нагревании раствор аммиака разлагается с бурным выделением летучего газа аммиака.",
+      "en": "Heating aqueous ammonia expels gaseous ammonia due to reduced gas solubility at high temp."
+    },
+    "practicalFact": {
+      "kk": "Аммиак ауадан жеңіл (D_ауа = 0.59), сондықтан оны аударылған сынауыққа жинайды.",
+      "ru": "Аммиак почти вдвое легче воздуха, поэтому в лаборатории его собирают в перевёрнутую пробирку.",
+      "en": "Ammonia is significantly lighter than air and is collected in an inverted test tube."
+    }
+  }
+]

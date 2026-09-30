@@ -1,0 +1,22 @@
+[
+  { "symbol": "Li", "name": { "kk": "Литий", "ru": "Литий", "en": "Lithium" }, "potential": -3.04, "displacesHydrogenFromWater": true, "displacesHydrogenFromAcid": true },
+  { "symbol": "K", "name": { "kk": "Калий", "ru": "Калий", "en": "Potassium" }, "potential": -2.93, "displacesHydrogenFromWater": true, "displacesHydrogenFromAcid": true },
+  { "symbol": "Ba", "name": { "kk": "Барий", "ru": "Барий", "en": "Barium" }, "potential": -2.91, "displacesHydrogenFromWater": true, "displacesHydrogenFromAcid": true },
+  { "symbol": "Ca", "name": { "kk": "Кальций", "ru": "Кальций", "en": "Calcium" }, "potential": -2.87, "displacesHydrogenFromWater": true, "displacesHydrogenFromAcid": true },
+  { "symbol": "Na", "name": { "kk": "Натрий", "ru": "Натрий", "en": "Sodium" }, "potential": -2.71, "displacesHydrogenFromWater": true, "displacesHydrogenFromAcid": true },
+  { "symbol": "Mg", "name": { "kk": "Магний", "ru": "Магний", "en": "Magnesium" }, "potential": -2.37, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Al", "name": { "kk": "Алюминий", "ru": "Алюминий", "en": "Aluminum" }, "potential": -1.66, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Mn", "name": { "kk": "Марганец", "ru": "Марганец", "en": "Manganese" }, "potential": -1.18, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Zn", "name": { "kk": "Мырыш", "ru": "Цинк", "en": "Zinc" }, "potential": -0.76, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Cr", "name": { "kk": "Хром", "ru": "Хром", "en": "Chromium" }, "potential": -0.74, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Fe", "name": { "kk": "Темір", "ru": "Железо", "en": "Iron" }, "potential": -0.44, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Ni", "name": { "kk": "Никель", "ru": "Никель", "en": "Nickel" }, "potential": -0.25, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Sn", "name": { "kk": "Қалайы", "ru": "Олово", "en": "Tin" }, "potential": -0.14, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "Pb", "name": { "kk": "Қорғасын", "ru": "Свинец", "en": "Lead" }, "potential": -0.13, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": true },
+  { "symbol": "H2", "name": { "kk": "Сутек", "ru": "Водород", "en": "Hydrogen" }, "potential": 0.00, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": false },
+  { "symbol": "Cu", "name": { "kk": "Мыс", "ru": "Медь", "en": "Copper" }, "potential": 0.34, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": false },
+  { "symbol": "Hg", "name": { "kk": "Сынап", "ru": "Ртуть", "en": "Mercury" }, "potential": 0.79, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": false },
+  { "symbol": "Ag", "name": { "kk": "Күміс", "ru": "Серебро", "en": "Silver" }, "potential": 0.80, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": false },
+  { "symbol": "Pt", "name": { "kk": "Платина", "ru": "Платина", "en": "Platinum" }, "potential": 1.20, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": false },
+  { "symbol": "Au", "name": { "kk": "Алтын", "ru": "Золото", "en": "Gold" }, "potential": 1.50, "displacesHydrogenFromWater": false, "displacesHydrogenFromAcid": false }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "formula": "Ga",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Галлий металы адам қолының жылуынан еріп кетеді: оның балқу температурасы небәрі 29,76 °C.",
+    "ru": "Металл галлий плавится прямо на ладони: его температура плавления составляет всего 29,76 °C.",
+    "en": "Gallium metal melts in the palm of your hand, having a melting point of just 29.76 °C."
+  },
+  {
+    "id": 2,
+    "formula": "O₂",
+    "category": { "kk": "Газдар", "ru": "Газы", "en": "Gases" },
+    "kk": "Сұйық оттегі ашық көгілдір түсті болып келеді және күшті парамагниттік қасиетке ие (магнитке тартылады).",
+    "ru": "Жидкий кислород имеет нежно-голубой цвет и обладает сильными парамагнитными свойствами.",
+    "en": "Liquid oxygen has a pale blue tint and is strongly paramagnetic, being attracted by magnets."
+  },
+  {
+    "id": 3,
+    "formula": "C",
+    "category": { "kk": "Бейметалдар", "ru": "Неметаллы", "en": "Non-metals" },
+    "kk": "Алмаз бен графит екеуі де таза көміртектен тұрады, бірақ кристалдық торының айырмашылығына байланысты қасиеттері мүлде кереғар.",
+    "ru": "Алмаз и графит состоят исключительно из углерода, но различия в кристаллической решётке делают их свойства диаметрально противоположными.",
+    "en": "Diamond and graphite are both pure carbon, yet their different crystal lattices yield opposite physical properties."
+  },
+  {
+    "id": 4,
+    "formula": "H₂O",
+    "category": { "kk": "Қосылыстар", "ru": "Соединения", "en": "Compounds" },
+    "kk": "Су қату кезінде көлемін шамамен 9%-ға ұлғайтатын сирек заттардың бірі. Осы аномалияның арқасында мұз су бетінде қалқып жүреді.",
+    "ru": "Вода — одно из немногих веществ, расширяющихся при замерзании (примерно на 9%), благодаря чему лёд плавает на поверхности.",
+    "en": "Water expands by about 9% upon freezing, a rare density anomaly allowing ice to float on water."
+  },
+  {
+    "id": 5,
+    "formula": "Au",
+    "category": { "kk": "Асыл металдар", "ru": "Благородные металлы", "en": "Precious metals" },
+    "kk": "1 грамм алтынды созу арқылы ұзындығы 2 шақырымнан асатын аса жіңішке сым алуға болады.",
+    "ru": "Всего из одного грамма золота можно вытянуть тончайшую проволоку длиной более двух километров.",
+    "en": "Just one gram of gold can be drawn into a thin wire over two kilometers long."
+  },
+  {
+    "id": 6,
+    "formula": "He",
+    "category": { "kk": "Асыл газдар", "ru": "Благородные газы", "en": "Noble gases" },
+    "kk": "Гелий — Жерде емес, алдымен Күн спектрін зерттеу кезінде (1868 жылы) ашылған жалғыз элемент.",
+    "ru": "Гелий — единственный элемент, который сначала открыли на Солнце (в 1868 году) и лишь затем нашли на Земле.",
+    "en": "Helium is the only element first discovered in the solar spectrum (1868) before being found on Earth."
+  },
+  {
+    "id": 7,
+    "formula": "W",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Вольфрам барлық металдардың ішіндегі ең жоғары балқу температурасына ие: 3422 °C.",
+    "ru": "Вольфрам обладает самой высокой температурой плавления среди всех металлов: целых 3422 °C.",
+    "en": "Tungsten has the highest melting point of all pure metals at an astounding 3422 °C."
+  },
+  {
+    "id": 8,
+    "formula": "NaCl",
+    "category": { "kk": "Тұздар", "ru": "Соли", "en": "Salts" },
+    "kk": "Ас тұзы улы хлор газы мен сумен шабытты әрекеттесетін белсенді натрий металынан тұрады, бірақ өмір үшін қажетті қосылыс.",
+    "ru": "Поваренная соль состоит из ядовитого хлора и взрывоопасного натрия, однако необходима для жизни всех живых организмов.",
+    "en": "Table salt is composed of explosive sodium and poisonous chlorine gas, yet it is essential for life."
+  },
+  {
+    "id": 9,
+    "formula": "Hg",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Сынап — бөлме температурасында (20 °C) сұйық күйде болатын жалғыз қарапайым металл.",
+    "ru": "Ртуть — единственный металл, находящийся в жидком агрегатном состоянии при комнатной температуре.",
+    "en": "Mercury is the only metal that remains in a liquid state at standard room temperature."
+  },
+  {
+    "id": 10,
+    "formula": "Br₂",
+    "category": { "kk": "Галогендер", "ru": "Галогены", "en": "Halogens" },
+    "kk": "Бром — бөлме температурасында сұйық күйде болатын жалғыз бейметалл (қоңыр-қызыл түсті ауыр сұйықтық).",
+    "ru": "Бром — единственный жидкий неметалл при нормальных условиях, представляющий собой красно-бурую жидкость.",
+    "en": "Bromine is the only non-metallic element that is a liquid at room temperature."
+  },
+  {
+    "id": 11,
+    "formula": "C₈H₁₀N₄O₂",
+    "category": { "kk": "Органика", "ru": "Органика", "en": "Organics" },
+    "kk": "Кофеин табиғатта өсімдіктердің жәндіктер мен паразиттерден қорғануы үшін табиғи пестицид ретінде синтезделеді.",
+    "ru": "Кофеин синтезируется растениями как естественный природный пестицид для защиты от вредных насекомых.",
+    "en": "Caffeine is produced by plants as a natural pesticide to paralyze and kill harmful insects."
+  },
+  {
+    "id": 12,
+    "formula": "F₂",
+    "category": { "kk": "Галогендер", "ru": "Галогены", "en": "Halogens" },
+    "kk": "Фтор — химиялық тұрғыдан ең белсенді бейметалл. Ол суды, шыныны және тіпті кейбір асыл газдарды тотықтыра алады.",
+    "ru": "Фтор — самый электроотрицательный и реакционноспособный элемент, поджигающий воду и разрушающий стекло.",
+    "en": "Fluorine is the most chemically reactive and electronegative element, reacting with water and glass."
+  },
+  {
+    "id": 13,
+    "formula": "CO₂",
+    "category": { "kk": "Газдар", "ru": "Газы", "en": "Gases" },
+    "kk": "«Құрғақ мұз» — қатты күйдегі көмірқышқыл газы. Ол қызған кезде ерімей, тікелей газға айналады (сублимация).",
+    "ru": "«Сухой лёд» — твёрдый углекислый газ, который при обычном давлении минует жидкую фазу, сублимируя прямо в газ.",
+    "en": "Dry ice is solid carbon dioxide that sublimates directly into gas at standard atmospheric pressure."
+  },
+  {
+    "id": 14,
+    "formula": "Cs",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Цезий металы сумен өте қарқынды әрекеттесіп, шыны сауытты бір сәтте жарып жіберетін күшті қопарылыс тудырады.",
+    "ru": "Цезий реагирует с водой столь бурно, что реакция сопровождается мощным взрывом даже при температуре льда.",
+    "en": "Caesium reacts violently with water, causing instantaneous hydrogen explosions that shatter glass."
+  },
+  {
+    "id": 15,
+    "formula": "C₆₀",
+    "category": { "kk": "Нанохимия", "ru": "Нанохимия", "en": "Nanochemistry" },
+    "kk": "Фуллерен (C₆₀) футбол добына ұқсайтын 60 көміртек атомынан тұратын ерекше молекулалық құрылымға ие.",
+    "ru": "Молекула фуллерена C₆₀ состоит из 60 атомов углерода и напоминает идеальный футбольный мяч.",
+    "en": "The buckminsterfullerene molecule C₆₀ contains 60 carbon atoms shaped like a spherical soccer ball."
+  },
+  {
+    "id": 16,
+    "formula": "Pt",
+    "category": { "kk": "Катализаторлар", "ru": "Катализаторы", "en": "Catalysts" },
+    "kk": "Платина заманауи автокөліктерде улы газдарды (CO, NOₓ) қауіпсіз заттарға айналдыратын катализатор ретінде қолданылады.",
+    "ru": "Платина — ключевой катализатор в автомобилях, нейтрализующий токсичные угарный газ и оксиды азота.",
+    "en": "Platinum serves as a vital catalytic converter material, converting toxic car exhaust into harmless gases."
+  },
+  {
+    "id": 17,
+    "formula": "H₂",
+    "category": { "kk": "Ғарыш", "ru": "Космос", "en": "Cosmos" },
+    "kk": "Сутек — Ғаламдағы ең көп таралған элемент: ол көрінетін ғарыштың барлық атомдарының шамамен 75%-ын құрайды.",
+    "ru": "Водород — самый распространенный элемент во Вселенной, составляющий около 75% всей обычной материи.",
+    "en": "Hydrogen is the most abundant element in the universe, making up roughly 75% of baryonic mass."
+  },
+  {
+    "id": 18,
+    "formula": "Fe",
+    "category": { "kk": "Биохимия", "ru": "Биохимия", "en": "Biochemistry" },
+    "kk": "Адам қанындағы гемоглобин молекуласының орталығында темір ионы (Fe²⁺) орналасқан, ол қанға қызыл түс береді.",
+    "ru": "Красный цвет крови обусловлен ионами железа (Fe²⁺) в центре молекулы гемоглобина, переносящего кислород.",
+    "en": "The red color of blood stems from iron ions (Fe²⁺) situated at the core of each hemoglobin molecule."
+  },
+  {
+    "id": 19,
+    "formula": "Cu",
+    "category": { "kk": "Биохимия", "ru": "Биохимия", "en": "Biochemistry" },
+    "kk": "Сегізаяқтар мен шаянтәрізділердің қаны көгілдір: оларда оттегіні темір емес, құрамында мыс бар гемоцианин тасымалдайды.",
+    "ru": "У осьминогов кровь голубая: вместо железа кислород переносит белок гемоцианин, содержащий медь.",
+    "en": "Octopuses have blue blood because their oxygen-binding molecule, hemocyanin, relies on copper."
+  },
+  {
+    "id": 20,
+    "formula": "O₃",
+    "category": { "kk": "Атмосфера", "ru": "Атмосфера", "en": "Atmosphere" },
+    "kk": "Озон қабаты Жер шарын ультракүлгін сәулелерден қорғайды. Оның өткір иісі найзағай жарқылдағаннан кейін анық сезіледі.",
+    "ru": "Озоновый слой защищает биосферу от губительного ультрафиолета; характерный запах озона ощутим после грозы.",
+    "en": "The ozone layer shields Earth from UV rays; ozone's sharp, clean scent is noticeable after lightning."
+  },
+  {
+    "id": 21,
+    "formula": "N₂",
+    "category": { "kk": "Атмосфера", "ru": "Атмосфера", "en": "Atmosphere" },
+    "kk": "Жер атмосферасының 78%-ын азот газы құрайды. Оның молекуласындағы үштік байланыс өте берік болғандықтан, ол өте инертті.",
+    "ru": "Атмосфера Земли на 78% состоит из азота; мощная тройная связь N≡N делает его исключительно инертным.",
+    "en": "Nitrogen makes up 78% of Earth's atmosphere, held by an exceptionally stable N≡N triple bond."
+  },
+  {
+    "id": 22,
+    "formula": "Os",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Осмий — белгілі элементтердің ішіндегі ең тығызы: 1 литр осмий шамамен 22,6 килограмм тартады.",
+    "ru": "Осмий — самый плотный из стабильных химических элементов: литровая бутыль осмия весит около 22,6 кг.",
+    "en": "Osmium is the densest naturally occurring element: one liter weighs around 22.6 kilograms."
+  },
+  {
+    "id": 23,
+    "formula": "Si",
+    "category": { "kk": "Жартылай өткізгіштер", "ru": "Полупроводники", "en": "Semiconductors" },
+    "kk": "Кремний — барлық заманауи компьютерлік процессорлар мен микрочиптердің негізгі жартылай өткізгіш өзегі.",
+    "ru": "Кремний высокой чистоты лежит в основе всех микрочипов, компьютерных процессоров и солнечных панелей.",
+    "en": "Ultra-pure silicon forms the semiconductor foundation of modern microchips and computer processors."
+  },
+  {
+    "id": 24,
+    "formula": "P₄",
+    "category": { "kk": "Бейметалдар", "ru": "Неметаллы", "en": "Non-metals" },
+    "kk": "Ақ фосфор қараңғыда жасылдау жарық шығарып жарқырайды және ауада өздігінен тұтанып кетеді.",
+    "ru": "Белый фосфор способен светиться в темноте за счёт хемилюминесценции и самовоспламеняется на воздухе.",
+    "en": "White phosphorus glows in the dark through chemiluminescence and ignites spontaneously in air."
+  },
+  {
+    "id": 25,
+    "formula": "H₂SO₄",
+    "category": { "kk": "Қышқылдар", "ru": "Кислоты", "en": "Acids" },
+    "kk": "Күкірт қышқылы химиялық өндірістің кеңдігін сипаттайтын басты өлшем болып табылады («химия өнеркәсібінің наны»).",
+    "ru": "Серную кислоту называют «хлебом химической промышленности», так как объём её выпуска отражает мощь индустрии.",
+    "en": "Sulfuric acid is dubbed the 'king of chemicals'; its production volume correlates with industrial power."
+  },
+  {
+    "id": 26,
+    "formula": "Ne",
+    "category": { "kk": "Асыл газдар", "ru": "Благородные газы", "en": "Noble gases" },
+    "kk": "Нағыз неон жарығы тек қызыл-қызғылт түс береді; басқа түсті неон белгілері аргон, сынап буы немесе люминофор арқылы жасалады.",
+    "ru": "Истинный неон светится только красно-оранжевым светом; другие цвета вывесок создаются аргоном и люминофорами.",
+    "en": "True neon gas glows exclusively reddish-orange; other neon sign colors use argon or phosphors."
+  },
+  {
+    "id": 27,
+    "formula": "Al",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "19 ғасырдың ортасында алюминий алтыннан да қымбат саналған, сондықтан императорлар алюминий қасықтарды пайдаланған.",
+    "ru": "В XIX веке алюминий стоил дороже золота; Наполеон III угощал самых почётных гостей алюминиевыми приборами.",
+    "en": "In the mid-19th century, aluminum was pricier than gold; Napoleon III reserved aluminum cutlery for royalty."
+  },
+  {
+    "id": 28,
+    "formula": "C₂H₅OH",
+    "category": { "kk": "Ғарыш", "ru": "Космос", "en": "Cosmos" },
+    "kk": "Ғарышта этил спирті мен басқа да органикалық молекулалардан тұратын үлкен газ-тозаңды бұлттар бар (мысалы, Стрелец B2).",
+    "ru": "В межзвёздном пространстве открыты гигантские молекулярные облака, содержащие триллионы литров этилового спирта.",
+    "en": "Astronomers discovered interstellar gas clouds (such as Sagittarius B2) containing vast reserves of ethyl alcohol."
+  },
+  {
+    "id": 29,
+    "formula": "DNA",
+    "category": { "kk": "Биохимия", "ru": "Биохимия", "en": "Biochemistry" },
+    "kk": "Адамның бір ғана жасушасындағы ДНҚ спиралін созып қойса, оның ұзындығы 2 метрге жетеді.",
+    "ru": "Длина спирали ДНК, упакованной всего в одной клетке человеческого тела, в развёрнутом виде составляет около 2 метров.",
+    "en": "The DNA molecules packed inside a single human cell would measure roughly 2 meters when stretched out."
+  },
+  {
+    "id": 30,
+    "formula": "Ti",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Титан адамның биологиялық тіндерімен ешбір теріс реакцияға түспейтіндіктен, хирургиялық импланттар үшін ең қолайлы металл.",
+    "ru": "Титан абсолютно биосовместим с тканями организма человека, что делает его идеальным материалом для медицинских имплантов.",
+    "en": "Titanium is biologically inert, allowing bones and tissues to fuse securely with titanium implants."
+  },
+  {
+    "id": 31,
+    "formula": "U",
+    "category": { "kk": "Радиоактивтілік", "ru": "Радиоактивность", "en": "Radioactivity" },
+    "kk": "Қазақстан уран өндіру бойынша әлемде 1-орында тұр және әлемдік уран жеткізілімінің 40%-дан астамын қамтамасыз етеді.",
+    "ru": "Казахстан занимает первое место в мире по добыче урана, обеспечивая свыше 40% мировых поставок.",
+    "en": "Kazakhstan ranks first globally in uranium mining, supplying more than 40% of the world's total output."
+  },
+  {
+    "id": 32,
+    "formula": "H⁺",
+    "category": { "kk": "Қышқылдар", "ru": "Кислоты", "en": "Acids" },
+    "kk": "рН мәні 1 бірлікке азайған сайын сутек иондарының (H⁺) концентрациясы тура 10 есе артады (логарифмдік шкала).",
+    "ru": "Шкала pH логарифмическая: уменьшение pH на единицу означает десятикратный рост концентрации протонов H⁺.",
+    "en": "Because pH is a logarithmic scale, each drop of 1 pH unit represents a tenfold increase in H⁺ ion concentration."
+  },
+  {
+    "id": 33,
+    "formula": "Ag",
+    "category": { "kk": "Асыл металдар", "ru": "Благородные металлы", "en": "Precious metals" },
+    "kk": "Күміс барлық белгілі металдардың ішінде ең жоғары электр өткізгіштікке және жылу өткізгіштікке ие.",
+    "ru": "Серебро обладает рекордной электропроводностью и теплопроводностью среди всех известных металлов.",
+    "en": "Silver boasts the highest electrical and thermal conductivity of any known pure metal."
+  },
+  {
+    "id": 34,
+    "formula": "CH₄",
+    "category": { "kk": "Органика", "ru": "Органика", "en": "Organics" },
+    "kk": "Метан табиғи күйінде мүлдем иіссіз. Қауіпсіздік үшін тұрмыстық газға арнайы иісі бар қосылыстар (меркаптандар) қосылады.",
+    "ru": "Природный газ (метан) не имеет запаха; для обнаружения утечек в него добавляют пахучие меркаптаны.",
+    "en": "Natural methane gas is completely odorless; strong-smelling mercaptans are added to detect household leaks."
+  },
+  {
+    "id": 35,
+    "formula": "K",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Калий суда жана бастаған кезде түзілген сутек газы күлгін-бозғылт түсті жалынмен тұтанып жанады.",
+    "ru": "При взаимодействии калия с водой выделяющийся водород мгновенно воспламеняется красивым фиолетовым пламенем.",
+    "en": "When potassium reacts with water, the released hydrogen burns vigorously with a characteristic lilac flame."
+  },
+  {
+    "id": 36,
+    "formula": "C",
+    "category": { "kk": "Материалдар", "ru": "Материалы", "en": "Materials" },
+    "kk": "Графен — қалыңдығы бір ғана атом болатын көміртек қабаты, бірақ ол болаттан 200 есе берік.",
+    "ru": "Графен представляет собой слой углерода толщиной в один атом, но он в 200 раз прочнее стали на разрыв.",
+    "en": "Graphene is a single atom-thick sheet of carbon, yet it is approximately 200 times stronger than steel."
+  },
+  {
+    "id": 37,
+    "formula": "Rn",
+    "category": { "kk": "Радиоактивтілік", "ru": "Радиоактивность", "en": "Radioactivity" },
+    "kk": "Радон — қалыпты жағдайда ең ауыр газ болып табылатын радиоактивті асыл газ (ауадан 8 есе ауыр).",
+    "ru": "Радон — самый тяжелый газ при стандартных условиях, превышающий плотность воздуха почти в 8 раз.",
+    "en": "Radon is the heaviest naturally occurring noble gas, almost 8 times denser than regular air."
+  },
+  {
+    "id": 38,
+    "formula": "C₆H₁₂O₆",
+    "category": { "kk": "Биохимия", "ru": "Биохимия", "en": "Biochemistry" },
+    "kk": "Глюкоза фотосинтез процесінде күн сәулесінің қуатымен су мен көмірқышқыл газынан түзілетін биосфераның негізгі қуат көзі.",
+    "ru": "Глюкоза — универсальное биохимическое топливо, синтезируемое растениями из углекислого газа и воды.",
+    "en": "Glucose is the universal bioenergetic fuel synthesized by plants through solar-powered photosynthesis."
+  },
+  {
+    "id": 39,
+    "formula": "Xe",
+    "category": { "kk": "Асыл газдар", "ru": "Благородные газы", "en": "Noble gases" },
+    "kk": "Ксенон асыл газ болғанымен, 1962 жылы ғалымдар оның фтормен қосылысын синтездеп, асыл газдардың абсолютті инерттілігі туралы догманы бұзды.",
+    "ru": "Синтез соединений ксенона с фтором в 1962 году опроверг догму об абсолютной химической инертности благородных газов.",
+    "en": "The synthesis of xenon hexafluoroplatinate in 1962 shattered the assumption that noble gases form no compounds."
+  },
+  {
+    "id": 40,
+    "formula": "B",
+    "category": { "kk": "Бейметалдар", "ru": "Неметаллы", "en": "Non-metals" },
+    "kk": "Бор қосылыстары от жалынын қанық жасыл түске бояйды, сондықтан отшашулар мен пиротехникада жиі қолданылады.",
+    "ru": "Соединения бора окрашивают пламя в изумрудно-зелёный цвет, благодаря чему их используют в пиротехнике.",
+    "en": "Boron compounds emit a vivid green flare when ignited, making them popular in colorful pyrotechnics."
+  },
+  {
+    "id": 41,
+    "formula": "Pb",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Қорғасын атомдары рентген және гамма-сәулелерін өте күшті жұтатындықтан, радиациядан қорғайтын қабырғалар мен алжапқыштарда қолданылады.",
+    "ru": "Свинец превосходно поглощает рентгеновское и гамма-излучение благодаря высокой электронной плотности.",
+    "en": "Lead effectively attenuates X-rays and gamma radiation due to its high density and high atomic number."
+  },
+  {
+    "id": 42,
+    "formula": "Li",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Литий — барлық қатты металдардың ішіндегі ең жеңілі (тығыздығы судан екі есе жеңіл, парафинде қалқып жүреді).",
+    "ru": "Литий — наименее плотный твёрдый элемент: он вдвое легче воды и плавает даже в керосине.",
+    "en": "Lithium is the least dense solid element; it floats easily in water and even in mineral oil."
+  },
+  {
+    "id": 43,
+    "formula": "NH₃",
+    "category": { "kk": "Қосылыстар", "ru": "Соединения", "en": "Compounds" },
+    "kk": "Аммиакты ауадағы азоттан синтездеуге мүмкіндік берген Габер-Бош әдісі бүгінде жер бетіндегі ауыл шаруашылығы тыңайтқыштарының негізін құрайды.",
+    "ru": "Процесс Габера-Боша по синтезу аммиака из воздуха кормит почти половину населения Земли благодаря азотным удобрениям.",
+    "en": "The Haber-Bosch ammonia synthesis process underpins global synthetic fertilizers feeding billions."
+  },
+  {
+    "id": 44,
+    "formula": "I₂",
+    "category": { "kk": "Галогендер", "ru": "Галогены", "en": "Halogens" },
+    "kk": "Қатты йод қыздырған кезде сұйыққа айналмай, бірден қанық күлгін буға айналады (сублимация құбылысы).",
+    "ru": "Кристаллический иод при нагревании возгоняется, превращаясь в густые фиолетовые пары минуя жидкость.",
+    "en": "Solid iodine crystals sublime when gently warmed, producing a spectacular, dense violet vapor."
+  },
+  {
+    "id": 45,
+    "formula": "Sr",
+    "category": { "kk": "Пиротехника", "ru": "Пиротехника", "en": "Pyrotechnics" },
+    "kk": "Стронций тұздары пиротехникалық отшашуларға жарқын қызыл түс беретін басты химиялық реагент болып саналады.",
+    "ru": "Соли стронция отвечают за сочный алый и рубиновый цвет сигнальных ракет и праздничных фейерверков.",
+    "en": "Strontium salts generate the brilliant crimson-red colors seen in fireworks and emergency signal flares."
+  },
+  {
+    "id": 46,
+    "formula": "Ba",
+    "category": { "kk": "Пиротехника", "ru": "Пиротехника", "en": "Pyrotechnics" },
+    "kk": "Барий хлориді мен нитраты салюттерге ашық алма-жасыл түс сыйлайды.",
+    "ru": "Нитрат и хлорид бария придают салютам насыщенный яблочно-зеленый оттенок.",
+    "en": "Barium chloride and nitrate yield the vivid apple-green flashes in aerial firework displays."
+  },
+  {
+    "id": 47,
+    "formula": "CH₃COOH",
+    "category": { "kk": "Қышқылдар", "ru": "Кислоты", "en": "Acids" },
+    "kk": "Таза сірке қышқылы 16,6 °C температурада мұз тәрізді кристалдарға айналатындықтан, оны «мұзды сірке қышқылы» деп атайды.",
+    "ru": "Безводную уксусную кислоту называют «ледяной», поскольку она замерзает в ледоподобную массу уже при 16,6 °C.",
+    "en": "Pure acetic acid freezes at 16.6 °C into icy-looking crystal sheets, earning the name 'glacial acetic acid'."
+  },
+  {
+    "id": 48,
+    "formula": "SiO₂",
+    "category": { "kk": "Минералдар", "ru": "Минералы", "en": "Minerals" },
+    "kk": "Кәдімгі құм, кварц кристалы және оптикалық шыны негізінен бір ғана химиялық заттан — кремний диоксидінен тұрады.",
+    "ru": "Обычный кварцевый песок, горный хрусталь и оптическое стекло имеют одинаковую основу — диоксид кремния.",
+    "en": "Common beach sand, natural quartz crystal, and flint are all chemical variations of silicon dioxide."
+  },
+  {
+    "id": 49,
+    "formula": "CaCO₃",
+    "category": { "kk": "Тұздар", "ru": "Соли", "en": "Salts" },
+    "kk": "Бор, әктас және мәрмәр — химиялық формуласы бірдей (CaCO₃) кальций карбонатының әртүрлі физикалық формалары.",
+    "ru": "Мел, известняк и благородный мрамор с химической точки зрения являются одним соединением — карбонатом кальция.",
+    "en": "Chalk, limestone, and metamorphic marble are all physically distinct forms of calcium carbonate."
+  },
+  {
+    "id": 50,
+    "formula": "SO₂",
+    "category": { "kk": "Экология", "ru": "Экология", "en": "Ecology" },
+    "kk": "Күкірт диоксиді ауадағы су буымен әрекеттесіп, топырақ пен ормандарға зиян келтіретін «қышқыл жаңбырларды» түзеді.",
+    "ru": "Выбросы диоксида серы при сгорании угля соединяются с влагой воздуха, образуя разрушительные кислотные дожди.",
+    "en": "Atmospheric sulfur dioxide emissions react with water droplets to form environmentally damaging acid rain."
+  },
+  {
+    "id": 51,
+    "formula": "N₂O",
+    "category": { "kk": "Медицина", "ru": "Медицина", "en": "Medicine" },
+    "kk": "Диазот тотығы (N₂O) адамды тыныштандырып, күлдіретін әсері үшін «күлдіргіш газ» деп аталған және медицинада наркоз ретінде қолданылады.",
+    "ru": "Оксид диазота N₂O известен как «веселящий газ»; он используется в хирургии и стоматологии для мягкой анестезии.",
+    "en": "Nitrous oxide is colloquially known as 'laughing gas', widely used in dentistry for pleasant sedation."
+  },
+  {
+    "id": 52,
+    "formula": "H₂O₂",
+    "category": { "kk": "Тотықтырғыштар", "ru": "Окислители", "en": "Oxidizers" },
+    "kk": "Сутек асқын тотығы жарықтың әсерінен су мен оттегіге тез ыдырайтындықтан, әрқашан қараңғы сауыттарда сақталады.",
+    "ru": "Пероксид водорода разлагается на свету на воду и кислород, поэтому его хранят во флаконах из тёмного стекла.",
+    "en": "Hydrogen peroxide decomposes into water and oxygen under ambient light, requiring opaque brown bottles."
+  },
+  {
+    "id": 53,
+    "formula": "Cr",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Хром — ең қатты таза металл (Моос шкаласы бойынша 8,5 балға жуық), ол тот басуға қарсы жабындарға қажет.",
+    "ru": "Хром является самым твёрдым чистым металлом (8,5 по шкале Мооса) и обеспечивает нержавеющей стали стойкость к коррозии.",
+    "en": "Chromium is the hardest pure metal (around 8.5 on the Mohs scale), imparting corrosion resistance to stainless steel."
+  },
+  {
+    "id": 54,
+    "formula": "ATP",
+    "category": { "kk": "Биохимия", "ru": "Биохимия", "en": "Biochemistry" },
+    "kk": "АТФ молекуласы тірі жасушалардағы макроэргтік байланыстар арқылы барлық бұлшықет пен ойлау энергиясын тасымалдайды.",
+    "ru": "Молекулы АТФ служат универсальной разменной энергетической валютой для всех биохимических реакций в живых клетках.",
+    "en": "Adenosine triphosphate (ATP) functions as the cellular universal energy currency through high-energy bonds."
+  },
+  {
+    "id": 55,
+    "formula": "KMnO₄",
+    "category": { "kk": "Тотықтырғыштар", "ru": "Окислители", "en": "Oxidizers" },
+    "kk": "Калий перманганаты («марганцовка») қанық күлгін түске ие күшті тотықтырғыш, тіпті 1 кристаллы жүздеген литр суды қызғылт түске бояйды.",
+    "ru": "Перманганат калия обладает интенсивной малиново-фиолетовой окраской: один кристалл способен окрасить ведро воды.",
+    "en": "Potassium permanganate has intense violet-magenta staining power; a tiny grain colors an entire bucket of water."
+  },
+  {
+    "id": 56,
+    "formula": "Ne",
+    "category": { "kk": "Ғарыш", "ru": "Космос", "en": "Cosmos" },
+    "kk": "Неон Жер атмосферасында өте сирек кездескенімен, бүкіл Ғалам көлемінде сутек пен гелийден кейінгі ең көп элементтердің бірі.",
+    "ru": "На Земле неон довольно редок, но во Вселенной занимает одно из лидирующих мест по распространенности.",
+    "en": "While scarce in Earth's atmosphere, neon is the fifth most abundant chemical element across the cosmos."
+  },
+  {
+    "id": 57,
+    "formula": "CO",
+    "category": { "kk": "Улар", "ru": "Яды", "en": "Poisons" },
+    "kk": "Иіс газы (CO) адам гемоглобинімен оттегіге қарағанда 200 еседен астам берік байланысып, оттегі жетіспеушілігіне әкеледі.",
+    "ru": "Угарный газ связывается с гемоглобином в 200+ раз прочнее кислорода, необратимо блокируя перенос кислорода к органам.",
+    "en": "Carbon monoxide binds to hemoglobin over 200 times more tenaciously than oxygen, suffocating tissues."
+  },
+  {
+    "id": 58,
+    "formula": "Sn",
+    "category": { "kk": "Металдар", "ru": "Металлы", "en": "Metals" },
+    "kk": "Қатты аязда (13,2 °C төмен) ақ қалайы сұр ұнтаққа айналып үгітіліп кетеді — бұл тарихта «қалайы обасы» деп аталған құбылыс.",
+    "ru": "На морозе белое олово переходит в серую модификацию и рассыпается в порошок — явление «оловянной чумы».",
+    "en": "Below 13.2 °C, metallic white tin transforms allotropically into brittle gray tin powder, termed 'tin pest'."
+  },
+  {
+    "id": 59,
+    "formula": "C₁₀H₁₄N₂",
+    "category": { "kk": "Органика", "ru": "Органика", "en": "Organics" },
+    "kk": "Никотин алкалоиды өсімдіктерде табиғи улағыш инсектицид ретінде қызмет ету үшін тамырларында арнайы жасалады.",
+    "ru": "Никотин — природный алкалоид, вырабатываемый корнями табака для защиты надземных листьев от гусениц.",
+    "en": "Nicotine is synthesized in tobacco plant roots to defend leaves against herbivores as a toxic neurotoxin."
+  },
+  {
+    "id": 60,
+    "formula": "Ar",
+    "category": { "kk": "Асыл газдар", "ru": "Благородные газы", "en": "Noble gases" },
+    "kk": "Аргон грек тілінен аударғанда «жалқау» дегенді білдіреді, өйткені ол химиялық реакцияларға түсуден қатаң бас тартады.",
+    "ru": "Имя аргона происходит от греческого «ленивый», поскольку газ не вступает в реакции при нормальных условиях.",
+    "en": "Argon gets its name from the Greek word for 'inactive' or 'lazy', reflecting its chemical inertness."
+  },
+  {
+    "id": 61,
+    "formula": "Mg",
+    "category": { "kk": "Биохимия", "ru": "Биохимия", "en": "Biochemistry" },
+    "kk": "Өсімдіктерге жасыл түс беретін хлорофилл молекуласының орталығында магний ионы (Mg²⁺) орналасқан.",
+    "ru": "В центре молекулы хлорофилла, улавливающего солнечный свет в листьях растений, расположен ион магния.",
+    "en": "A single magnesium ion (Mg²⁺) sits at the heart of the light-harvesting green chlorophyll molecule."
+  },
+  {
+    "id": 62,
+    "formula": "Au",
+    "category": { "kk": "Ғарыш", "ru": "Космос", "en": "Cosmos" },
+    "kk": "Жер бетіндегі барлық алтын мен платина миллиардтаған жыл бұрын нейтрондық жұлдыздардың соқтығысуынан түзілген.",
+    "ru": "Всё золото и платина во Вселенной родились при колоссальных взрывах сверхновых и столкновениях нейтронных звёзд.",
+    "en": "All heavy precious metals like gold and platinum originated from catastrophic neutron star collisions."
+  },
+  {
+    "id": 63,
+    "formula": "O₂ & N₂",
+    "category": { "kk": "Физика-химия", "ru": "Физхимия", "en": "Physical chem" },
+    "kk": "Аспанның көгілдір түсі атмосферадағы азот пен оттегі молекулаларының күн жарығын шашыратуымен (Рэлей шашырауы) түсіндіріледі.",
+    "ru": "Голубой цвет неба вызван рэлеевским рассеянием коротковолновых солнечных лучей на молекулах азота и кислорода.",
+    "en": "The sky's azure hue results from Rayleigh scattering of shorter solar wavelengths by air molecules."
+  },
+  {
+    "id": 64,
+    "formula": "C₁₂H₂₂O₁₁",
+    "category": { "kk": "Органика", "ru": "Органика", "en": "Organics" },
+    "kk": "Қантты (сахарозаны) концентрлі күкірт қышқылымен әрекеттестіргенде су шығып, үрленген көмір бағанасы түзіледі.",
+    "ru": "При добавлении серной кислоты к сахару происходит дегидратация: сахар мгновенно превращается в пористый уголь.",
+    "en": "Concentrated sulfuric acid dehydrates sugar violently, erupting into a smoking, rising column of pure carbon."
+  },
+  {
+    "id": 65,
+    "formula": "He",
+    "category": { "kk": "Физика-химия", "ru": "Физхимия", "en": "Physical chem" },
+    "kk": "Абсолютті нөлге жақын температурада сұйық гелий аса аққыштық күйге ауысып, сауыттың қабырғасымен жоғары қарай аға алады.",
+    "ru": "При температурах около 2 К жидкий гелий проявляет сверхтекучесть, способную самопроизвольно перетекать через край сосуда.",
+    "en": "At near absolute zero, liquid helium transforms into a superfluid that climbs uphill over container edges."
+  }
+]

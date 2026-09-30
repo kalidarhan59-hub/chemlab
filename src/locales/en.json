@@ -1,0 +1,668 @@
+{
+  "app": {
+    "name": "ChemLab",
+    "tagline": "Interactive Chemistry Universe",
+    "description": "Modern virtual chemistry learning platform for school students, applicants, and science enthusiasts."
+  },
+  "nav": {
+    "home": "Home",
+    "periodicTable": "Periodic Table",
+    "balancer": "Equation Balancer",
+    "lab": "Virtual Lab",
+    "molecules": "3D Molecules",
+    "articles": "Chemistry Around Us",
+    "trainer": "UNT Trainer",
+    "about": "About",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "common": {
+    "start": "Start exploring",
+    "explore": "Explore all modules",
+    "learnMore": "Learn more",
+    "comingSoon": "Coming soon",
+    "inDevelopment": "In development",
+    "backHome": "Back to home",
+    "retry": "Try again",
+    "close": "Close",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "loading": "Loading...",
+    "errorOccurred": "An error occurred",
+    "search": "Search...",
+    "share": "Share",
+    "level": "Level",
+    "points": "Points",
+    "streak": "Day streak",
+    "days": "days",
+    "completed": "Solved tasks",
+    "quickStats": "Quick stats",
+    "status": "Status",
+    "themeLight": "Light theme",
+    "themeDark": "Dark theme",
+    "language": "Language",
+    "safetyFirst": "Lab Safety Rules"
+  },
+  "hero": {
+    "badge": "🔬 Innovative Educational Platform",
+    "titlePart1": "Experience chemistry ",
+    "titleGradient": "visually and intuitively",
+    "titlePart2": " without rote memorization",
+    "subtitle": "Interactive environment: 3D molecular structures, intelligent chemical equation balancer, safe virtual experiments, and exam prep trainer.",
+    "ctaStart": "Start learning",
+    "ctaExplore": "Module catalog",
+    "statsElements": "118 Elements",
+    "statsReactions": "500+ Reactions",
+    "statsInteractive": "100% Free",
+    "activeUsers": "For students and educators"
+  },
+  "progressTracker": {
+    "title": "Your Learning Progress",
+    "subtitle": "Track your daily activity streak, solved exercises, and current chemistry skill level",
+    "levelNovice": "Novice Chemist",
+    "levelIntermediate": "Apprentice",
+    "levelPro": "Master of Chemistry",
+    "streakLabel": "Active Streak",
+    "pointsLabel": "Earned XP Points",
+    "solvedLabel": "Solved Tasks",
+    "continueQuiz": "Continue Training",
+    "zeroState": "Solve your first exercises in the Trainer to unlock personal statistics and day streaks!"
+  },
+  "factOfTheDay": {
+    "badge": "💡 Chemistry Fact of the Day",
+    "title": "Did you know?",
+    "dayOfYear": "Day {{day}} of 365",
+    "shareFact": "Share fact",
+    "nextFactIn": "Next fact in"
+  },
+  "sections": {
+    "title": "Chemistry Modules & Tools",
+    "subtitle": "Intelligent learning tools structured around the secondary school curriculum",
+    "periodicTable": {
+      "title": "Periodic Table",
+      "shortDesc": "Interactive Mendeleev system: electron configurations, trends, atomic radii, and historical facts for all 118 elements.",
+      "badge": "Core Module"
+    },
+    "balancer": {
+      "title": "Equation Balancer",
+      "shortDesc": "Automated stoichiometric equation balancing using Gaussian elimination with step-by-step explanations.",
+      "badge": "Algorithmic"
+    },
+    "lab": {
+      "title": "Virtual Laboratory",
+      "shortDesc": "Safe reagent mixing, precipitate observation, gas evolution, indicators, and virtual lab experiments.",
+      "badge": "Practical"
+    },
+    "molecules": {
+      "title": "3D Molecule Builder",
+      "shortDesc": "Investigate spatial shapes of organic and inorganic molecules, bond angles, and orbital hybridization.",
+      "badge": "3D Spatial"
+    },
+    "articles": {
+      "title": "Chemistry Around Us",
+      "shortDesc": "Engaging articles exploring chemistry in cooking, nature, household items, medicine, and safe home experiments.",
+      "badge": "Articles & Labs"
+    },
+    "trainer": {
+      "title": "Exam Trainer",
+      "shortDesc": "Curated bank of 400+ practice tasks with step-by-step solutions, spaced repetition, and weakness analysis.",
+      "badge": "UNT Preparation"
+    }
+  },
+  "periodicTable": {
+    "title": "Interactive Periodic Table of Elements",
+    "subtitle": "Complete IUPAC 118-element periodic table with thermodynamic simulation, property heatmaps, and 3D atomic orbital models.",
+    "searchPlaceholder": "Search by name, symbol (Fe), atomic number (26), or property...",
+    "quickFilter": "Quick Filters",
+    "views": {
+      "table": "Table",
+      "list": "List",
+      "quiz": "Quiz"
+    },
+    "legend": {
+      "title": "Element Families",
+      "clickToFilter": "Click category to filter grid"
+    },
+    "list": {
+      "sortBy": "Sort by:",
+      "byNumber": "By Number",
+      "byName": "By Name",
+      "byMass": "By Mass",
+      "byElectronegativity": "By Electronegativity",
+      "resetFilters": "Reset filters"
+    },
+    "categories": {
+      "all": "All categories",
+      "alkali-metal": "Alkali metals",
+      "alkaline-earth": "Alkaline earth metals",
+      "transition-metal": "Transition metals",
+      "post-transition-metal": "Post-transition metals",
+      "metalloid": "Metalloids",
+      "reactive-nonmetal": "Reactive nonmetals",
+      "halogen": "Halogens",
+      "noble-gas": "Noble gases",
+      "lanthanide": "Lanthanides",
+      "actinide": "Actinides",
+      "unknown": "Unknown properties"
+    },
+    "blocks": {
+      "all": "All blocks",
+      "s": "s-block",
+      "p": "p-block",
+      "d": "d-block",
+      "f": "f-block"
+    },
+    "states": {
+      "all": "All states",
+      "solid": "Solid",
+      "liquid": "Liquid",
+      "gas": "Gas",
+      "unknown": "Unknown"
+    },
+    "discovery": {
+      "label": "Discovery Year",
+      "ancient": "Antiquity"
+    },
+    "temperature": {
+      "label": "Temperature Simulator",
+      "presets": {
+        "absoluteZero": "Absolute Zero (0 K)",
+        "icePoint": "Water Freezing Point (273 K)",
+        "room": "Room Temp (298 K / 25°C)",
+        "waterBoiling": "Water Boiling Point (373 K)",
+        "sunSurface": "Sun Surface (5778 K)"
+      }
+    },
+    "heatmap": {
+      "label": "Property Heatmap",
+      "none": "No Heatmap",
+      "electronegativity": "Electronegativity",
+      "atomicMass": "Atomic Mass",
+      "density": "Density (g/cm³)",
+      "meltingPoint": "Melting Point (K)",
+      "boilingPoint": "Boiling Point (K)",
+      "low": "Low",
+      "high": "High"
+    },
+    "quiz": {
+      "title": "Periodic Table Quiz",
+      "findPrompt": "Locate this element in the table:",
+      "score": "Score",
+      "streak": "Streak",
+      "bestStreak": "Best Streak",
+      "correct": "Correct! Excellent choice!",
+      "incorrect": "Incorrect. The target element was {{name}} ({{symbol}})",
+      "hintButton": "Hint",
+      "hint": "Element is located in Period {{period}}, Group {{group}}",
+      "skip": "Skip",
+      "restart": "Restart"
+    },
+    "details": {
+      "category": "Properties",
+      "block": "Electron Block",
+      "period": "Period",
+      "group": "Group",
+      "electronegativity": "Electronegativity (Pauling)",
+      "state": "State of Matter at 25°C",
+      "density": "Density",
+      "meltingPoint": "Melting Point",
+      "boilingPoint": "Boiling Point",
+      "electronConfig": "Electron Configuration",
+      "oxidationStates": "Oxidation States",
+      "description": "Description & Facts",
+      "discoveredBy": "Discovered by",
+      "discoveryYear": "Discovery Year",
+      "uses": "Applications & Uses",
+      "noData": "No data",
+      "linkCopied": "Link copied to clipboard!",
+      "share": "Share",
+      "shells": "Electron Shells",
+      "model3DTitle": "3D Atomic Model",
+      "dragToRotate": "Drag with mouse or touch to rotate 3D atom"
+    }
+  },
+  "balancer": {
+    "seo": {
+      "title": "Chemical Equation Balancer & Stoichiometry Calculator | ChemLab",
+      "description": "Accurate chemical reaction balancer using Gaussian elimination, step-by-step explanations, limiting reagent, and molar mass stoichiometry calculators."
+    },
+    "hero": {
+      "badge": "🔬 Intelligent Chemistry Equation Solver",
+      "title": "Balance Chemical Equations",
+      "titleGradient": "with mathematical precision",
+      "subtitle": "Instant balancing for complex reactions using matrix Gaussian elimination, net ionic equations, limiting reactant, and solution stoichiometry."
+    },
+    "input": {
+      "label": "Enter a chemical equation",
+      "placeholder": "e.g. KMnO4 + HCl = KCl + MnCl2 + Cl2 + H2O",
+      "balanceBtn": "Balance Equation",
+      "presetsBtn": "Reaction Library",
+      "randomBtn": "Random",
+      "keyboardToggle": "Keyboard",
+      "hint": "Hint: Use +, =, -> and case-sensitive element symbols (Fe, Cu, H2SO4)."
+    },
+    "actions": {
+      "copyEquation": "Copy Equation"
+    },
+    "status": {
+      "balancedSuccess": "Reaction balanced successfully!"
+    },
+    "steps": {
+      "title": "Step-by-step Mathematical Solution",
+      "subtitle": "Algorithmic Gaussian elimination of the linear material balance matrix",
+      "showSteps": "Show step-by-step breakdown",
+      "reactants": "Reactants",
+      "products": "Products",
+      "stoichiometricRatio": "Stoichiometric Molar Ratio",
+      "step1Title": "1. Atom Vector Construction",
+      "step1Desc": "Identifying all unique chemical elements present across reactants and products.",
+      "step2Title": "2. Material Balance Matrix",
+      "step2Desc": "Formulating linear conservation of mass equations for each element.",
+      "step3Title": "3. Gauss-Jordan Elimination",
+      "step3Desc": "Applying row operations to reduce the matrix and obtain fractional coefficients.",
+      "step4Title": "4. Integer Normalization",
+      "step4Desc": "Multiplying by the least common multiple (LCM) to obtain lowest whole numbers."
+    },
+    "visualizer": {
+      "title": "Element Atom Balance",
+      "subtitle": "Comparison of atomic counts before and after the reaction",
+      "left": "Left (Reactants)",
+      "right": "Right (Products)",
+      "element": "Element",
+      "allBalanced": "All atoms are strictly balanced",
+      "notBalanced": "Atom count mismatch",
+      "electricalCharge": "Net Electrical Charge"
+    },
+    "calculators": {
+      "stoichiometryTab": "Stoichiometry",
+      "limitingReagentBadge": "Limiting Reactant",
+      "limitingReagentExplanation": "The reactant that is completely consumed first, dictating maximum theoretical product yield.",
+      "molarTab": "Molar Masses",
+      "gasTab": "Gas Volumes (STP)",
+      "solutionsTab": "Solutions & Concentration",
+      "molarTitle": "Molar Masses of Reaction Components",
+      "molarSubtitle": "Precise molecular weights based on IUPAC standard atomic weights",
+      "molarMass": "Molar Mass M",
+      "molarMasses": "Substance Molar Masses",
+      "massComposition": "Elemental Mass Percentages (w%)",
+      "needBalancedEquation": "Balance the reaction to enable calculators",
+      "needBalancedDesc": "Stoichiometric computations require mathematically balanced coefficients.",
+      "enterReactantAmounts": "Enter masses or moles of reactants:",
+      "mass": "Mass (g)",
+      "volumeStp": "Volume at STP (L)",
+      "actualMass": "Actual Product Mass",
+      "theoreticalYield": "Theoretical Yield",
+      "reactionYieldCalculator": "Calculate Percentage Yield (η, %)",
+      "selectProduct": "Select reaction product",
+      "excessReactantsTitle": "Excess Reactants Remaining",
+      "gasTitle": "Gas Laws & Volumes (STP Vm = 22.4 L/mol)",
+      "gasSubtitle": "Calculation of evolved and consumed gas volumes at standard temperature and pressure",
+      "solutionsTitle": "Solution Concentration Calculator",
+      "solutionsSubtitle": "Interconvert mass percent (w%), molarity (M), and density"
+    },
+    "presets": {
+      "modalTitle": "Chemical Reaction Library",
+      "searchPlaceholder": "Search by formula or reaction name...",
+      "all": "All types",
+      "basic": "Basic School Reactions",
+      "redox": "Redox Reactions",
+      "ionic": "Ionic Double Replacement",
+      "neutralization": "Neutralization",
+      "organic": "Organic Chemistry",
+      "complex": "Coordination Complexes",
+      "exam": "Exam Tasks",
+      "noResults": "No matching reactions found"
+    },
+    "history": {
+      "title": "Balancing History",
+      "clear": "Clear History",
+      "empty": "History is empty",
+      "rebalance": "Balance Again"
+    },
+    "reactionTypes": {
+      "synthesis": "Synthesis Reaction",
+      "decomposition": "Decomposition Reaction",
+      "single_displacement": "Single Replacement",
+      "single_replacement": "Single Replacement",
+      "singleReplacement": "Single Replacement",
+      "double_displacement": "Double Replacement",
+      "double_replacement": "Double Replacement",
+      "doubleReplacement": "Double Replacement",
+      "neutralization": "Neutralization",
+      "combustion": "Combustion",
+      "redox": "Oxidation-Reduction (Redox)",
+      "precipitation": "Precipitation Reaction",
+      "gas_evolution": "Gas Evolution Reaction",
+      "complexation": "Complexation Reaction",
+      "acid_base": "Acid-Base Reaction",
+      "exchange": "Double Replacement",
+      "displacement": "Single Replacement",
+      "general": "Chemical Reaction"
+    },
+    "types": {
+      "redoxBadge": "Redox"
+    },
+    "errors": {
+      "generic": "Could not balance equation. Please verify chemical formulas and atomic conservation."
+    }
+  },
+  "lab": {
+    "seo": {
+      "title": "Virtual Chemistry Laboratory Online | ChemLab",
+      "description": "Safe virtual chemistry experiments, reagent mixing, precipitate observation, qualitative analysis, and flame tests."
+    },
+    "hero": {
+      "badge": "🧪 Interactive Experiment Simulator",
+      "title": "Virtual Chemistry Lab",
+      "titleGradient": "100% safe experiments",
+      "subtitle": "Mix acids, bases, salts, and metals, heat test tubes on the burner, observe qualitative reaction indicators, and maintain a lab journal."
+    },
+    "controls": {
+      "addReagent": "Add Reagent",
+      "burnerOn": "Light Burner",
+      "burnerOff": "Extinguish Burner",
+      "rinseActive": "Rinse Vessel",
+      "random": "Random Experiment",
+      "tasks": "Lab Tasks",
+      "log": "Experiment Log",
+      "undo": "Undo Step"
+    },
+    "shelf": {
+      "title": "Reagent Shelf",
+      "searchPlaceholder": "Search reagents...",
+      "dragHint": "Click a reagent to add it to the active vessel",
+      "all": "All Reagents"
+    },
+    "reagents": {
+      "acids": "Acids",
+      "bases": "Bases & Alkalis",
+      "salts": "Salts",
+      "metals": "Metals",
+      "indicators": "Indicators",
+      "solvents": "Solvents"
+    },
+    "reagentTypes": {
+      "acid": "Acid",
+      "base": "Base / Alkali",
+      "salt": "Salt",
+      "metal": "Metal",
+      "nonmetal": "Nonmetal",
+      "indicator": "Indicator",
+      "oxide": "Oxide",
+      "organic": "Organic Substance",
+      "water": "Distilled Water",
+      "gas": "Gas"
+    },
+    "reactionTypes": {
+      "neutralization": "Neutralization",
+      "precipitation": "Precipitation",
+      "gas_evolution": "Gas Evolution",
+      "redox": "Redox Reaction",
+      "complex": "Complexation",
+      "complexation": "Complexation",
+      "combustion": "Combustion",
+      "decomposition": "Decomposition",
+      "substitution": "Substitution",
+      "displacement": "Displacement",
+      "exchange": "Double Exchange",
+      "indicator": "Indicator Test",
+      "dissolution": "Dissolution",
+      "thermal_decomposition": "Thermal Decomposition",
+      "flame_test": "Flame Test",
+      "synthesis": "Synthesis"
+    },
+    "vessels": {
+      "testTube": "Test Tube",
+      "flask": "Erlenmeyer Flask",
+      "beaker": "Beaker"
+    },
+    "scene": {
+      "labBench": "Laboratory Bench",
+      "clickHint": "Select a test tube or flask to add chemicals"
+    },
+    "results": {
+      "idleTitle": "Vessel Ready for Experiments",
+      "idleSubtitle": "Add reagents from the shelf to initiate a chemical reaction.",
+      "noReactionTitle": "No observable reaction (solution mixture)",
+      "explanationTitle": "Chemical Explanation",
+      "factTitle": "Scientific Fact & Applications",
+      "molecularEquation": "Molecular Equation",
+      "netIonicEquation": "Net Ionic Equation"
+    },
+    "effects": {
+      "exothermic": "Exothermic reaction (heat released)"
+    },
+    "states": {
+      "solid": "Solid"
+    },
+    "safety": {
+      "modalTitle": "Laboratory Safety Protocol & Guidelines",
+      "warningBadge": "Safety Protocol",
+      "virtualDisclaimer": "In real-world laboratories, chemical experiments must always be performed wearing protective safety goggles, lab coats, and under instructor supervision.",
+      "pledgeButton": "I understand and agree to safety rules"
+    },
+    "tasks": {
+      "title": "Lab Assignments & Quests",
+      "subtitle": "Complete practical research challenges and earn achievement stars",
+      "completeTitle": "Task Completed Successfully!",
+      "earned": "Stars Earned:"
+    },
+    "log": {
+      "modalTitle": "Laboratory Experiment Logbook",
+      "empty": "Logbook is currently empty",
+      "emptyDesc": "Perform your first reactions, and they will automatically be recorded with balanced equations and observations.",
+      "clearAll": "Clear Logbook",
+      "totalCount": "Total Entries:"
+    }
+  },
+  "molecules": {
+    "seo": {
+      "title": "3D Molecule Builder Online | ChemLab",
+      "description": "Interactive 3D molecular structure editor, bond angle calculations, orbital hybridization, and 3D spatial models library."
+    },
+    "hero": {
+      "badge": "🧊 Three-dimensional Molecular Modeling",
+      "title": "3D Molecule Builder",
+      "titleGradient": "spatial chemistry",
+      "subtitle": "Construct organic and inorganic molecules in 2D/3D space, explore bond angles, bond lengths, and orbital hybridization."
+    },
+    "tabs": {
+      "editor2d": "2D Editor",
+      "view3d": "3D View",
+      "quiz": "Molecular Quiz"
+    },
+    "tools": {
+      "select": "Select Atom",
+      "addAtom": "Add Atom",
+      "bond": "Connect Atoms",
+      "delete": "Delete",
+      "clean": "Optimize Geometry",
+      "addH": "Fill Hydrogens (H)",
+      "clear": "Clear Canvas",
+      "library": "Molecule Library",
+      "undo": "Undo",
+      "redo": "Redo"
+    },
+    "palette": {
+      "title": "Building Elements"
+    },
+    "analysis": {
+      "title": "Molecular Analysis",
+      "formula": "Molecular Formula",
+      "molarMass": "Molar Mass",
+      "atomsCount": "Number of Atoms",
+      "bondsCount": "Number of Bonds",
+      "geometry": "Spatial Geometry",
+      "valencesValid": "All atomic valencies are valid",
+      "valencesInvalid": "Valency anomalies detected"
+    },
+    "library": {
+      "title": "3D Molecule Catalog",
+      "search": "Search molecule...",
+      "categories": {
+        "all": "All Molecules",
+        "simple": "Simple Substances & Gases",
+        "organic": "Organic Chemistry",
+        "inorganic": "Inorganic Chemistry",
+        "biological": "Biomolecules & Pharmaceuticals"
+      }
+    },
+    "quiz": {
+      "title": "Identify Molecule by 3D Model",
+      "guessPrompt": "Which substance is shown in the 3D model?",
+      "score": "Score"
+    },
+    "export": {
+      "png": "Export PNG Image",
+      "json": "Save JSON File",
+      "share": "Share Link"
+    }
+  },
+  "articles": {
+    "seo": {
+      "title": "Chemistry Around Us: Articles & Safe Home Experiments | ChemLab",
+      "description": "Fascinating articles exploring chemistry in cooking, nature, cosmetics, medicine, environmental science, and safe home experiments."
+    },
+    "hero": {
+      "badge": "📚 Popular Science Magazine",
+      "title": "Chemistry Around Us",
+      "titleGradient": "real-life science",
+      "subtitle": "Explore real-world chemical phenomena in daily life, cooking, nature, and healthcare, with safe step-by-step DIY home experiment guides."
+    },
+    "searchPlaceholder": "Search articles and experiments...",
+    "categories": {
+      "all": "All Topics",
+      "everyday": "Household Chemistry",
+      "food": "Culinary Chemistry",
+      "nature": "Nature & Minerals",
+      "medicine": "Medicine & Healthcare",
+      "industry": "Industry & Technology",
+      "experiments": "Home Experiments"
+    },
+    "readTime": "min read",
+    "experiments": "Experiments",
+    "safetyWarning": "Safety Note: Always perform home experiments under adult supervision and follow all instructions strictly!",
+    "noArticles": "No articles found matching your query"
+  },
+  "about": {
+    "title": "About «ChemLab»",
+    "subtitle": "Interactive multilingual chemistry education platform created by Akbobek School",
+    "missionTitle": "Our Mission",
+    "missionText": "To make chemistry accessible, visual, and engaging for every student without dry memorization. We integrate 3D modeling, algorithmic equation solvers, and comprehensive exam preparation into a unified educational ecosystem.",
+    "audienceTitle": "Who is this platform for?",
+    "audiences": [
+      {
+        "role": "Grade 7–11 Students",
+        "desc": "For mastering school chemistry curriculum and safely exploring chemical reactions."
+      },
+      {
+        "role": "Exam Applicants (UNT / Olympiads)",
+        "desc": "For effective profile test preparation with curated solutions and analytics."
+      },
+      {
+        "role": "Chemistry Educators & Teachers",
+        "desc": "For visual in-class demonstrations of 3D molecules, reaction simulations, and teaching aids."
+      },
+      {
+        "role": "Science Enthusiasts",
+        "desc": "For exploring chemical phenomena occurring in everyday life, cooking, and industry."
+      }
+    ],
+    "safetyTitle": "Laboratory Safety Rules",
+    "safetySubtitle": "Essential safety protocols for conducting practical chemistry experiments",
+    "safetyRules": [
+      "Conduct laboratory work only in properly equipped chemistry rooms under teacher supervision.",
+      "Wear protective goggles and a lab coat. Avoid getting acids and bases on skin or in eyes.",
+      "Never taste chemicals or inhale vapors and gases directly.",
+      "When diluting, always pour acid slowly into water while stirring (never pour water into acid).",
+      "All simulations in the ChemLab virtual laboratory are 100% safe."
+    ],
+    "authorTitle": "Creator & Development",
+    "authorDesc": "The ChemLab platform was developed by Akbobek School for modern comprehensive chemistry education."
+  },
+  "trainer": {
+    "seo": {
+      "title": "Interactive UNT Chemistry Trainer | ChemLab",
+      "description": "Chemistry exam preparation: 400+ tasks with step-by-step solutions, spaced repetition, and weak topic analytics."
+    },
+    "hero": {
+      "badge": "🎯 UNT Exam Preparation Center",
+      "title": "Confidently master ",
+      "titleGradient": "chemistry exams for top scores",
+      "subtitle": "Extensive question bank spanning the entire school chemistry curriculum, realistic mock exams, and mistake analysis."
+    },
+    "modes": {
+      "topic": "Practice by Topic",
+      "mock": "Full Mock Exam",
+      "daily": "Daily 5 Tasks",
+      "mistakes": "Mistakes Review",
+      "stats": "Analytics & Statistics"
+    },
+    "topics": {
+      "atomic_structure": "Atomic Structure",
+      "periodic_law": "Periodic Law",
+      "chemical_bond": "Chemical Bonding",
+      "inorganic_classes": "Inorganic Classes",
+      "reactions": "Chemical Reactions",
+      "solutions": "Solutions & Dissociation",
+      "redox": "Redox Reactions",
+      "metals_nonmetals": "Metals & Non-metals",
+      "organic": "Organic Chemistry",
+      "calculations": "Calculations & Stoichiometry"
+    }
+  },
+  "footer": {
+    "description": "Next-generation interactive chemistry learning environment developed by Akbobek School for students, applicants, and educators.",
+    "openSource": "Open Educational Initiative",
+    "rights": "All rights reserved. Akbobek School Educational Platform.",
+    "madeWith": "Crafted with passion for science education"
+  },
+  "placeholder": {
+    "badge": "In Development",
+    "title": "Module is currently in active development",
+    "description": "Our team is diligently working on this module. It will be available very soon!",
+    "backToHome": "Back to Home",
+    "notifyTitle": "Be the first to know when it launches",
+    "notifyPlaceholder": "Your nickname or class...",
+    "notifyButton": "Notify Me",
+    "notifySuccess": "Thank you! You will be among the first to know.",
+    "featuresTitle": "Planned features for this module:"
+  },
+  "notFound": {
+    "title": "Page Not Found (404)",
+    "description": "The requested page does not exist or has been moved to another section.",
+    "cta": "Return to Home"
+  },
+  "modulesPlanned": {
+    "periodicTable": [
+      "Interactive 3D atomic orbital visualizer",
+      "Complete spectral emission lines for all 118 elements",
+      "Thermodynamic phase equilibrium diagrams"
+    ],
+    "balancer": [
+      "Electron balance method for complex redox reactions",
+      "Thermochemical enthalpy calculator (ΔH)",
+      "Ion-electron half-reaction method"
+    ],
+    "lab": [
+      "Expanded shelf of specialty reagents and gases",
+      "Quantitative spectrophotometry simulation",
+      "Potentiometric titration simulator"
+    ],
+    "molecules": [
+      "VSEPR molecular geometry solver",
+      "PDB, MOL, and XYZ chemical file import/export",
+      "Molecular dynamics and conformational analysis"
+    ],
+    "articles": [
+      "Interactive UNT/olympiad chemical breakdown guides",
+      "Step-by-step solutions for advanced competition problems",
+      "Video demonstrations of rare chemical reactions"
+    ],
+    "trainer": [
+      "Adaptive spaced-repetition memory engine",
+      "Live leaderboards and inter-school competitions",
+      "Deep diagnostic mistake review system"
+    ]
+  }
+}

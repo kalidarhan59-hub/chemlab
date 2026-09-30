@@ -1,0 +1,5223 @@
+[
+  {
+    "number": 1,
+    "symbol": "H",
+    "name": {
+      "kk": "Сутек",
+      "ru": "Водород",
+      "en": "Hydrogen"
+    },
+    "atomicMass": 1.008,
+    "category": "reactive-nonmetal",
+    "group": 1,
+    "period": 1,
+    "block": "s",
+    "state": "gas",
+    "meltingPoint": 14.01,
+    "boilingPoint": 20.28,
+    "density": 0.08988,
+    "electronegativity": 2.2,
+    "oxidationStates": "-1, +1",
+    "electronConfiguration": "1s¹",
+    "shells": [
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Генри Кавендиш",
+      "ru": "Генри Кавендиш",
+      "en": "Henry Cavendish"
+    },
+    "discoveryYear": 1766,
+    "uses": {
+      "kk": "Аммиак пен тыңайтқыш синтезінде, металлургияда тотықсыздандырғыш ретінде және экологиялық таза сутектік энергетика мен отын элементтерінде пайдаланылады.",
+      "ru": "Применяется в синтезе аммиака и удобрений, в гидрогенизации жиров, металлургии и перспективной экологически чистой водородной энергетике.",
+      "en": "Used in ammonia and fertilizer synthesis, petroleum refining, hydrogenation of oils, and as a clean fuel for fuel cells."
+    },
+    "description": {
+      "kk": "Ғаламдағы ең жеңіл және ең көп таралған химиялық элемент (ғарыш массасының ~75%-ы).",
+      "ru": "Самый лёгкий и самый распространённый элемент во Вселенной (около 75% массы видимой материи).",
+      "en": "The lightest and most abundant chemical element in the universe, constituting roughly 75% of all baryonic mass."
+    }
+  },
+  {
+    "number": 2,
+    "symbol": "He",
+    "name": {
+      "kk": "Гелий",
+      "ru": "Гелий",
+      "en": "Helium"
+    },
+    "atomicMass": 4.0026,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 1,
+    "block": "s",
+    "state": "gas",
+    "meltingPoint": 0.95,
+    "boilingPoint": 4.22,
+    "density": 0.1786,
+    "electronegativity": null,
+    "oxidationStates": "0",
+    "electronConfiguration": "1s²",
+    "shells": [
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Пьер Жансен және Джозеф Локьер",
+      "ru": "Пьер Жансен и Норман Локьер",
+      "en": "Pierre Janssen and Norman Lockyer"
+    },
+    "discoveryYear": 1868,
+    "uses": {
+      "kk": "МРТ сканерлерінің асқын өткізгіш магниттерін салқындатуда, дирижабльдер мен аэростаттарды толтыруда және терең суға сүңгуірлердің тыныс алу қоспаларында қолданылады.",
+      "ru": "Используется для криогенного охлаждения магнитов МРТ и ускорителей частиц, заполнения аэростатов и в дыхательных смесях для глубоководных погружений.",
+      "en": "Crucial for cooling superconducting magnets in MRI scanners, filling airships and weather balloons, and in deep-sea diving gas blends."
+    },
+    "description": {
+      "kk": "Екінші ең жеңіл асыл газ; жерден бұрын Күннің спектрінен табылған жалғыз элемент.",
+      "ru": "Второй по лёгкости и распространённости благородный газ, впервые обнаруженный на Солнце до открытия на Земле.",
+      "en": "The second lightest noble gas, uniquely discovered in the solar spectrum before being isolated on Earth."
+    }
+  },
+  {
+    "number": 3,
+    "symbol": "Li",
+    "name": {
+      "kk": "Литий",
+      "ru": "Литий",
+      "en": "Lithium"
+    },
+    "atomicMass": 6.94,
+    "category": "alkali-metal",
+    "group": 1,
+    "period": 2,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 453.69,
+    "boilingPoint": 1603,
+    "density": 0.534,
+    "electronegativity": 0.98,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[He] 2s¹",
+    "shells": [
+      2,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Йохан Арфведсон",
+      "ru": "Юхан Арфведсон",
+      "en": "Johan August Arfwedson"
+    },
+    "discoveryYear": 1817,
+    "uses": {
+      "kk": "Смартфондар мен электромобильдердің литий-ионды аккумуляторларының негізі, сондай-ақ психотерапияда көңіл-күй тұрақтандырғыш ретінде маңызды.",
+      "ru": "Основа литий-ионных аккумуляторов для электромобилей и электроники, добавка в жаропрочную керамику и стабилизатор настроения в медицине.",
+      "en": "Critical for rechargeable lithium-ion batteries powering phones and electric vehicles, lightweight alloys, and psychiatric pharmaceuticals."
+    },
+    "description": {
+      "kk": "Барлық қатты металдардың ішіндегі ең жеңілі, судан екі есе жеңіл және керосинде қалқып жүре алады.",
+      "ru": "Наименее плотный твёрдый металл (вдвое легче воды), химически активный щёлочной элемент.",
+      "en": "The least dense solid metal element, soft, silvery, and vigorously reactive with moisture."
+    }
+  },
+  {
+    "number": 4,
+    "symbol": "Be",
+    "name": {
+      "kk": "Бериллий",
+      "ru": "Бериллий",
+      "en": "Beryllium"
+    },
+    "atomicMass": 9.0122,
+    "category": "alkaline-earth",
+    "group": 2,
+    "period": 2,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 1560,
+    "boilingPoint": 2742,
+    "density": 1.85,
+    "electronegativity": 1.57,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[He] 2s²",
+    "shells": [
+      2,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Луи Николя Воклен",
+      "ru": "Луи Николя Воклен",
+      "en": "Louis Nicolas Vauquelin"
+    },
+    "discoveryYear": 1798,
+    "uses": {
+      "kk": "Аэроғарыш кешеніндегі жеңіл берік құрылымдар, Джеймс Уэбб телескопының айналары мен рентген сәулелеріне арналған терезелер өндірісінде пайдаланылады.",
+      "ru": "Используется в аэрокосмических конструкциях, высокоточных зеркалах космического телескопа James Webb и окнах рентгеновских трубок.",
+      "en": "Used in aerospace components, beryllium-copper non-sparking tools, X-ray tube windows, and mirrors of the James Webb Space Telescope."
+    },
+    "description": {
+      "kk": "Сілтілік-жер металы, жеңіл, бірақ болаттан серпімді және рентген сәулесін жақсы өткізеді.",
+      "ru": "Лёгкий, но исключительно жесткий металл серо-стального цвета, прозрачный для рентгеновских лучей.",
+      "en": "A relatively rare lightweight metal with high stiffness, thermal stability, and low X-ray absorption."
+    }
+  },
+  {
+    "number": 5,
+    "symbol": "B",
+    "name": {
+      "kk": "Бор",
+      "ru": "Бор",
+      "en": "Boron"
+    },
+    "atomicMass": 10.81,
+    "category": "metalloid",
+    "group": 13,
+    "period": 2,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 2349,
+    "boilingPoint": 4200,
+    "density": 2.34,
+    "electronegativity": 2.04,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[He] 2s² 2p¹",
+    "shells": [
+      2,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Жозеф Гей-Люссак және Луи Тенар",
+      "ru": "Жозеф Луи Гей-Люссак и Луи Тенар",
+      "en": "Joseph Louis Gay-Lussac and Louis Jacques Thénard"
+    },
+    "discoveryYear": 1808,
+    "uses": {
+      "kk": "Ыстыққа төзімді боросиликатты шыны (Pyrex), шыныталшықтар, жартылай өткізгіштер мен пиротехникалық жасыл жалындар жасауда қолданылады.",
+      "ru": "Применяется для создания термостойкого боросиликатного стекла (Pyrex), стеклопластиков, полупроводниковых допантов и в ядерных реакторах.",
+      "en": "Essential in borosilicate heat-resistant glass (Pyrex), fiberglass insulation, semiconductor doping, and neutron capture rods."
+    },
+    "description": {
+      "kk": "Қаттылығы жоғары жартылай металл, от жалынын ашық изумруд-жасыл түске бояйды.",
+      "ru": "Твердый полуметалл, окрашивающий пламя в изумрудно-зелёный цвет и поглощающий тепловые нейтроны.",
+      "en": "A low-abundance metalloid exhibiting high hardness, flame-coloring properties, and efficient neutron absorption."
+    }
+  },
+  {
+    "number": 6,
+    "symbol": "C",
+    "name": {
+      "kk": "Көміртек",
+      "ru": "Углерод",
+      "en": "Carbon"
+    },
+    "atomicMass": 12.011,
+    "category": "reactive-nonmetal",
+    "group": 14,
+    "period": 2,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 3823,
+    "boilingPoint": 4098,
+    "density": 2.267,
+    "electronegativity": 2.55,
+    "oxidationStates": "-4, -2, +2, +4",
+    "electronConfiguration": "[He] 2s² 2p²",
+    "shells": [
+      2,
+      4
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известен с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Барлық органикалық өмірдің негізі, полимерлер, болат қорытпалары, көміртек талшықтары, графит және зергерлік алмастарда қолданылады.",
+      "ru": "Основа органической химии и жизни на Земле; применяется в металлургии (сталь), полимерах, композитах, нанотрубках и графене.",
+      "en": "The chemical cornerstone of all terrestrial organic life, polymers, high-strength carbon fibers, graphene, and steel."
+    },
+    "description": {
+      "kk": "Бір элементтің аллотропиясы алмаз сияқты ең қатты, әрі графит сияқты жұмсақ күйде кездесетін ғажап элемент.",
+      "ru": "Уникальный элемент, образующий как мягчайший графит, так и сверхтвердый алмаз, фуллерены и наноматериалы.",
+      "en": "Unique element with remarkable allotropes ranging from ultra-hard diamond to slippery graphite and graphene."
+    }
+  },
+  {
+    "number": 7,
+    "symbol": "N",
+    "name": {
+      "kk": "Азот",
+      "ru": "Азот",
+      "en": "Nitrogen"
+    },
+    "atomicMass": 14.007,
+    "category": "reactive-nonmetal",
+    "group": 15,
+    "period": 2,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 63.15,
+    "boilingPoint": 77.36,
+    "density": 1.2506,
+    "electronegativity": 3.04,
+    "oxidationStates": "-3, +1, +2, +3, +4, +5",
+    "electronConfiguration": "[He] 2s² 2p³",
+    "shells": [
+      2,
+      5
+    ],
+    "discoveredBy": {
+      "kk": "Даниэль Резерфорд",
+      "ru": "Даниэль Резерфорд",
+      "en": "Daniel Rutherford"
+    },
+    "discoveryYear": 1772,
+    "uses": {
+      "kk": "Ауыл шаруашылығы тыңайтқыштары (аммофос, селитра), криогендік медициналық салқындату және тағамдарды инертті атмосферада сақтауда пайдаланылады.",
+      "ru": "Основа синтетических удобрений, взрывчатых веществ; жидкий азот используется в криохирургии и консервации биоматериалов.",
+      "en": "Crucial for agricultural fertilizers via ammonia synthesis, cryogenic preservation, inert packaging, and pharmaceuticals."
+    },
+    "description": {
+      "kk": "Жер атмосферасының 78%-ын құрайтын, үштік берік байланысы бар инертті газ.",
+      "ru": "Составляет 78% объёма атмосферы Земли; входит в состав белков, ДНК и РНК всех живых существ.",
+      "en": "Makes up 78% of Earth's atmosphere, bound by a tough N≡N triple bond, vital component of amino acids and DNA."
+    }
+  },
+  {
+    "number": 8,
+    "symbol": "O",
+    "name": {
+      "kk": "Оттек",
+      "ru": "Кислород",
+      "en": "Oxygen"
+    },
+    "atomicMass": 15.999,
+    "category": "reactive-nonmetal",
+    "group": 16,
+    "period": 2,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 54.36,
+    "boilingPoint": 90.2,
+    "density": 1.429,
+    "electronegativity": 3.44,
+    "oxidationStates": "-2, -1, +2",
+    "electronConfiguration": "[He] 2s² 2p⁴",
+    "shells": [
+      2,
+      6
+    ],
+    "discoveredBy": {
+      "kk": "Джозеф Пристли және Карл Шееле",
+      "ru": "Джозеф Пристли и Карл Шееле",
+      "en": "Joseph Priestley and Carl Wilhelm Scheele"
+    },
+    "discoveryYear": 1774,
+    "uses": {
+      "kk": "Адам мен жануарлар тыныс алуында, болат балқытуда, медициналық оксигенацияда және зымыран отыны тотықтырғышы ретінде қолданылады.",
+      "ru": "Необходим для клеточного дыхания, металлургической плавки стали, ракетных окислителей и реанимационной медицины.",
+      "en": "Essential for aerobic respiration, steel manufacturing, wastewater aeration, oxy-fuel welding, and rocket propulsion."
+    },
+    "description": {
+      "kk": "Жер қыртысындағы ең көп таралған элемент (~46%), жану және тотығу процестерінің қозғаушысы.",
+      "ru": "Самый распространённый элемент земной коры; поддерживает горение и обеспечивает жизнь аэробных организмов.",
+      "en": "The most abundant element in Earth's crust by mass (~46%), sustaining aerobic metabolism and combustion."
+    }
+  },
+  {
+    "number": 9,
+    "symbol": "F",
+    "name": {
+      "kk": "Фтор",
+      "ru": "Фтор",
+      "en": "Fluorine"
+    },
+    "atomicMass": 18.998,
+    "category": "reactive-nonmetal",
+    "group": 17,
+    "period": 2,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 53.53,
+    "boilingPoint": 85.03,
+    "density": 1.696,
+    "electronegativity": 3.98,
+    "oxidationStates": "-1",
+    "electronConfiguration": "[He] 2s² 2p⁵",
+    "shells": [
+      2,
+      7
+    ],
+    "discoveredBy": {
+      "kk": "Анри Муассан",
+      "ru": "Анри Муассан",
+      "en": "Henri Moissan"
+    },
+    "discoveryYear": 1886,
+    "uses": {
+      "kk": "Тіс пасталарында кариестен қорғауға (фторидтер), тефлон (PTFE) жабындарын жасауда және уранды байытуда (UF₆) пайдаланылады.",
+      "ru": "Используется в зубных пастах против кариеса, антипригарных покрытиях (тефлон), хладагентах и разделении изотопов урана.",
+      "en": "Used in non-stick cookware coatings (Teflon), fluoride dental hygiene products, refrigerants, and uranium enrichment."
+    },
+    "description": {
+      "kk": "Ең күшті электртерістілікке ие элемент, тіпті су мен шыныны өртей алатын аса белсенді галоген.",
+      "ru": "Самый химически активный неметалл с максимальной электроотрицательностью (3.98 по Полингу).",
+      "en": "The most electronegative and chemically reactive element, forming compounds with almost all other elements."
+    }
+  },
+  {
+    "number": 10,
+    "symbol": "Ne",
+    "name": {
+      "kk": "Неон",
+      "ru": "Неон",
+      "en": "Neon"
+    },
+    "atomicMass": 20.18,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 2,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 24.56,
+    "boilingPoint": 27.07,
+    "density": 0.9002,
+    "electronegativity": null,
+    "oxidationStates": "0",
+    "electronConfiguration": "[He] 2s² 2p⁶",
+    "shells": [
+      2,
+      8
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Рамзай және Моррис Траверс",
+      "ru": "Уильям Рамзай и Моррис Траверс",
+      "en": "William Ramsay and Morris Travers"
+    },
+    "discoveryYear": 1898,
+    "uses": {
+      "kk": "Жарнамалық қызыл-қызғылт жарық түтіктерінде, криогендік тоңазытқыштарда, лазерлік технологиялар (гелий-неон) мен жоғары вольтты көрсеткіштерде қолданылады.",
+      "ru": "Используется в светящихся неоновых вывесках красно-оранжевого свечения, гелий-неоновых лазерах и криогенике.",
+      "en": "Employed in glowing reddish-orange advertising signs, high-voltage indicators, helium-neon lasers, and cryogenic freezing."
+    },
+    "description": {
+      "kk": "Электр тогы әсерінен жарқын қызғылт-қызыл түс шығаратын химиялық бейтарап асыл газ.",
+      "ru": "Инертный благородный газ, излучающий характерное яркое красно-оранжевое свечение при электрическом разряде.",
+      "en": "A colorless, odorless inert gas producing a distinctive brilliant reddish-orange glow in discharge tubes."
+    }
+  },
+  {
+    "number": 11,
+    "symbol": "Na",
+    "name": {
+      "kk": "Натрий",
+      "ru": "Натрий",
+      "en": "Sodium"
+    },
+    "atomicMass": 22.99,
+    "category": "alkali-metal",
+    "group": 1,
+    "period": 3,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 370.87,
+    "boilingPoint": 1156,
+    "density": 0.968,
+    "electronegativity": 0.93,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[Ne] 3s¹",
+    "shells": [
+      2,
+      8,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Гемфри Дэви",
+      "ru": "Гемфри Дэви",
+      "en": "Humphry Davy"
+    },
+    "discoveryYear": 1807,
+    "uses": {
+      "kk": "Ас тұзы (NaCl), сода, сабын өндірісінде, ядролық реакторлардың сұйық металды салқындатқышы ретінде және сары көше шамдарында қолданылады.",
+      "ru": "Основа поваренной соли (NaCl) и соды, теплоноситель в быстрых ядерных реакторах, компонент натриевых ламп уличного освещения.",
+      "en": "Essential in table salt and baking soda, industrial chemical synthesis, street sodium-vapor lighting, and nuclear cooling."
+    },
+    "description": {
+      "kk": "Пышақпен оңай кесілетін жұмсақ сілтілік металл, сумен жалын шығарып өте белсенді әрекеттеседі.",
+      "ru": "Мягкий щёлочной металл, бурно реагирующий с водой с выделением водорода и образованием щелочи NaOH.",
+      "en": "A soft, silvery alkali metal that reacts vigorously with water and is biologically vital as an electrolyte."
+    }
+  },
+  {
+    "number": 12,
+    "symbol": "Mg",
+    "name": {
+      "kk": "Магний",
+      "ru": "Магний",
+      "en": "Magnesium"
+    },
+    "atomicMass": 24.305,
+    "category": "alkaline-earth",
+    "group": 2,
+    "period": 3,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 923,
+    "boilingPoint": 1363,
+    "density": 1.738,
+    "electronegativity": 1.31,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Ne] 3s²",
+    "shells": [
+      2,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Джозеф Блэк",
+      "ru": "Джозеф Блэк",
+      "en": "Joseph Black"
+    },
+    "discoveryYear": 1755,
+    "uses": {
+      "kk": "Автомобильдер мен ұшақтарға арналған жеңіл магний-алюминий қорытпалары, пиротехникалық отшашулар және фотосинтез хлорофиллінің өзегі.",
+      "ru": "Используется в сверхлегких сплавах для авиастроения, сигнальных ракетах, фотоспышках и как центральный атом в молекуле хлорофилла.",
+      "en": "Applied in ultra-lightweight structural alloys, electronic casings, pyrotechnics, and central to chlorophyll in plant photosynthesis."
+    },
+    "description": {
+      "kk": "Ауада соқыр қылатын жарқын ақ жалынмен жанатын жеңіл құрылымдық сілтілік-жер металы.",
+      "ru": "Лёгкий металл серебристо-белого цвета, сгорающий на воздухе с ослепительным белым свечением.",
+      "en": "A shiny gray solid metal, eighth most abundant in Earth's crust, burning with a brilliant white light."
+    }
+  },
+  {
+    "number": 13,
+    "symbol": "Al",
+    "name": {
+      "kk": "Алюминий",
+      "ru": "Алюминий",
+      "en": "Aluminium"
+    },
+    "atomicMass": 26.982,
+    "category": "post-transition-metal",
+    "group": 13,
+    "period": 3,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 933.47,
+    "boilingPoint": 2792,
+    "density": 2.7,
+    "electronegativity": 1.61,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Ne] 3s² 3p¹",
+    "shells": [
+      2,
+      8,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Ханс Кристиан Эрстед",
+      "ru": "Ханс Кристиан Эрстед",
+      "en": "Hans Christian Ørsted"
+    },
+    "discoveryYear": 1825,
+    "uses": {
+      "kk": "Авиацияда («қанатты металл»), жоғары вольтты электр желілерінде, тағамдық фольгада және құрылыс профильдерінде негізгі материал.",
+      "ru": "Основной конструкционный металл авиации, упаковочной фольги, оконных профилей и магистральных линий электропередач.",
+      "en": "Ubiquitous in aerospace construction, automotive frames, beverage cans, electrical transmission lines, and foil packaging."
+    },
+    "description": {
+      "kk": "Жер қыртысындағы ең көп таралған металл (~8%), ауадағы жұқа оксидтік қабығы арқылы тот басудан қорғалады.",
+      "ru": "Самый распространенный металл в земной коре (около 8% по массе), защищенный прочной оксидной пленкой Al₂O₃.",
+      "en": "The most abundant metallic element in Earth's crust, characterized by low density and remarkable corrosion resistance."
+    }
+  },
+  {
+    "number": 14,
+    "symbol": "Si",
+    "name": {
+      "kk": "Кремний",
+      "ru": "Кремний",
+      "en": "Silicon"
+    },
+    "atomicMass": 28.085,
+    "category": "metalloid",
+    "group": 14,
+    "period": 3,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 1687,
+    "boilingPoint": 3538,
+    "density": 2.329,
+    "electronegativity": 1.9,
+    "oxidationStates": "-4, +2, +4",
+    "electronConfiguration": "[Ne] 3s² 3p²",
+    "shells": [
+      2,
+      8,
+      4
+    ],
+    "discoveredBy": {
+      "kk": "Йёнс Якоб Берцелиус",
+      "ru": "Йёнс Якоб Берцелиус",
+      "en": "Jöns Jacob Berzelius"
+    },
+    "discoveryYear": 1824,
+    "uses": {
+      "kk": "Компьютерлік чиптер мен микропроцессорлар, күн батареялары, силиконды полимерлер және құрылыс шынысының негізі.",
+      "ru": "Основа микроэлектроники (процессоры, память), фотоэлектрических солнечных панелей, силиконовых герметиков и стекла.",
+      "en": "The backbone of modern computing and microelectronics, solar photovoltaic cells, silicones, and ceramic materials."
+    },
+    "description": {
+      "kk": "Жер бетінде оттектен кейінгі екінші ең көп таралған элемент (~28%), құм мен саздың басты құрамдас бөлігі.",
+      "ru": "Второй по распространённости элемент земной коры (28%), основа минералов кварца, полевого шпата и глины.",
+      "en": "A hard, brittle crystalline metalloid, forming 28% of Earth's crust, central to the digital information age."
+    }
+  },
+  {
+    "number": 15,
+    "symbol": "P",
+    "name": {
+      "kk": "Фосфор",
+      "ru": "Фосфор",
+      "en": "Phosphorus"
+    },
+    "atomicMass": 30.974,
+    "category": "reactive-nonmetal",
+    "group": 15,
+    "period": 3,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 317.3,
+    "boilingPoint": 553.6,
+    "density": 1.823,
+    "electronegativity": 2.19,
+    "oxidationStates": "-3, +3, +5",
+    "electronConfiguration": "[Ne] 3s² 3p³",
+    "shells": [
+      2,
+      8,
+      5
+    ],
+    "discoveredBy": {
+      "kk": "Хенниг Бранд",
+      "ru": "Хенниг Бранд",
+      "en": "Hennig Brand"
+    },
+    "discoveryYear": 1669,
+    "uses": {
+      "kk": "Фосфорлы тыңайтқыштар (суперфосфат), сіріңке шырпысының қызыл фосфоры және жасушаішілік энергия алмасуда (АТФ).",
+      "ru": "Производство фосфатных удобрений, спичечных коробков (красный фосфор), синтетических моющих средств и молекул АТФ.",
+      "en": "Essential for agricultural phosphate fertilizers, safety matches, detergents, and biological DNA/RNA and ATP energy transfer."
+    },
+    "description": {
+      "kk": "Ақ түрі ауада өздігінен тұтанып қараңғыда жарқырайды (хемилюминесценция), ал қызыл түрі қауіпсіз және тұрақты.",
+      "ru": "Существует в нескольких аллотропных формах: белый фосфор светится в темноте и токсичен, красный — стабилен и безопасен.",
+      "en": "Exists in multiple allotropes; white phosphorus glows in the dark and is pyrophoric, while red phosphorus is stable."
+    }
+  },
+  {
+    "number": 16,
+    "symbol": "S",
+    "name": {
+      "kk": "Күкірт",
+      "ru": "Сера",
+      "en": "Sulfur"
+    },
+    "atomicMass": 32.06,
+    "category": "reactive-nonmetal",
+    "group": 16,
+    "period": 3,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 388.36,
+    "boilingPoint": 717.8,
+    "density": 2.07,
+    "electronegativity": 2.58,
+    "oxidationStates": "-2, +2, +4, +6",
+    "electronConfiguration": "[Ne] 3s² 3p⁴",
+    "shells": [
+      2,
+      8,
+      6
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известна с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Күкірт қышқылын (H₂SO₄) өндіру, каучукты вулканизациялап автомобиль дөңгелегін жасау және ауыл шаруашылығында фунгицид ретінде.",
+      "ru": "Производство серной кислоты, вулканизация резины для автомобильных шин, порох и средства защиты растений от вредителей.",
+      "en": "Predominantly consumed in sulfuric acid production, vulcanizing rubber for car tires, gunpowder, and agricultural fungicides."
+    },
+    "description": {
+      "kk": "Сары түсті бейметалл кристалдар; белоктар мен шаш құрылымындағы дисульфидті көпіршелердің негізін құрайды.",
+      "ru": "Ярко-жёлтый хрупкий неметалл; компонент аминокислот цистеина и метионина, образующий дисульфидные мостики в белках.",
+      "en": "A bright yellow crystalline solid at room temperature, burning with a blue flame to release choking sulfur dioxide."
+    }
+  },
+  {
+    "number": 17,
+    "symbol": "Cl",
+    "name": {
+      "kk": "Хлор",
+      "ru": "Хлор",
+      "en": "Chlorine"
+    },
+    "atomicMass": 35.45,
+    "category": "reactive-nonmetal",
+    "group": 17,
+    "period": 3,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 171.6,
+    "boilingPoint": 239.11,
+    "density": 3.2,
+    "electronegativity": 3.16,
+    "oxidationStates": "-1, +1, +3, +5, +7",
+    "electronConfiguration": "[Ne] 3s² 3p⁵",
+    "shells": [
+      2,
+      8,
+      7
+    ],
+    "discoveredBy": {
+      "kk": "Карл Вильгельм Шееле",
+      "ru": "Карл Вильгельм Шееле",
+      "en": "Carl Wilhelm Scheele"
+    },
+    "discoveryYear": 1774,
+    "uses": {
+      "kk": "Ауыз суды дезинфекциялау, поливинилхлорид (ПВХ) пластиктерін жасау және ағартқыш заттар өндірісінде қолданылады.",
+      "ru": "Обеззараживание питьевой воды и бассейнов, производство поливинилхлорида (ПВХ пластиков), растворителей и отбеливателей.",
+      "en": "Widespread in municipal water disinfection, manufacturing PVC plastic pipes, paper bleaching, and pharmaceuticals."
+    },
+    "description": {
+      "kk": "Өткіз тұншықтырғыш иісі бар сары-жасыл ауыр газ, өте белсенді тотықтырғыш.",
+      "ru": "Ядовитый жёлто-зелёный удушливый газ, в 2.5 раза тяжелее воздуха, сильнейший дезинфектант.",
+      "en": "A toxic, pale green-yellow gas with an irritating bleach-like odor, widely used in chemical sanitation."
+    }
+  },
+  {
+    "number": 18,
+    "symbol": "Ar",
+    "name": {
+      "kk": "Аргон",
+      "ru": "Аргон",
+      "en": "Argon"
+    },
+    "atomicMass": 39.95,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 3,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 83.81,
+    "boilingPoint": 87.3,
+    "density": 1.784,
+    "electronegativity": null,
+    "oxidationStates": "0",
+    "electronConfiguration": "[Ne] 3s² 3p⁶",
+    "shells": [
+      2,
+      8,
+      8
+    ],
+    "discoveredBy": {
+      "kk": "Джон Уильям Рэлей және Уильям Рамзай",
+      "ru": "Лорд Рэлей и Уильям Рамзай",
+      "en": "Lord Rayleigh and William Ramsay"
+    },
+    "discoveryYear": 1894,
+    "uses": {
+      "kk": "Титан мен тот баспайтын болатты доғалық дәнекерлеуде инертті орта құруға және шыныпакеттердің жылу оқшаулағышы ретінде қолданылады.",
+      "ru": "Защитный газ при электросварке алюминия и титана, заполнение ламп накаливания и стеклопакетов для термоизоляции.",
+      "en": "Standard shielding gas in metal welding, filling double-glazed thermal windows, and preserving historical manuscripts."
+    },
+    "description": {
+      "kk": "Жер атмосферасындағы ең көп таралған асыл газ (~0.93%), химиялық реакцияларға түспейтін жалқау элемент.",
+      "ru": "Третий по объёму газ земной атмосферы (0.93%), полностью лишённый вкуса, цвета и запаха.",
+      "en": "The third most abundant gas in Earth's atmosphere, chemically inert and used when an unreactive atmosphere is required."
+    }
+  },
+  {
+    "number": 19,
+    "symbol": "K",
+    "name": {
+      "kk": "Калий",
+      "ru": "Калий",
+      "en": "Potassium"
+    },
+    "atomicMass": 39.098,
+    "category": "alkali-metal",
+    "group": 1,
+    "period": 4,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 336.7,
+    "boilingPoint": 1032,
+    "density": 0.862,
+    "electronegativity": 0.82,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[Ar] 4s¹",
+    "shells": [
+      2,
+      8,
+      8,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Гемфри Дэви",
+      "ru": "Гемфри Дэви",
+      "en": "Humphry Davy"
+    },
+    "discoveryYear": 1807,
+    "uses": {
+      "kk": "Калий тыңайтқыштары (хлорид және сульфат), сұйық сабын өндірісі және жүрек жұмысы мен жүйке импульсін тасымалдау.",
+      "ru": "Производство калийных удобрений для растений, жидкого мыла, пороха и поддержание клеточного натрий-калиевого насоса.",
+      "en": "Vital agricultural fertilizer, critical electrolyte in human neural conduction and cardiac rhythm regulation."
+    },
+    "description": {
+      "kk": "Жұмсақ сілтілік металл, сумен әрекеттескенде күлгін түсті жалынмен қарқынды жанады.",
+      "ru": "Серебристый металл, мгновенно окисляющийся на воздухе и реагирующий с водой с воспламенением сиреневым пламенем.",
+      "en": "Soft silvery alkali metal reacting violently with water, producing lilac flames of burning hydrogen."
+    }
+  },
+  {
+    "number": 20,
+    "symbol": "Ca",
+    "name": {
+      "kk": "Кальций",
+      "ru": "Кальций",
+      "en": "Calcium"
+    },
+    "atomicMass": 40.078,
+    "category": "alkaline-earth",
+    "group": 2,
+    "period": 4,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 1115,
+    "boilingPoint": 1757,
+    "density": 1.54,
+    "electronegativity": 1,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Ar] 4s²",
+    "shells": [
+      2,
+      8,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Гемфри Дэви",
+      "ru": "Гемфри Дэви",
+      "en": "Humphry Davy"
+    },
+    "discoveryYear": 1808,
+    "uses": {
+      "kk": "Цемент, бетон, гипс және әктас өндірісінде, сүйек пен тістің беріктігін қамтамасыз ететін негізгі биогендік элемент.",
+      "ru": "Основа строительных материалов (цемент, гипс, известь), ключевой минеральный компонент костей и зубов скелета человека.",
+      "en": "The structural backbone of concrete and mortar, essential mineral for animal bones, teeth, and cellular signaling."
+    },
+    "description": {
+      "kk": "Адам ағзасында ең көп кездесетін металл, сүйек құрамындағы гидроксиапатит түрінде шоғырланған.",
+      "ru": "Пятый по распространенности элемент в земной коре и важнейший макроэлемент живых организмов.",
+      "en": "The fifth most abundant element in Earth's crust and the most abundant mineral in the human body."
+    }
+  },
+  {
+    "number": 21,
+    "symbol": "Sc",
+    "name": {
+      "kk": "Скандий",
+      "ru": "Скандий",
+      "en": "Scandium"
+    },
+    "atomicMass": 44.956,
+    "category": "transition-metal",
+    "group": 3,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1814,
+    "boilingPoint": 3109,
+    "density": 2.985,
+    "electronegativity": 1.36,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Ar] 3d¹ 4s²",
+    "shells": [
+      2,
+      8,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Ларс Фредрик Нильсон",
+      "ru": "Ларс Фредерик Нильсон",
+      "en": "Lars Fredrik Nilson"
+    },
+    "discoveryYear": 1879,
+    "uses": {
+      "kk": "Аэроғарыш кешеніне арналған скандий-алюминий қорытпалары, спорттық велосипед жақтаулары және металлогалогенді жарық шамдарында.",
+      "ru": "Легирующая добавка в алюминиевые сплавы для авиации, бейсбольные биты, рамы велосипедов и яркие металлогалогенные лампы.",
+      "en": "Used in lightweight aerospace aluminum-scandium alloys, premium sports gear, and high-intensity stadium lighting."
+    },
+    "description": {
+      "kk": "Менделеев алдын ала болжаған (эка-бор) және Скандинавия құрметіне аталған өтпелі металл.",
+      "ru": "Переходный металл, предсказанный Д.И. Менделеевым как экабор и открытый в скандинавских минералах.",
+      "en": "A silvery-white transition metal historically predicted by Mendeleev as 'eka-boron'."
+    }
+  },
+  {
+    "number": 22,
+    "symbol": "Ti",
+    "name": {
+      "kk": "Титан",
+      "ru": "Титан",
+      "en": "Titanium"
+    },
+    "atomicMass": 47.867,
+    "category": "transition-metal",
+    "group": 4,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1941,
+    "boilingPoint": 3560,
+    "density": 4.506,
+    "electronegativity": 1.54,
+    "oxidationStates": "+2, +3, +4",
+    "electronConfiguration": "[Ar] 3d² 4s²",
+    "shells": [
+      2,
+      8,
+      10,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Грегор",
+      "ru": "Уильям Грегор",
+      "en": "William Gregor"
+    },
+    "discoveryYear": 1791,
+    "uses": {
+      "kk": "Ұшақтар мен зымыран корпустары, хирургиялық тіс және сүйек импланттары, сондай-ақ ақ бояу пигменті (TiO₂).",
+      "ru": "Корпуса сверхзвуковых самолётов, ракет, медицинские суставные импланты и белый пигмент диоксид титана (TiO₂).",
+      "en": "Used in supersonic jet airframes, biocompatible surgical prosthetics and dental implants, and titanium dioxide white pigment."
+    },
+    "description": {
+      "kk": "Болаттай берік, бірақ одан 45%-ға жеңіл және теңіз суында мүлде тот баспайтын керемет металл.",
+      "ru": "Лёгкий и сверхпрочный коррозионностойкий металл, обладающий абсолютной биологической совместимостью.",
+      "en": "Renowned for its high strength-to-weight ratio, extreme corrosion resistance, and complete biocompatibility."
+    }
+  },
+  {
+    "number": 23,
+    "symbol": "V",
+    "name": {
+      "kk": "Ванадий",
+      "ru": "Ванадий",
+      "en": "Vanadium"
+    },
+    "atomicMass": 50.942,
+    "category": "transition-metal",
+    "group": 5,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2183,
+    "boilingPoint": 3680,
+    "density": 6.11,
+    "electronegativity": 1.63,
+    "oxidationStates": "+2, +3, +4, +5",
+    "electronConfiguration": "[Ar] 3d³ 4s²",
+    "shells": [
+      2,
+      8,
+      11,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Андрес Мануэль дель Рио",
+      "ru": "Андрес Мануэль дель Рио",
+      "en": "Andrés Manuel del Río"
+    },
+    "discoveryYear": 1801,
+    "uses": {
+      "kk": "Болатқа беріктік беретін қорытпалар (феррованадий), химиялық катализаторлар (V₂O₅) және өндірістік батареялар.",
+      "ru": "Легирование высокопрочной инструментальной стали (хром-ванадий), катализатор окисления SO₂ и проточные аккумуляторы.",
+      "en": "Mainly used to produce shock-resistant vanadium steels for tools and axles, and in large redox flow storage batteries."
+    },
+    "description": {
+      "kk": "Скандинавияның сұлулық құдайы Ванадистің құрметіне аталған, ерітінділері қанық түрлі түсті қосылыстар түзетін металл.",
+      "ru": "Назван в честь скандинавской богини красоты Ванадис из-за поразительного разнообразия ярких цветов его ионов.",
+      "en": "Named after Vanadis, Norse goddess of beauty, owing to the rich multicolored solutions of its oxidation states."
+    }
+  },
+  {
+    "number": 24,
+    "symbol": "Cr",
+    "name": {
+      "kk": "Хром",
+      "ru": "Хром",
+      "en": "Chromium"
+    },
+    "atomicMass": 51.996,
+    "category": "transition-metal",
+    "group": 6,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2180,
+    "boilingPoint": 2944,
+    "density": 7.15,
+    "electronegativity": 1.66,
+    "oxidationStates": "+2, +3, +6",
+    "electronConfiguration": "[Ar] 3d⁵ 4s¹",
+    "shells": [
+      2,
+      8,
+      13,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Луи Николя Воклен",
+      "ru": "Луи Николя Воклен",
+      "en": "Louis Nicolas Vauquelin"
+    },
+    "discoveryYear": 1797,
+    "uses": {
+      "kk": "Тот баспайтын болат өндірісі, автомобиль бөлшектерін хромдап жылтырату және рубиннің қызыл түсін беретін ион ретінде.",
+      "ru": "Производство нержавеющей стали (от 11% хрома), блестящее хромирование деталей и пигменты для красок.",
+      "en": "Key ingredient in stainless steel, decorative mirror chrome plating, leather tanning, and industrial dye pigments."
+    },
+    "description": {
+      "kk": "Барлық таза металдардың ішіндегі ең қаттысы (Моос шкаласымен 8.5 балға жуық).",
+      "ru": "Самый твёрдый чистый металл; придаёт красный цвет кристаллам рубина и зелёный — изумрудам.",
+      "en": "A steely-grey, lustrous metal with extraordinary hardness and corrosion resistance, essential in metallurgy."
+    }
+  },
+  {
+    "number": 25,
+    "symbol": "Mn",
+    "name": {
+      "kk": "Марганец",
+      "ru": "Марганец",
+      "en": "Manganese"
+    },
+    "atomicMass": 54.938,
+    "category": "transition-metal",
+    "group": 7,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1519,
+    "boilingPoint": 2334,
+    "density": 7.44,
+    "electronegativity": 1.55,
+    "oxidationStates": "+2, +3, +4, +6, +7",
+    "electronConfiguration": "[Ar] 3d⁵ 4s²",
+    "shells": [
+      2,
+      8,
+      13,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Юхан Готлиб Ган",
+      "ru": "Юхан Готлиб Ган",
+      "en": "Johan Gottlieb Gahn"
+    },
+    "discoveryYear": 1774,
+    "uses": {
+      "kk": "Болат балқытуда күкірттен тазарту, рельстерге арналған тозуға төзімді болат, сілтілі батареялар және антисептик марганцовка.",
+      "ru": "Раскисление стали при плавке, производство износостойких сплавов для рельсов, сухих щелочных батареек и перманганата калия.",
+      "en": "Essential for deoxidizing and strengthening structural steel, alkaline batteries, and potassium permanganate disinfectant."
+    },
+    "description": {
+      "kk": "Қазақстан марганец қоры бойынша әлемде алдыңғы қатарда тұрған маңызды өндірістік өтпелі металл.",
+      "ru": "Металл серого цвета, играющий ключевую роль в металлургии и биологическом фотосинтетическом расщеплении воды.",
+      "en": "A brittle silvery metal vital in industrial steel production and the photosynthetic oxygen-evolving complex."
+    }
+  },
+  {
+    "number": 26,
+    "symbol": "Fe",
+    "name": {
+      "kk": "Темір",
+      "ru": "Железо",
+      "en": "Iron"
+    },
+    "atomicMass": 55.845,
+    "category": "transition-metal",
+    "group": 8,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1811,
+    "boilingPoint": 3134,
+    "density": 7.874,
+    "electronegativity": 1.83,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Ar] 3d⁶ 4s²",
+    "shells": [
+      2,
+      8,
+      14,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известно с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Қазіргі өркениеттің негізгі құрылымдық металы (шойын, болат), көпірлер, ғимараттар мен қандағы гемоглобиннің өзегі.",
+      "ru": "Основа современной цивилизации (90% всех используемых металлов: чугун, сталь), мосты, машины и гемоглобин крови.",
+      "en": "The most widely used of all metals, making up 90% of global metal output (cast iron and steel), and the core of hemoglobin."
+    },
+    "description": {
+      "kk": "Жер планетасының жалпы массасы бойынша ең басты элементі, ядросында еріген күйде магнит өрісін тудырады.",
+      "ru": "Самый массивный элемент планеты Земля (образует ядро), дающий крови красный цвет и переносящий кислород.",
+      "en": "The most abundant element on Earth by total mass, composing much of Earth's outer and inner core."
+    }
+  },
+  {
+    "number": 27,
+    "symbol": "Co",
+    "name": {
+      "kk": "Кобальт",
+      "ru": "Кобальт",
+      "en": "Cobalt"
+    },
+    "atomicMass": 58.933,
+    "category": "transition-metal",
+    "group": 9,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1768,
+    "boilingPoint": 3200,
+    "density": 8.9,
+    "electronegativity": 1.88,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Ar] 3d⁷ 4s²",
+    "shells": [
+      2,
+      8,
+      15,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Георг Брандт",
+      "ru": "Георг Брандт",
+      "en": "Georg Brandt"
+    },
+    "discoveryYear": 1735,
+    "uses": {
+      "kk": "Литий-ионды аккумуляторлардың катодтары, қуатты магниттер (Alnico), реактивті қозғалтқыштардың ыстыққа төзімді қорытпалары және В₁₂ дәрумені.",
+      "ru": "Катоды аккумуляторов электромобилей, сверхпрочные жаростойкие суперсплавы для турбин, мощные магниты и витамин B₁₂.",
+      "en": "Critical in electric car lithium-ion battery cathodes, jet turbine superalloys, magnetic media, and vitamin B12."
+    },
+    "description": {
+      "kk": "Шыны мен керамикаға қанық терең көк түс беретін ферромагнитті металл.",
+      "ru": "Ферромагнитный металл, окрашивающий силикатное стекло и глазурь в глубокий насыщенный сапфирово-синий цвет.",
+      "en": "A hard ferromagnetic metal historically prized for producing intense blue pigments in stained glass and ceramics."
+    }
+  },
+  {
+    "number": 28,
+    "symbol": "Ni",
+    "name": {
+      "kk": "Никель",
+      "ru": "Никель",
+      "en": "Nickel"
+    },
+    "atomicMass": 58.693,
+    "category": "transition-metal",
+    "group": 10,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1728,
+    "boilingPoint": 3186,
+    "density": 8.908,
+    "electronegativity": 1.91,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Ar] 3d⁸ 4s²",
+    "shells": [
+      2,
+      8,
+      16,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Аксель Фредрик Кронстедт",
+      "ru": "Аксель Фредрик Кронстедт",
+      "en": "Axel Fredrik Cronstedt"
+    },
+    "discoveryYear": 1751,
+    "uses": {
+      "kk": "Тот баспайтын болат, монеталар, никель-кадмий батареялары және гидрлеу химиялық процестерінің катализаторы.",
+      "ru": "Легирование нержавеющей стали, чеканка монет, никелирование от коррозии и катализаторы гидрирования масел.",
+      "en": "Extensively used in stainless steels, electroplating, rechargeable batteries, coin metallurgy, and chemical catalysts."
+    },
+    "description": {
+      "kk": "Күмістей жылтыр, коррозияға төзімді ферромагнитті металл.",
+      "ru": "Пластичный серебристо-белый металл с высокой коррозионной стойкостью при высоких температурах.",
+      "en": "A versatile silvery-white lustrous metal with golden undertones, resistant to corrosion and heat."
+    }
+  },
+  {
+    "number": 29,
+    "symbol": "Cu",
+    "name": {
+      "kk": "Мыс",
+      "ru": "Медь",
+      "en": "Copper"
+    },
+    "atomicMass": 63.546,
+    "category": "transition-metal",
+    "group": 11,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1357.77,
+    "boilingPoint": 2835,
+    "density": 8.96,
+    "electronegativity": 1.9,
+    "oxidationStates": "+1, +2",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известна с древности",
+      "en": "Middle East civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Электр сымдары мен кабельдер, су құбырлары, электроника, қола және жез қорытпаларының басты негізі.",
+      "ru": "Электропроводка, силовые кабели, трубы водоснабжения, интегральные платы, сплавы бронзы и латуни.",
+      "en": "The premier conductor for electrical wiring, motors, architectural plumbing, printed circuits, bronze, and brass."
+    },
+    "description": {
+      "kk": "Алтынмен қатар ақ емес табиғи түске ие санаулы металдардың бірі (қызыл-қызғылт реңк).",
+      "ru": "Один из первых металлов, освоенных человечеством; обладает исключительной электро- и теплопроводностью.",
+      "en": "One of the few metallic elements with a natural non-gray hue, ductile, malleable, and antimicrobial."
+    }
+  },
+  {
+    "number": 30,
+    "symbol": "Zn",
+    "name": {
+      "kk": "Мырыш",
+      "ru": "Цинк",
+      "en": "Zinc"
+    },
+    "atomicMass": 65.38,
+    "category": "transition-metal",
+    "group": 12,
+    "period": 4,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 692.68,
+    "boilingPoint": 1180,
+    "density": 7.14,
+    "electronegativity": 1.65,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s²",
+    "shells": [
+      2,
+      8,
+      18,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Андреас Сигизмунд Маргграф",
+      "ru": "Андреас Маргграф",
+      "en": "Indian metallurgists / Marggraf"
+    },
+    "discoveryYear": 1746,
+    "uses": {
+      "kk": "Болатты тоттан сақтау үшін мырыштау (гальваника), жез қорытпалары, батареялар және адамның иммундық жүйесінің ферменттері.",
+      "ru": "Оцинковка кровельного железа и кузовов авто от ржавчины, латунь, батарейки и важный микроэлемент иммунной системы.",
+      "en": "Used primarily in galvanizing steel against rust, producing brass, die-cast components, and vital immune enzymes."
+    },
+    "description": {
+      "kk": "Қазақстанның кен орындарында (Риддер, Шалқия) мол өндірілетін маңызды түсті металл.",
+      "ru": "Голубовато-белый металл, пассивирующийся на воздухе тонким слоем основного карбоната.",
+      "en": "A moderately reactive bluish-white metal that forms protective carbonate patina layers."
+    }
+  },
+  {
+    "number": 31,
+    "symbol": "Ga",
+    "name": {
+      "kk": "Галлий",
+      "ru": "Галлий",
+      "en": "Gallium"
+    },
+    "atomicMass": 69.723,
+    "category": "post-transition-metal",
+    "group": 13,
+    "period": 4,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 302.91,
+    "boilingPoint": 2477,
+    "density": 5.91,
+    "electronegativity": 1.81,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p¹",
+    "shells": [
+      2,
+      8,
+      18,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Поль Эмиль Лекок де Буабодран",
+      "ru": "Поль Эмиль Лекок де Буабодран",
+      "en": "Paul-Émile Lecoq de Boisbaudran"
+    },
+    "discoveryYear": 1875,
+    "uses": {
+      "kk": "Жартылай өткізгіш микроэлектроника (GaAs, GaN), көгілдір және ультракүлгін лазерлер мен жоғары температуралы термометрлер.",
+      "ru": "Арсенид и нитрид галлия (GaAs, GaN) в микрочипах, светодиодах, лазерах Blu-ray и высокотемпературных термометрах.",
+      "en": "Crucial for gallium arsenide (GaAs) and gallium nitride (GaN) semiconductors in smartphones and blue LEDs."
+    },
+    "description": {
+      "kk": "Адам алақанының жылуынан еріп кетеді (балқу температурасы 29.76 °C), шыны мен фарфорды керемет сулайды.",
+      "ru": "Плавится прямо в руках (температура плавления 29.8 °C); открытие галлия подтвердило точность таблицы Менделеева.",
+      "en": "Melts in human hands (m.p. 29.76 °C) and has one of the largest liquid temperature ranges of any element."
+    }
+  },
+  {
+    "number": 32,
+    "symbol": "Ge",
+    "name": {
+      "kk": "Германий",
+      "ru": "Германий",
+      "en": "Germanium"
+    },
+    "atomicMass": 72.63,
+    "category": "metalloid",
+    "group": 14,
+    "period": 4,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 1211.4,
+    "boilingPoint": 3106,
+    "density": 5.323,
+    "electronegativity": 2.01,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p²",
+    "shells": [
+      2,
+      8,
+      18,
+      4
+    ],
+    "discoveredBy": {
+      "kk": "Клеменс Винклер",
+      "ru": "Клеменс Винклер",
+      "en": "Clemens Winkler"
+    },
+    "discoveryYear": 1886,
+    "uses": {
+      "kk": "Түнгі көру құрылғыларының инфрақызыл оптикасы, талшықты-оптикалық байланыс желілері және жоғары тиімді күн панельдері.",
+      "ru": "Инфракрасная оптика для тепловизоров ночного видения, волоконно-оптические кабели и солнечные батареи спутников.",
+      "en": "Essential in fiber-optic communications, night-vision infrared optics, polymerization catalysts, and solar panels."
+    },
+    "description": {
+      "kk": "Менделеев алдын ала «экасилиций» деп сипаттаған, кейін табылған асыл жартылай металл.",
+      "ru": "Блестящий твердый полуметалл, триумфально подтвердивший предсказание Менделеева под именем экакремний.",
+      "en": "A lustrous hard metalloid, famously predicted by Mendeleev as 'eka-silicon'."
+    }
+  },
+  {
+    "number": 33,
+    "symbol": "As",
+    "name": {
+      "kk": "Мышьяк",
+      "ru": "Мышьяк",
+      "en": "Arsenic"
+    },
+    "atomicMass": 74.922,
+    "category": "metalloid",
+    "group": 15,
+    "period": 4,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 1090,
+    "boilingPoint": 887,
+    "density": 5.776,
+    "electronegativity": 2.18,
+    "oxidationStates": "-3, +3, +5",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p³",
+    "shells": [
+      2,
+      8,
+      18,
+      5
+    ],
+    "discoveredBy": {
+      "kk": "Альберт Ұлы",
+      "ru": "Альберт Великий",
+      "en": "Albertus Magnus"
+    },
+    "discoveryYear": 1250,
+    "uses": {
+      "kk": "Галлий арсениді жартылай өткізгіштерінде, қорғасын аккумуляторларының қорытпаларында және кейбір дәрі-дәрмектерде.",
+      "ru": "Полупроводники арсенид галлия, упрочнение свинцовой дроби в металлургии и лекарства против трипаносомоза.",
+      "en": "Dopant in semiconductor manufacturing, strengthening lead alloys in car batteries, and specialized pharmaceuticals."
+    },
+    "description": {
+      "kk": "Тарихта «патшалар уы» атанған, қыздырған кезде сарымсақ иісі шығатын жартылай металл.",
+      "ru": "Известный яд истории; при нагревании сублимируется минуя жидкое состояние с характерным чесночным запахом.",
+      "en": "A notorious poisonous metalloid that sublimates at normal pressure with a distinct garlic odor."
+    }
+  },
+  {
+    "number": 34,
+    "symbol": "Se",
+    "name": {
+      "kk": "Селен",
+      "ru": "Селен",
+      "en": "Selenium"
+    },
+    "atomicMass": 78.971,
+    "category": "reactive-nonmetal",
+    "group": 16,
+    "period": 4,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 494,
+    "boilingPoint": 958,
+    "density": 4.809,
+    "electronegativity": 2.55,
+    "oxidationStates": "-2, +4, +6",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁴",
+    "shells": [
+      2,
+      8,
+      18,
+      6
+    ],
+    "discoveredBy": {
+      "kk": "Йёнс Якоб Берцелиус",
+      "ru": "Йёнс Якоб Берцелиус",
+      "en": "Jöns Jacob Berzelius"
+    },
+    "discoveryYear": 1817,
+    "uses": {
+      "kk": "Ксерокс аппараттарының фотосезімтал барабандары, қызыл шыны бояуы және адам денсаулығы үшін қажетті антиоксиданттық микроэлемент.",
+      "ru": "Фотобарабаны лазерных принтеров и ксероксов, рубиновое стекло, селеновые выпрямители и важный антиоксидант.",
+      "en": "Photoconductor in photocopiers, ruby red glass coloring, photovoltaic panels, and essential dietary micronutrient."
+    },
+    "description": {
+      "kk": "Ай құрметіне аталған (грекше Селена), жарық түскенде электр өткізгіштігі 1000 есе артатын фотоэлектрлік элемент.",
+      "ru": "Назван в честь Луны; проводит ток при освещении значительно лучше, чем в темноте (фотопроводимость).",
+      "en": "Named after the Moon (Selene); exhibits photoconductivity where its electrical conductivity surges when exposed to light."
+    }
+  },
+  {
+    "number": 35,
+    "symbol": "Br",
+    "name": {
+      "kk": "Бром",
+      "ru": "Бром",
+      "en": "Bromine"
+    },
+    "atomicMass": 79.904,
+    "category": "reactive-nonmetal",
+    "group": 17,
+    "period": 4,
+    "block": "p",
+    "state": "liquid",
+    "meltingPoint": 265.8,
+    "boilingPoint": 332,
+    "density": 3.1028,
+    "electronegativity": 2.96,
+    "oxidationStates": "-1, +1, +3, +5",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁵",
+    "shells": [
+      2,
+      8,
+      18,
+      7
+    ],
+    "discoveredBy": {
+      "kk": "Антуан Жером Балар",
+      "ru": "Антуан Жером Балар",
+      "en": "Antoine Jérôme Balard"
+    },
+    "discoveryYear": 1826,
+    "uses": {
+      "kk": "Өртке қарсы антипирен жабындары, дәрі-дәрмектер (тыныштандырғыштар) және фотопленкаға арналған күміс бромиді.",
+      "ru": "Огнестойкие добавки (антипирены) в пластики, седативные лекарственные средства и фотобумага на бромиде серебра.",
+      "en": "Widely synthesized into flame retardants, industrial water treatment biocides, and photographic emulsions."
+    },
+    "description": {
+      "kk": "Бөлме температурасында сұйық күйде болатын жалғыз бейметалл (қоңыр-қызыл түсті өткір иісті сұйықтық).",
+      "ru": "Единственный неметаллический элемент, являющийся жидкостью при нормальных условиях; обладает резким едким запахом.",
+      "en": "The only nonmetallic element that exists as a fuming reddish-brown liquid at standard conditions."
+    }
+  },
+  {
+    "number": 36,
+    "symbol": "Kr",
+    "name": {
+      "kk": "Криптон",
+      "ru": "Криптон",
+      "en": "Krypton"
+    },
+    "atomicMass": 83.798,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 4,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 115.79,
+    "boilingPoint": 119.93,
+    "density": 3.749,
+    "electronegativity": 3,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁶",
+    "shells": [
+      2,
+      8,
+      18,
+      8
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Рамзай және Моррис Траверс",
+      "ru": "Уильям Рамзай и Моррис Траверс",
+      "en": "William Ramsay and Morris Travers"
+    },
+    "discoveryYear": 1898,
+    "uses": {
+      "kk": "Әуежайлардың ұшу-қону жолағындағы қуатты стробоскоптық шамдар, энергия үнемдегіш терезелер және көз микрохирургиясының лазерлері.",
+      "ru": "Импульсные сигнальные лампы аэродромов, заполнение высокоэффективных стеклопакетов и хирургические лазеры.",
+      "en": "High-intensity airport runway strobe lights, insulated double-glazed windows, and precision eye surgery lasers."
+    },
+    "description": {
+      "kk": "Грекше «жасырын» деген мағына береді; 1960–1983 жылдары криптонның спектрлік сызығы метр эталоны ретінде қызмет еткен.",
+      "ru": "Благородный газ; до 1983 года длина волны излучения криптона-86 служила международным эталоном одного метра.",
+      "en": "A dense noble gas; its orange-red spectral line defined the official length of the meter between 1960 and 1983."
+    }
+  },
+  {
+    "number": 37,
+    "symbol": "Rb",
+    "name": {
+      "kk": "Рубидий",
+      "ru": "Рубидий",
+      "en": "Rubidium"
+    },
+    "atomicMass": 85.468,
+    "category": "alkali-metal",
+    "group": 1,
+    "period": 5,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 312.46,
+    "boilingPoint": 961,
+    "density": 1.532,
+    "electronegativity": 0.82,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[Kr] 5s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      8,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Роберт Бунзен және Густав Кирхгоф",
+      "ru": "Роберт Бунзен и Густав Кирхгоф",
+      "en": "Robert Bunsen and Gustav Kirchhoff"
+    },
+    "discoveryYear": 1861,
+    "uses": {
+      "kk": "Атомдық сағаттардың жиілік стандарты, фотоэлементтер мен лазерлік салқындатудағы Бозе-Эйнштейн конденсатын алуда.",
+      "ru": "Высокоточные стандарты частоты атомных часов, фотокатоды и квантовые эксперименты с конденсатом Бозе-Эйнштейна.",
+      "en": "Precision atomic clock oscillators, GPS navigation satellites, and quantum Bose-Einstein condensate research."
+    },
+    "description": {
+      "kk": "Аса белсенді сілтілік металл, ауада өздігінен тұтанады және сумен қопарылыс жасап әрекеттеседі.",
+      "ru": "Очень мягкий и чрезвычайно активный щёлочной металл, самовоспламеняющийся на воздухе.",
+      "en": "A very soft, silvery-white alkali metal that ignites spontaneously in air and violently reacts with water."
+    }
+  },
+  {
+    "number": 38,
+    "symbol": "Sr",
+    "name": {
+      "kk": "Стронций",
+      "ru": "Стронций",
+      "en": "Strontium"
+    },
+    "atomicMass": 87.62,
+    "category": "alkaline-earth",
+    "group": 2,
+    "period": 5,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 1050,
+    "boilingPoint": 1655,
+    "density": 2.64,
+    "electronegativity": 0.95,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Kr] 5s²",
+    "shells": [
+      2,
+      8,
+      18,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Адер Кроуфорд",
+      "ru": "Адер Кроуфорд",
+      "en": "Adair Crawford"
+    },
+    "discoveryYear": 1790,
+    "uses": {
+      "kk": "Пиротехникалық отшашулар мен сигналдық ракеталарға қанық қызыл түс беру, ферритті магниттер және заманауи оптикалық атомдық сағаттар.",
+      "ru": "Ярко-красный цвет салютов и сигнальных ракет, ферритовые постоянные магниты и сверхточные оптические решёточные часы.",
+      "en": "Crimson red coloration in fireworks and emergency signal flares, ferrite magnets, and advanced optical atomic clocks."
+    },
+    "description": {
+      "kk": "Сілтілік-жер металы, жалынды таңғажайып кармин-қызыл түске бояйды.",
+      "ru": "Серебристо-жёлтый металл, горящий с выделением характерного насыщенного карминно-красного пламени.",
+      "en": "A soft silver-yellow alkaline earth metal that imparts an unmistakable intense red flame upon burning."
+    }
+  },
+  {
+    "number": 39,
+    "symbol": "Y",
+    "name": {
+      "kk": "Иттрий",
+      "ru": "Иттрий",
+      "en": "Yttrium"
+    },
+    "atomicMass": 88.906,
+    "category": "transition-metal",
+    "group": 3,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1799,
+    "boilingPoint": 3609,
+    "density": 4.472,
+    "electronegativity": 1.22,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Kr] 4d¹ 5s²",
+    "shells": [
+      2,
+      8,
+      18,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Юхан Гадолин",
+      "ru": "Юхан Гадолин",
+      "en": "Johan Gadolin"
+    },
+    "discoveryYear": 1794,
+    "uses": {
+      "kk": "Жоғары температуралы асқын өткізгіштер (YBCO), ақ жарық диодтары (YAG:Ce), лазерлік кристаллдар және қозғалтқыштардың керамикалық жабындары.",
+      "ru": "Высокотемпературные сверхпроводники (YBCO), твердотельные лазеры YAG, люминофоры белых LED и термостойкая циркониевая керамика.",
+      "en": "High-temperature superconductors (YBCO), neodymium-YAG surgical and cutting lasers, white LEDs, and thermal barrier coatings."
+    },
+    "description": {
+      "kk": "Швецияның Иттербю ауылының құрметіне аталған төрт элементтің алғашқысы.",
+      "ru": "Серебристый переходный металл, давший начало открытию целого семейства лантаноидов в минералах Иттербю.",
+      "en": "Silvery transition metal, historically the first element discovered from the famous Ytterby mine in Sweden."
+    }
+  },
+  {
+    "number": 40,
+    "symbol": "Zr",
+    "name": {
+      "kk": "Цирконий",
+      "ru": "Цирконий",
+      "en": "Zirconium"
+    },
+    "atomicMass": 91.224,
+    "category": "transition-metal",
+    "group": 4,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2128,
+    "boilingPoint": 4682,
+    "density": 6.52,
+    "electronegativity": 1.33,
+    "oxidationStates": "+4",
+    "electronConfiguration": "[Kr] 4d² 5s²",
+    "shells": [
+      2,
+      8,
+      18,
+      10,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Мартин Генрих Клапрот",
+      "ru": "Мартин Генрих Клапрот",
+      "en": "Martin Heinrich Klaproth"
+    },
+    "discoveryYear": 1789,
+    "uses": {
+      "kk": "Атом электр станцияларындағы ядролық отын өзектерінің қабықтары (нейтронды жұтпайды), зергерлік жасанды фианиттер және стоматологиялық коронкалар.",
+      "ru": "Оболочки тепловыделяющих элементов (ТВЭЛ) на АЭС, сверхпрочные зубные коронки из диоксида циркония и фианиты (кубический цирконий).",
+      "en": "Nuclear fuel rod cladding due to exceptionally low neutron absorption, dental ceramic crowns, and synthetic cubic zirconia gems."
+    },
+    "description": {
+      "kk": "Коррозияға ерекше төзімді, ядролық энергетиканың стратегиялық өтпелі металы.",
+      "ru": "Блестящий серовато-белый металл с исключительной устойчивостью к коррозии в агрессивных горячих средах.",
+      "en": "A lustrous, grey-white transition metal indispensable in commercial nuclear fission reactors."
+    }
+  },
+  {
+    "number": 41,
+    "symbol": "Nb",
+    "name": {
+      "kk": "Ниобий",
+      "ru": "Ниобий",
+      "en": "Niobium"
+    },
+    "atomicMass": 92.906,
+    "category": "transition-metal",
+    "group": 5,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2750,
+    "boilingPoint": 5017,
+    "density": 8.57,
+    "electronegativity": 1.6,
+    "oxidationStates": "+3, +5",
+    "electronConfiguration": "[Kr] 4d⁴ 5s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      12,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Чарльз Хэтчетт",
+      "ru": "Чарльз Хэтчетт",
+      "en": "Charles Hatchett"
+    },
+    "discoveryYear": 1801,
+    "uses": {
+      "kk": "МРТ сканерлері мен Үлкен адрон коллайдерінің асқын өткізгіш магниттері (Nb-Ti), магистральдық мұнай құбырларының берік болаттары және зымыран соплолары.",
+      "ru": "Сверхпроводящие магниты МРТ и Большого адронного коллайдера (сплав ниобий-титан), ракетостроение и упрочнение газопроводов.",
+      "en": "Superconducting electromagnets in MRI scanners and particle colliders (NbTi/Nb3Sn), rocket thrusters, and microalloyed pipeline steels."
+    },
+    "description": {
+      "kk": "Танталус патшаның қызы Ниобаның құрметіне аталған, аса өткізгіштік қасиеті жоғары бағалы металл.",
+      "ru": "Пластичный металл, названный по имени Ниобы, дочери мифического Тантала; ключевой элемент технической сверхпроводимости.",
+      "en": "A ductile, grey transition metal with high melting point, named after Niobe from Greek mythology."
+    }
+  },
+  {
+    "number": 42,
+    "symbol": "Mo",
+    "name": {
+      "kk": "Молибден",
+      "ru": "Молибден",
+      "en": "Molybdenum"
+    },
+    "atomicMass": 95.95,
+    "category": "transition-metal",
+    "group": 6,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2896,
+    "boilingPoint": 4912,
+    "density": 10.28,
+    "electronegativity": 2.16,
+    "oxidationStates": "+2, +4, +6",
+    "electronConfiguration": "[Kr] 4d⁵ 5s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      13,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Карл Вильгельм Шееле",
+      "ru": "Карл Вильгельм Шееле",
+      "en": "Carl Wilhelm Scheele"
+    },
+    "discoveryYear": 1778,
+    "uses": {
+      "kk": "Қатты болат қорытпалары, экстремалды температураға арналған майлау заттары (MoS₂), мұнайды күкірттен тазарту катализаторлары.",
+      "ru": "Легирование броневой и нержавеющей стали, твердая термостойкая смазка дисульфид молибдена (MoS₂) и гидроочистка нефти.",
+      "en": "Alloying agent in high-strength steels, solid high-temperature lubricant (MoS2), and petroleum hydrodesulfurization catalysts."
+    },
+    "description": {
+      "kk": "Қазақстанның орталық өңірлерінде ірі кен орындары шоғырланған балқу температурасы аса жоғары металл.",
+      "ru": "Тугоплавкий серебристый металл, незаменимый в военной технике, энергетике и биохимии фиксации азота бактериями.",
+      "en": "A silvery refractory transition metal with the 6th highest melting point, essential in plant nitrogenase enzymes."
+    }
+  },
+  {
+    "number": 43,
+    "symbol": "Tc",
+    "name": {
+      "kk": "Технеций",
+      "ru": "Технеций",
+      "en": "Technetium"
+    },
+    "atomicMass": 98,
+    "category": "transition-metal",
+    "group": 7,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2430,
+    "boilingPoint": 4538,
+    "density": 11.5,
+    "electronegativity": 1.9,
+    "oxidationStates": "+4, +7",
+    "electronConfiguration": "[Kr] 4d⁵ 5s²",
+    "shells": [
+      2,
+      8,
+      18,
+      13,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Эмилио Сегре және Карло Перрье",
+      "ru": "Эмилио Сегре и Карло Перрье",
+      "en": "Emilio Segrè and Carlo Perrier"
+    },
+    "discoveryYear": 1937,
+    "uses": {
+      "kk": "Технеций-99м изотопы ядролық медицинада қатерлі ісіктер мен ішкі ағзаларды радиодиагностикалауда әлемде ең көп қолданылатын зат.",
+      "ru": "Изотоп технеций-99m применяется в 80% всех процедур радиоизотопной медицинской диагностики (ОФЭКТ сканирование костей и органов).",
+      "en": "Its metastable isotope Technetium-99m is the world standard radiopharmaceutical for nuclear medical imaging scans."
+    },
+    "description": {
+      "kk": "Адамзат тарихында жасанды түрде ядролық реакторда синтезделген алғашқы радиоактивті элемент.",
+      "ru": "Первый искусственно полученный человеком химический элемент (от греч. «технетос» — искусственный), не имеющий стабильных изотопов.",
+      "en": "The first predominantly artificially produced element (from Greek 'technetos' - artificial), with no stable isotopes."
+    }
+  },
+  {
+    "number": 44,
+    "symbol": "Ru",
+    "name": {
+      "kk": "Рутений",
+      "ru": "Рутений",
+      "en": "Ruthenium"
+    },
+    "atomicMass": 101.07,
+    "category": "transition-metal",
+    "group": 8,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2607,
+    "boilingPoint": 4423,
+    "density": 12.37,
+    "electronegativity": 2.2,
+    "oxidationStates": "+3, +4, +8",
+    "electronConfiguration": "[Kr] 4d⁷ 5s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      15,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Карл Эрнст Клаус",
+      "ru": "Карл Клаус",
+      "en": "Karl Ernst Claus"
+    },
+    "discoveryYear": 1844,
+    "uses": {
+      "kk": "Компьютердің қатты дискілерінің (HDD) магниттік жазба қабаттары, электр түйіспелерінің тозуға төзімді жабындары және титан анодтары.",
+      "ru": "Покрытия магнитных головок жестких дисков (HDD), износостойкие электрические контакты и размерно-стабильные титановые аноды.",
+      "en": "Hard disk drive magnetic recording layers, wear-resistant electrical relay contacts, and chlorine production anodes."
+    },
+    "description": {
+      "kk": "Платина тобының асыл металы, латынша Ресей атауымен (Ruthenia) аталған.",
+      "ru": "Редкий благородный металл платиновой группы; назван профессором Казанского университета Карлом Клаусом в честь России.",
+      "en": "A rare polyvalent transition metal belonging to the platinum group, named after the Latin word for Russia (Ruthenia)."
+    }
+  },
+  {
+    "number": 45,
+    "symbol": "Rh",
+    "name": {
+      "kk": "Родий",
+      "ru": "Родий",
+      "en": "Rhodium"
+    },
+    "atomicMass": 102.91,
+    "category": "transition-metal",
+    "group": 9,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2237,
+    "boilingPoint": 3968,
+    "density": 12.41,
+    "electronegativity": 2.28,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Kr] 4d⁸ 5s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      16,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Хайд Волластон",
+      "ru": "Уильям Хайд Волластон",
+      "en": "William Hyde Wollaston"
+    },
+    "discoveryYear": 1803,
+    "uses": {
+      "kk": "Автокөліктердің улы газдарды тазартатын катализаторлары (әлемдік өндірістің 80%-ы), ақ алтын зергерлік бұйымдарының жылтыр родий жабыны.",
+      "ru": "Трехкомпонентные каталитические нейтрализаторы выхлопных газов автомобилей и защитно-декоративное родирование белого золота.",
+      "en": "Automotive catalytic converters reducing nitrogen oxides, and ultra-reflective tarnish-proof rhodium plating on fine jewelry."
+    },
+    "description": {
+      "kk": "Жер бетіндегі ең қымбат бағалы асыл металдардың бірі, тұздары раушан-қызғылт түске ие.",
+      "ru": "Один из самых дорогих благородных металлов в мире; назван от греческого «родон» — роза, из-за розового цвета растворов солей.",
+      "en": "One of the most valuable and corrosion-resistant precious metals; named after the Greek word for rose ('rhodon')."
+    }
+  },
+  {
+    "number": 46,
+    "symbol": "Pd",
+    "name": {
+      "kk": "Палладий",
+      "ru": "Палладий",
+      "en": "Palladium"
+    },
+    "atomicMass": 106.42,
+    "category": "transition-metal",
+    "group": 10,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1828.05,
+    "boilingPoint": 3236,
+    "density": 12.023,
+    "electronegativity": 2.2,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Kr] 4d¹⁰",
+    "shells": [
+      2,
+      8,
+      18,
+      18
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Хайд Волластон",
+      "ru": "Уильям Хайд Волластон",
+      "en": "William Hyde Wollaston"
+    },
+    "discoveryYear": 1803,
+    "uses": {
+      "kk": "Бензинді көліктердің бейтараптандырғыш катализаторлары, электрониканың көпқабатты керамикалық конденсаторлары (MLCC) және стоматология.",
+      "ru": "Автомобильные нейтрализаторы, многослойные керамические конденсаторы (MLCC) в электронике, белое золото и очистка водорода.",
+      "en": "Automotive exhaust catalysts, multilayer ceramic capacitors in phones and laptops, hydrogen purification filters, and jewelry."
+    },
+    "description": {
+      "kk": "Өз көлемінен 900 есе көп сутек газын сорып жұта алатын платина тобының асыл металы.",
+      "ru": "Благородный металл, способный обратимо растворять колоссальные объёмы водорода (до 900 объёмов на 1 объём палладия).",
+      "en": "Precious platinum-group metal uniquely capable of absorbing up to 900 times its own volume of hydrogen gas."
+    }
+  },
+  {
+    "number": 47,
+    "symbol": "Ag",
+    "name": {
+      "kk": "Күміс",
+      "ru": "Серебро",
+      "en": "Silver"
+    },
+    "atomicMass": 107.87,
+    "category": "transition-metal",
+    "group": 11,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1234.93,
+    "boilingPoint": 2435,
+    "density": 10.49,
+    "electronegativity": 1.93,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известно с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Күн батареяларының өткізгіш пасталары, зергерлік бұйымдар мен ыдыстар, бактерияға қарсы медициналық жабындар және айналар.",
+      "ru": "Токопроводящие пасты солнечных фотоэлементов, ювелирные украшения, зеркала высшего качества и бактерицидные перевязки.",
+      "en": "Photovoltaic solar cell conductor pastes, fine jewelry and silverware, mirror silvering, and antimicrobial medical wound dressings."
+    },
+    "description": {
+      "kk": "Барлық металдардың ішінде ең жоғары электр өткізгіштікке, жылу өткізгіштікке және жарықты шағылыстыру қабілетіне ие.",
+      "ru": "Обладает самой высокой среди всех известных металлов электрической проводимостью, теплопроводностью и отражательной способностью.",
+      "en": "Boasts the highest electrical conductivity, thermal conductivity, and optical reflectivity of any known metallic element."
+    }
+  },
+  {
+    "number": 48,
+    "symbol": "Cd",
+    "name": {
+      "kk": "Кадмий",
+      "ru": "Кадмий",
+      "en": "Cadmium"
+    },
+    "atomicMass": 112.41,
+    "category": "transition-metal",
+    "group": 12,
+    "period": 5,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 594.22,
+    "boilingPoint": 1040,
+    "density": 8.65,
+    "electronegativity": 1.69,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s²",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Фридрих Штромейер",
+      "ru": "Фридрих Штромейер",
+      "en": "Friedrich Stromeyer"
+    },
+    "discoveryYear": 1817,
+    "uses": {
+      "kk": "Никель-кадмий аккумуляторлары (NiCd), ядролық реакторлардың нейтрон жұтатын реттегіш стерженьдері және суретшілердің кадмий сары бояуы.",
+      "ru": "Никель-кадмиевые аккумуляторы, поглощающие стержни атомных реакторов, кадмиевые желто-оранжевые художественные пигменты.",
+      "en": "Rechargeable nickel-cadmium batteries, nuclear reactor control rods absorbing thermal neutrons, and artists' cadmium pigments."
+    },
+    "description": {
+      "kk": "Жұмсақ уытты ауыр металл, адам ағзасында жинақталып бүйрек пен сүйек тініне зиян келтіреді.",
+      "ru": "Токсичный тяжёлый металл; кумулируется в организме человека, нарушая кальциевый обмен костей (болезнь Итай-итай).",
+      "en": "A soft toxic heavy metal, accumulating in the food chain and biologically displacing zinc in vital human enzymes."
+    }
+  },
+  {
+    "number": 49,
+    "symbol": "In",
+    "name": {
+      "kk": "Индий",
+      "ru": "Индий",
+      "en": "Indium"
+    },
+    "atomicMass": 114.82,
+    "category": "post-transition-metal",
+    "group": 13,
+    "period": 5,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 429.75,
+    "boilingPoint": 2345,
+    "density": 7.31,
+    "electronegativity": 1.78,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p¹",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Фердинанд Райх және Иероним Рихтер",
+      "ru": "Фердинанд Райх и Иероним Теодор Рихтер",
+      "en": "Ferdinand Reich and Hieronymous Theodor Richter"
+    },
+    "discoveryYear": 1863,
+    "uses": {
+      "kk": "Смартфондар мен сенсорлық дисплейлердің мөлдір өткізгіш қабаты (ITO - оксид индия-олова) және төмен балқитын дәнекерлер.",
+      "ru": "Прозрачное токопроводящее покрытие сенсорных экранов смартфонов, мониторов и телевизоров (оксид индия-олова, ITO).",
+      "en": "Indium tin oxide (ITO) transparent conductive coatings indispensable for touchscreens, LCDs, and OLED displays."
+    },
+    "description": {
+      "kk": "Пышақпен оңай кесілетін жұмсақ жылтыр металл; майыстырғанда кристалдарынан ерекше «шықырлаған» дыбыс шығады.",
+      "ru": "Очень мягкий металл, издающий характерный «крик» (хруст кристаллов) при изгибе даже при комнатной температуре.",
+      "en": "A very soft silvery metal so malleable it can be indented with a fingernail and emits a squeaky 'cry' upon bending."
+    }
+  },
+  {
+    "number": 50,
+    "symbol": "Sn",
+    "name": {
+      "kk": "Қалайы",
+      "ru": "Олово",
+      "en": "Tin"
+    },
+    "atomicMass": 118.71,
+    "category": "post-transition-metal",
+    "group": 14,
+    "period": 5,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 505.08,
+    "boilingPoint": 2875,
+    "density": 7.365,
+    "electronegativity": 1.96,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p²",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      4
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известно с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Микросхемалар мен электрониканы дәнекерлеу (припой), консерві қалбырларын ақ қалайымен қаптау және қола қорытпалары.",
+      "ru": "Бессвинцовая пайка электроники и микросхем, лужение консервных банок (белая жесть) и производство бронзы.",
+      "en": "Standard lead-free electronic soldering alloys, tinplate anti-corrosion coating for food cans, and traditional bronze."
+    },
+    "description": {
+      "kk": "Суықта (13.2 °C төмен) ақ қалайы сұр ұнтаққа айналып үгітіліп кететін «қалайы обасы» құбылысымен танымал.",
+      "ru": "При морозе ниже 13.2 °C белое металлическое олово превращается в серый хрупкий порошок («оловянная чума»).",
+      "en": "Famous for the 'tin pest' allotropic transformation into brittle powder below 13.2 °C, and emitting a 'tin cry'."
+    }
+  },
+  {
+    "number": 51,
+    "symbol": "Sb",
+    "name": {
+      "kk": "Сүрме",
+      "ru": "Сурьма",
+      "en": "Antimony"
+    },
+    "atomicMass": 121.76,
+    "category": "metalloid",
+    "group": 15,
+    "period": 5,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 903.78,
+    "boilingPoint": 1860,
+    "density": 6.697,
+    "electronegativity": 2.05,
+    "oxidationStates": "-3, +3, +5",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p³",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      5
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известна с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Өртке қарсы пластмасса қоспалары (антипирендер), қорғасын аккумуляторларының пластиналарын нығайту және түнгі көру оптикасы.",
+      "ru": "Триоксид сурьмы как антипирен для защиты текстиля и полимеров от горения, упрочнение свинцовых пластин АКБ.",
+      "en": "Flame-retardant synergies in plastics and fabrics, strengthening lead plates in vehicle batteries, and infrared detectors."
+    },
+    "description": {
+      "kk": "Қатқан кезде көлемі ұлғаятын сирек заттардың бірі, ежелгі Египетте көз бояуы ретінде пайдаланылған.",
+      "ru": "Хрупкий блестящий полуметалл; расширяется при застывании из расплава, обеспечивая чёткость типографских шрифтов.",
+      "en": "A lustrous gray metalloid that expands on solidification, historically used in ancient cosmetics and printing metal."
+    }
+  },
+  {
+    "number": 52,
+    "symbol": "Te",
+    "name": {
+      "kk": "Теллур",
+      "ru": "Теллур",
+      "en": "Tellurium"
+    },
+    "atomicMass": 127.6,
+    "category": "metalloid",
+    "group": 16,
+    "period": 5,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 722.66,
+    "boilingPoint": 1261,
+    "density": 6.24,
+    "electronegativity": 2.1,
+    "oxidationStates": "-2, +4, +6",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁴",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      6
+    ],
+    "discoveredBy": {
+      "kk": "Франц Йозеф Мюллер фон Райхенштейн",
+      "ru": "Франц Йозеф Мюллер",
+      "en": "Franz-Joseph Müller von Reichenstein"
+    },
+    "discoveryYear": 1782,
+    "uses": {
+      "kk": "Кадмий теллуриді (CdTe) жұқа қабықты күн батареялары, термоэлектрлік салқындатқыштар (Пельтье элементтері) және қайта жазылатын оптикалық дискілер.",
+      "ru": "Тонкопленочные солнечные панели на теллуриде кадмия (CdTe), термоэлектрические элементы Пельтье и CD-RW/DVD-RW диски.",
+      "en": "Thin-film cadmium telluride solar panels, thermoelectric cooling devices (Peltier coolers), and rewritable optical media."
+    },
+    "description": {
+      "kk": "Жер шарының құрметіне аталған (латынша Tellus), табиғатта алтынмен қосылыс (калаверит) түзе алатын санаулы элементтің бірі.",
+      "ru": "Назван в честь Земли (Tellus); один из немногих элементов, способных образовывать природные соединения с чистым золотом.",
+      "en": "Named after Tellus, the Roman goddess of the Earth; one of the very few elements forming natural chemical bonds with gold."
+    }
+  },
+  {
+    "number": 53,
+    "symbol": "I",
+    "name": {
+      "kk": "Йод",
+      "ru": "Иод",
+      "en": "Iodine"
+    },
+    "atomicMass": 126.9,
+    "category": "reactive-nonmetal",
+    "group": 17,
+    "period": 5,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 386.85,
+    "boilingPoint": 457.4,
+    "density": 4.933,
+    "electronegativity": 2.66,
+    "oxidationStates": "-1, +1, +5, +7",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁵",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      7
+    ],
+    "discoveredBy": {
+      "kk": "Бернар Куртуа",
+      "ru": "Бернар Куртуа",
+      "en": "Bernard Courtois"
+    },
+    "discoveryYear": 1811,
+    "uses": {
+      "kk": "Медициналық антисептиктер, қалқанша безі гормондарының (тироксин) синтезі және йодталған ас тұзы.",
+      "ru": "Медицинская дезинфекция ран, йодирование поваренной соли против эндемического зоба и рентгеноконтрастные препараты.",
+      "en": "Medical skin antiseptics, table salt iodization to prevent thyroid disease, and CT-scan contrast imaging media."
+    },
+    "description": {
+      "kk": "Қыздырған кезде сұйыққа айналмай, бірден қанық күлгін буға айналатын (сублимация) галоген.",
+      "ru": "Тёмно-фиолетовые кристаллы, при нагревании возгоняющиеся в плотный фиолетовый пар минуя жидкую фазу.",
+      "en": "Lustrous purple-black solid that sublimes smoothly into a spectacular dense violet gas when heated."
+    }
+  },
+  {
+    "number": 54,
+    "symbol": "Xe",
+    "name": {
+      "kk": "Ксенон",
+      "ru": "Ксенон",
+      "en": "Xenon"
+    },
+    "atomicMass": 131.29,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 5,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 161.4,
+    "boilingPoint": 165.03,
+    "density": 5.894,
+    "electronegativity": 2.6,
+    "oxidationStates": "+2, +4, +6",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁶",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      8
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Рамзай және Моррис Траверс",
+      "ru": "Уильям Рамзай и Моррис Траверс",
+      "en": "William Ramsay and Morris Travers"
+    },
+    "discoveryYear": 1898,
+    "uses": {
+      "kk": "Ғарыш аппараттарының иондық қозғалтқыштарының жұмысшы газы, автомобильдердің ксенон шамдары және қауіпсіз жалпы медициналық наркоз.",
+      "ru": "Ионные ракетные двигатели космических зондов и спутников, яркие ксеноновые фары и идеальный наркоз в нейрохирургии.",
+      "en": "Propellant fuel for spacecraft ion thrusters, automotive HID headlights, IMAX cinema projectors, and neuroprotective anesthesia."
+    },
+    "description": {
+      "kk": "Асыл газдардың арасынан бірінші болып фтормен химиялық қосылыс түзген элемент (1962 жыл).",
+      "ru": "Тяжёлый благородный газ; первым опроверг абсолютную инертность газов в синтезе гексафтороплатината ксенона.",
+      "en": "A dense noble gas that shattered chemical theory in 1962 by proving inert gases can indeed form stable compounds."
+    }
+  },
+  {
+    "number": 55,
+    "symbol": "Cs",
+    "name": {
+      "kk": "Цезий",
+      "ru": "Цезий",
+      "en": "Caesium"
+    },
+    "atomicMass": 132.91,
+    "category": "alkali-metal",
+    "group": 1,
+    "period": 6,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 301.59,
+    "boilingPoint": 944,
+    "density": 1.93,
+    "electronegativity": 0.79,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[Xe] 6s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Роберт Бунзен және Густав Кирхгоф",
+      "ru": "Роберт Бунзен и Густав Кирхгоф",
+      "en": "Robert Bunsen and Gustav Kirchhoff"
+    },
+    "discoveryYear": 1860,
+    "uses": {
+      "kk": "Халықаралық уақыт пен секундтың ресми эталоны болып табылатын атомдық сағаттар, бұрғылау ерітінділері және фотокөбейткіштер.",
+      "ru": "Атомные стандарты частоты: 1 секунда СИ официально определена как 9 192 631 770 колебаний атома цезия-133.",
+      "en": "The global standard of time: 1 SI second is defined as exactly 9,192,631,770 cycles of Cs-133 radiation, plus drilling fluids."
+    },
+    "description": {
+      "kk": "Алтын түстес жылтыры бар ең белсенді тұрақты металл, бөлмеден сәл жоғары температурада ериді (28.5 °C).",
+      "ru": "Золотистый чрезвычайно химически активный металл, взрывающийся при контакте с водой даже на льду.",
+      "en": "Silvery-gold alkali metal with the lowest ionization energy of stable elements; melts slightly above room temperature (28.4 °C)."
+    }
+  },
+  {
+    "number": 56,
+    "symbol": "Ba",
+    "name": {
+      "kk": "Барий",
+      "ru": "Барий",
+      "en": "Barium"
+    },
+    "atomicMass": 137.33,
+    "category": "alkaline-earth",
+    "group": 2,
+    "period": 6,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 1000,
+    "boilingPoint": 2170,
+    "density": 3.51,
+    "electronegativity": 0.89,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Xe] 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Карл Вильгельм Шееле",
+      "ru": "Карл Вильгельм Шееле",
+      "en": "Carl Wilhelm Scheele"
+    },
+    "discoveryYear": 1774,
+    "uses": {
+      "kk": "Асқазан-ішек жолдарын рентгенмен тексеруге арналған контрастты барий ботқасы (BaSO₄), мұнай ұңғымаларын бұрғылау және пиротехникалық жасыл оттар.",
+      "ru": "Рентгеноконтрастная суспензия сульфата бария для диагностики ЖКТ, утяжелитель буровых растворов нефти и ярко-зеленые фейерверки.",
+      "en": "Barium meal radiocontrast agent for digestive gastrointestinal X-rays, oil drilling barite fluids, and emerald green fireworks."
+    },
+    "description": {
+      "kk": "Ауыр сілтілік-жер металы, жалынды қанық ашық-жасыл түске бояйды.",
+      "ru": "Мягкий ковкий металл; его сульфат абсолютно нетоксичен из-за нерастворимости, несмотря на ядовитость ионов Ba²⁺.",
+      "en": "A soft silvery alkaline earth metal that burns with a pale green flame, widely used as insoluble barite."
+    }
+  },
+  {
+    "number": 57,
+    "symbol": "La",
+    "name": {
+      "kk": "Лантан",
+      "ru": "Лантан",
+      "en": "Lanthanum"
+    },
+    "atomicMass": 138.91,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1193,
+    "boilingPoint": 3737,
+    "density": 6.162,
+    "electronegativity": 1.1,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 5d¹ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Карл Густав Мосандер",
+      "ru": "Карл Густав Мосандер",
+      "en": "Carl Gustaf Mosander"
+    },
+    "discoveryYear": 1839,
+    "uses": {
+      "kk": "Гибридті көліктердің NiMH аккумуляторларының электродтары, жоғары сыну көрсеткіші бар камера объективтерінің шынысы және мұнай крекингі.",
+      "ru": "Никель-металлгидридные батареи гибридных автомобилей (Toyota Prius), высококачественные линзы фотокамер и крекинг нефти.",
+      "en": "Negative electrodes of nickel-metal hydride batteries for hybrid cars, high-refractive-index camera lenses, and oil refining catalysts."
+    },
+    "description": {
+      "kk": "Лантаноидтар тұқымдасының басы; грекше «жасырыну» деген мағына береді.",
+      "ru": "Родоначальник 15 элементов лантаноидов, долгое время скрывавшийся в оксидах церия.",
+      "en": "Prototypical element of the lanthanide series; its name is derived from the Greek 'lanthanein', meaning to lie hidden."
+    }
+  },
+  {
+    "number": 58,
+    "symbol": "Ce",
+    "name": {
+      "kk": "Церий",
+      "ru": "Церий",
+      "en": "Cerium"
+    },
+    "atomicMass": 140.12,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1068,
+    "boilingPoint": 3716,
+    "density": 6.77,
+    "electronegativity": 1.12,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Xe] 4f¹ 5d¹ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      19,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Мартин Генрих Клапрот және Йёнс Берцелиус",
+      "ru": "Мартин Клапрот и Йёнс Берцелиус",
+      "en": "Martin Heinrich Klaproth and Jöns Jacob Berzelius"
+    },
+    "discoveryYear": 1803,
+    "uses": {
+      "kk": "Шыны мен дисплейлерді оптикалық жылтыратуға арналған церий оксиді, зажигалкалардың мишметалл тастары және дизель түтінін тазартқыш.",
+      "ru": "Полировка оптического стекла и экранов смартфонов, кремни для зажигалок (мишметалл) и катализаторы дожига выхлопа.",
+      "en": "Premier glass and silicon wafer optical polishing slurry, ferrocerium sparking flints for lighters, and catalytic converters."
+    },
+    "description": {
+      "kk": "Сирек жер металдарының ішінде жер қыртысында ең көп таралғаны (мыс сияқты мөлшерде кездеседі).",
+      "ru": "Самый распространенный среди редкоземельных металлов, названный в честь первой открытой карликовой планеты Цереры.",
+      "en": "The most abundant of all rare earth elements, named after the asteroid/dwarf planet Ceres discovered two years prior."
+    }
+  },
+  {
+    "number": 59,
+    "symbol": "Pr",
+    "name": {
+      "kk": "Празеодим",
+      "ru": "Празеодим",
+      "en": "Praseodymium"
+    },
+    "atomicMass": 140.91,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1208,
+    "boilingPoint": 3793,
+    "density": 6.77,
+    "electronegativity": 1.13,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f³ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      21,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Карл Ауэр фон Вельсбах",
+      "ru": "Карл Ауэр фон Вельсбах",
+      "en": "Carl Auer von Welsbach"
+    },
+    "discoveryYear": 1885,
+    "uses": {
+      "kk": "Жел турбиналары мен электромобильдердің қуатты неодим магниттері (NdFeB қоспасы), дәнекерлеушілердің дидимиум көзілдірігі және сары-жасыл шынылар.",
+      "ru": "Сверхсильные постоянные магниты для ветрогенераторов, защитные стекла масок сварщиков и канареечно-желтое стекло.",
+      "en": "Alloyed into neodymium supermagnets for wind turbines and EVs, and protective didymium glass filters for welders."
+    },
+    "description": {
+      "kk": "Грекше «жасыл егіз» деген мағына береді, қосылыстары ашық жасыл түсті лантаноид.",
+      "ru": "Пластичный серебристый металл, соли которого обладают ярким салатово-зеленым цветом (от греч. «зеленый близнец»).",
+      "en": "A soft silvery metal meaning 'green twin', producing clean yellow-green glass hues and strong permanent magnets."
+    }
+  },
+  {
+    "number": 60,
+    "symbol": "Nd",
+    "name": {
+      "kk": "Неодим",
+      "ru": "Неодим",
+      "en": "Neodymium"
+    },
+    "atomicMass": 144.24,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1297,
+    "boilingPoint": 3347,
+    "density": 7.01,
+    "electronegativity": 1.14,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f⁴ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      22,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Карл Ауэр фон Вельсбах",
+      "ru": "Карл Ауэр фон Вельсбах",
+      "en": "Carl Auer von Welsbach"
+    },
+    "discoveryYear": 1885,
+    "uses": {
+      "kk": "Әлемдегі ең қуатты неодим магниттері (Nd₂Fe₁₄B), құлаққап динамиктері, компьютер қатты дискілері және хирургиялық лазерлер.",
+      "ru": "Рекордные по силе неодимовые магниты для электродвигателей Теслы, динамиков наушников и мощных лазеров Nd:YAG.",
+      "en": "Manufacture of the world's most powerful permanent magnets (NdFeB) for EV motors, headphones, hard drives, and Nd:YAG lasers."
+    },
+    "description": {
+      "kk": "Заманауи «жасыл» технологиялар мен таза энергетиканың басты стратегиялық сирек жер металы.",
+      "ru": "Критически важный редкоземельный металл современной зеленой энергетики и микроэлектроники.",
+      "en": "A critical rare-earth metal indispensable for the clean energy transition, robotics, and miniaturized electronics."
+    }
+  },
+  {
+    "number": 61,
+    "symbol": "Pm",
+    "name": {
+      "kk": "Прометий",
+      "ru": "Прометий",
+      "en": "Promethium"
+    },
+    "atomicMass": 145,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1315,
+    "boilingPoint": 3273,
+    "density": 7.26,
+    "electronegativity": 1.13,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f⁵ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      23,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Чарльз Кориелл, Джейкоб Маринский және Лоуренс Гленденин",
+      "ru": "Джейкоб Маринский, Лоуренс Гленденин и Чарльз Кориелл",
+      "en": "Jacob A. Marinsky, Lawrence E. Glendenin, and Charles D. Coryell"
+    },
+    "discoveryYear": 1945,
+    "uses": {
+      "kk": "Ғарыш аппараттары мен кардиостимуляторларға арналған шағын ядролық атомдық батареялар, түнгі аспаптардың жарық бояулары.",
+      "ru": "Миниатюрные атомные батарейки для кардиостимуляторов и космических аппаратов, светящиеся люминесцентные циферблаты.",
+      "en": "Miniature long-life nuclear beta-photovoltaic batteries for aerospace, pacemakers, and luminous safety instrumentation."
+    },
+    "description": {
+      "kk": "Барлық лантаноидтардың ішіндегі тұрақты изотопы жоқ жалғыз радиоактивті элемент.",
+      "ru": "Единственный радиоактивный лантаноид, не имеющий стабильных изотопов; назван в честь титана Прометея.",
+      "en": "The only radioactive lanthanide with no stable isotopes, named after the mythical Greek titan Prometheus."
+    }
+  },
+  {
+    "number": 62,
+    "symbol": "Sm",
+    "name": {
+      "kk": "Самарий",
+      "ru": "Самарий",
+      "en": "Samarium"
+    },
+    "atomicMass": 150.36,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1345,
+    "boilingPoint": 2067,
+    "density": 7.52,
+    "electronegativity": 1.17,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Xe] 4f⁶ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      24,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Поль Эмиль Лекок де Буабодран",
+      "ru": "Поль Эмиль Лекок де Буабодран",
+      "en": "Paul-Émile Lecoq de Boisbaudran"
+    },
+    "discoveryYear": 1879,
+    "uses": {
+      "kk": "Жоғары температураға төзімді самарий-кобальт (SmCo) магниттері, сүйек қатерлі ісігін жеңілдететін радиотерапия (Самарий-153).",
+      "ru": "Сверхстойкие к нагреву магниты самарий-кобальт (до 350 °C) для авиации и радиофармпрепарат Самарий-153 для снятия боли при раке костей.",
+      "en": "High-temperature samarium-cobalt (SmCo) magnets used in aerospace defense, and Samarium-153 targeted cancer pain relief."
+    },
+    "description": {
+      "kk": "Тарихта адам есімімен (тау-кен инженері Самарский) аталған алғашқы химиялық элемент.",
+      "ru": "Первый в истории элемент, названный в честь реального человека — горного инженера В.Е. Самарского-Быховца.",
+      "en": "The first chemical element ever named in honor of a real person (mining engineer Colonel Samarsky-Bykhovets)."
+    }
+  },
+  {
+    "number": 63,
+    "symbol": "Eu",
+    "name": {
+      "kk": "Европий",
+      "ru": "Европий",
+      "en": "Europium"
+    },
+    "atomicMass": 151.96,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1099,
+    "boilingPoint": 1802,
+    "density": 5.244,
+    "electronegativity": 1.2,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Xe] 4f⁷ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      25,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Эжен Анатоль Демарсе",
+      "ru": "Эжен Демарсе",
+      "en": "Eugène-Anatole Demarçay"
+    },
+    "discoveryYear": 1896,
+    "uses": {
+      "kk": "Еуро банкноттарын жалған жасаудан қорғайтын флуоресцентті люминофорлар, теледидар дисплейлерінің қызыл түсі және ядролық реакторлар.",
+      "ru": "Защитные люминесцентные метки банкнот евро против фальшивомонетчиков, красный люминофор экранов и атомные реакторы.",
+      "en": "Fluorescent security phosphors in Euro currency banknotes under UV light, red phosphors in color displays, and neutron absorbers."
+    },
+    "description": {
+      "kk": "Барлық лантаноидтардың ішіндегі ең реакцияға бейім және жұмсақ металл; сумен бірден әрекеттеседі.",
+      "ru": "Самый химически реактивный из лантаноидов, легко окисляется на воздухе и бурно реагирует с водой.",
+      "en": "The most chemically reactive lanthanide metal, oxidizing rapidly in air and vigorously reacting with moisture."
+    }
+  },
+  {
+    "number": 64,
+    "symbol": "Gd",
+    "name": {
+      "kk": "Гадолиний",
+      "ru": "Гадолиний",
+      "en": "Gadolinium"
+    },
+    "atomicMass": 157.25,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1587,
+    "boilingPoint": 3546,
+    "density": 7.9,
+    "electronegativity": 1.2,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f⁷ 5d¹ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      25,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Жан Шарль Галиссар де Мариньяк",
+      "ru": "Жан де Мариньяк",
+      "en": "Jean Charles Galissard de Marignac"
+    },
+    "discoveryYear": 1880,
+    "uses": {
+      "kk": "МРТ сканерлеуіндегі негізгі контрастты ерітінділер, ядролық реакторлардың авариялық қорғанысы және магнитті тоңазытқыштар.",
+      "ru": "Внутривенный контраст для томографии МРТ головного мозга, нейтронные ловушки атомных станций и магнитное охлаждение.",
+      "en": "Intravenous MRI contrast enhancement agents, nuclear emergency shutdown control rods, and magnetocaloric refrigeration."
+    },
+    "description": {
+      "kk": "Бөлме температурасында (20 °C төмен) ферромагниттік қасиет танытатын және нейтронды ең күшті жұтатын элемент.",
+      "ru": "Обладает самым высоким сечением захвата тепловых нейтронов среди всех элементов и ферромагнетизмом при комнатной температуре.",
+      "en": "Possesses the highest thermal neutron capture cross-section of any element and exhibits room-temperature ferromagnetism (Curie temp 20 °C)."
+    }
+  },
+  {
+    "number": 65,
+    "symbol": "Tb",
+    "name": {
+      "kk": "Тербий",
+      "ru": "Тербий",
+      "en": "Terbium"
+    },
+    "atomicMass": 158.93,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1629,
+    "boilingPoint": 3503,
+    "density": 8.23,
+    "electronegativity": 1.2,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Xe] 4f⁹ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      27,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Карл Густав Мосандер",
+      "ru": "Карл Густав Мосандер",
+      "en": "Carl Gustaf Mosander"
+    },
+    "discoveryYear": 1843,
+    "uses": {
+      "kk": "Магнит өрісінде пішінін өзгертетін Terfenol-D қорытпасы (сонарлар мен гидролокаторлар), жасыл люминофорлар және қатты күйдегі құрылғылар.",
+      "ru": "Магнитострикционный сплав Терфенол-Д для подводных гидролокаторов (сонаров) и зеленые люминофоры плоских экранов.",
+      "en": "Magnetostrictive Terfenol-D smart alloys for naval sonar acoustic transducers and vivid green trichromatic lamp phosphors."
+    },
+    "description": {
+      "kk": "Магнит өрісі әсерінен ұзындығын айтарлықтай өзгерте алатын магнитострикциялық қасиеті зор лантаноид.",
+      "ru": "Редкоземельный металл, деформирующийся в магнитном поле сильнее других элементов (гигантская магнитострикция).",
+      "en": "A silvery-white rare earth metal famous for exhibiting the highest magnetostriction of any known material."
+    }
+  },
+  {
+    "number": 66,
+    "symbol": "Dy",
+    "name": {
+      "kk": "Диспрозий",
+      "ru": "Диспрозий",
+      "en": "Dysprosium"
+    },
+    "atomicMass": 162.5,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1680,
+    "boilingPoint": 2840,
+    "density": 8.54,
+    "electronegativity": 1.22,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f¹⁰ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      28,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Поль Эмиль Лекок де Буабодран",
+      "ru": "Поль Эмиль Лекок де Буабодран",
+      "en": "Paul-Émile Lecoq de Boisbaudran"
+    },
+    "discoveryYear": 1886,
+    "uses": {
+      "kk": "Электромобильдердің жоғары температурада демагнетизацияланбайтын неодим магниттеріне арналған қоспа және ядролық реакторлардың стерженьдері.",
+      "ru": "Повышение термостойкости неодимовых магнитов электромобилей (предотвращает размагничивание при нагреве) и лазеры.",
+      "en": "Vital additive preventing demagnetization of neodymium permanent magnets in electric vehicle traction motors at high temperatures."
+    },
+    "description": {
+      "kk": "Грекше «қол жеткізу қиын» деген мағына береді; әлемдегі ең жоғары магниттік қабылдағыштыққа ие элементтердің бірі.",
+      "ru": "Название происходит от греческого «труднодоступный»; обладает одним из самых высоких магнитных моментов в природе.",
+      "en": "Named after the Greek 'dysprositos' (hard to get); boasts one of the highest magnetic strengths of all elements."
+    }
+  },
+  {
+    "number": 67,
+    "symbol": "Ho",
+    "name": {
+      "kk": "Гольмий",
+      "ru": "Гольмий",
+      "en": "Holmium"
+    },
+    "atomicMass": 164.93,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1734,
+    "boilingPoint": 2873,
+    "density": 8.79,
+    "electronegativity": 1.23,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f¹¹ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      29,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Пер Теодор Клеве және Марк Делафонтен",
+      "ru": "Пер Теодор Клеве",
+      "en": "Per Teodor Cleve"
+    },
+    "discoveryYear": 1878,
+    "uses": {
+      "kk": "Бүйрек тастарын ұсақтауға және простатаны емдеуге арналған гольмий хирургиялық лазерлері (Ho:YAG) және аса күшті магнит полюстері.",
+      "ru": "Гольмиевые лазеры Ho:YAG для дробления камней в почках в урологии, концентраторы мощных магнитных полей.",
+      "en": "Pulsed holmium lasers (Ho:YAG) for medical urological kidney stone ablation and magnetic flux concentrators."
+    },
+    "description": {
+      "kk": "Стокгольм қаласының латынша атауының (Holmia) құрметіне аталған ең күшті магниттік қасиетке ие лантаноид.",
+      "ru": "Назван в честь Стокгольма; обладает наивысшим магнитным моментом среди всех природных химических элементов.",
+      "en": "Possesses the highest magnetic moment of any naturally occurring element; named after Stockholm (Holmia)."
+    }
+  },
+  {
+    "number": 68,
+    "symbol": "Er",
+    "name": {
+      "kk": "Эрбий",
+      "ru": "Эрбий",
+      "en": "Erbium"
+    },
+    "atomicMass": 167.26,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1802,
+    "boilingPoint": 3141,
+    "density": 9.066,
+    "electronegativity": 1.24,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f¹² 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      30,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Карл Густав Мосандер",
+      "ru": "Карл Густав Мосандер",
+      "en": "Carl Gustaf Mosander"
+    },
+    "discoveryYear": 1843,
+    "uses": {
+      "kk": "Ғаламтордың негізі болып табылатын мұхитаралық талшықты-оптикалық байланыс күшейткіштері (EDFA), дерматологиялық тері лазерлері және қызғылт шынылар.",
+      "ru": "Оптические усилители EDFA для межконтинентального оптоволоконного интернета, лазерный пилинг кожи и розовое стекло.",
+      "en": "Erbium-doped fiber amplifiers (EDFA) powering global intercontinental internet optics, and cosmetic skin lasers."
+    },
+    "description": {
+      "kk": "Ғаламтордың жарық импульстерін оптикалық кабель ішінде тікелей күшейте алатын ғаламтордың көрінбейтін қозғалтқышы.",
+      "ru": "Редкоземельный металл розового оттенка, позволивший создать трансокеанский высокоскоростной интернет.",
+      "en": "A silvery-white lanthanide that gave rise to high-speed global optical internet via in-fiber signal amplification."
+    }
+  },
+  {
+    "number": 69,
+    "symbol": "Tm",
+    "name": {
+      "kk": "Тулий",
+      "ru": "Тулий",
+      "en": "Thulium"
+    },
+    "atomicMass": 168.93,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1818,
+    "boilingPoint": 2223,
+    "density": 9.32,
+    "electronegativity": 1.25,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f¹³ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      31,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Пер Теодор Клеве",
+      "ru": "Пер Теодор Клеве",
+      "en": "Per Teodor Cleve"
+    },
+    "discoveryYear": 1879,
+    "uses": {
+      "kk": "Электр көзіне қосылмайтын шағын жылжымалы медициналық рентген құрылғылары (Тулий-170) және жоғары дәлдіктегі тулий лазерлері.",
+      "ru": "Портативные полевые рентгеновские аппараты на изотопе тулий-170, лазеры для микрохирургии и защита банкнот евро.",
+      "en": "Portable power-free medical X-ray sources using radioactive Thulium-170, and infrared surgical lasers."
+    },
+    "description": {
+      "kk": "Тұрақты лантаноидтардың ішіндегі ең сирегі; ежелгі Скандинавияның мифтік атауымен (Туле) аталған.",
+      "ru": "Второй по редкости среди всех природных лантаноидов, названный в честь мифической северной страны Туле.",
+      "en": "The least abundant of the stable rare-earth elements, named after the mythical northern land of Thule."
+    }
+  },
+  {
+    "number": 70,
+    "symbol": "Yb",
+    "name": {
+      "kk": "Иттербий",
+      "ru": "Иттербий",
+      "en": "Ytterbium"
+    },
+    "atomicMass": 173.05,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1097,
+    "boilingPoint": 1469,
+    "density": 6.9,
+    "electronegativity": 1.1,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Xe] 4f¹⁴ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Жан Шарль Галиссар де Мариньяк",
+      "ru": "Жан де Мариньяк",
+      "en": "Jean Charles Galissard de Marignac"
+    },
+    "discoveryYear": 1878,
+    "uses": {
+      "kk": "Металдарды лазерлік кесуге арналған өндірістік талшықты лазерлер, жер сілкіністерін бақылайтын сейсмометрлер және оптикалық атомдық сағаттар.",
+      "ru": "Сверхмощные промышленные волоконные лазеры для резки стали, сейсмические датчики давления и атомные часы сверхвысокой точности.",
+      "en": "Heavy-duty industrial fiber lasers for sheet metal cutting, seismic ground pressure sensors, and next-gen atomic optical clocks."
+    },
+    "description": {
+      "kk": "Иттербю ауылының құрметіне аталған элемент, толық толтырылған f-қабықшасының арқасында ерекше қасиеттерге ие.",
+      "ru": "Мягкий и ковкий металл с полностью заполненной 4f-оболочкой, меняющий электрическое сопротивление при давлении.",
+      "en": "A soft malleable lanthanide with a completely filled 4f subshell, showing extreme electrical resistance changes under pressure."
+    }
+  },
+  {
+    "number": 71,
+    "symbol": "Lu",
+    "name": {
+      "kk": "Лютеций",
+      "ru": "Лютеций",
+      "en": "Lutetium"
+    },
+    "atomicMass": 174.97,
+    "category": "lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1925,
+    "boilingPoint": 3675,
+    "density": 9.841,
+    "electronegativity": 1.27,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Жорж Урбэн",
+      "ru": "Жорж Урбэн",
+      "en": "Georges Urbain"
+    },
+    "discoveryYear": 1907,
+    "uses": {
+      "kk": "ПЭТ томографтарының сцинтилляторлары (LSO кристалдары), Лютеций-177 нысаналы қатерлі ісік радиотерапиясы және мұнай крекингі.",
+      "ru": "Детекторы позитронно-эмиссионной томографии (ПЭТ-сканеры), радиофармпрепарат Лютеций-177 против рака простаты и нейроэндокринных опухолей.",
+      "en": "LSO scintillation crystals in medical PET scanners, and targeted Lu-177 radionuclide therapy for prostate and neuroendocrine cancers."
+    },
+    "description": {
+      "kk": "Лантаноидтар қатарының соңғысы; барлық сирек жер металдарының ішіндегі ең ауыры, ең қаттысы және ең қымбаты.",
+      "ru": "Завершающий элемент лантаноидов; самый тяжёлый, плотный и один из самых дорогих редкоземельных металлов.",
+      "en": "The final lanthanide element; the densest, hardest, highest-melting, and among the most expensive of all rare earths."
+    }
+  },
+  {
+    "number": 72,
+    "symbol": "Hf",
+    "name": {
+      "kk": "Гафний",
+      "ru": "Гафний",
+      "en": "Hafnium"
+    },
+    "atomicMass": 178.49,
+    "category": "transition-metal",
+    "group": 4,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2506,
+    "boilingPoint": 4876,
+    "density": 13.31,
+    "electronegativity": 1.3,
+    "oxidationStates": "+4",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d² 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      10,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Дирк Костер және Дьёрдь де Хевеши",
+      "ru": "Дирк Костер и Дьёрдь де Хевеши",
+      "en": "Dirk Coster and George de Hevesy"
+    },
+    "discoveryYear": 1923,
+    "uses": {
+      "kk": "Атомдық сүңгуір қайықтардың ядролық реакторларының басқару стерженьдері, заманауи Intel процессорларының диэлектриктері (high-k).",
+      "ru": "Регулирующие стержни атомных реакторов подводных лодок и диэлектрические затворы high-k в микропроцессорах Intel.",
+      "en": "Control rods in naval nuclear submarines due to superb neutron capture, and high-k gate dielectrics in Intel CPU transistors."
+    },
+    "description": {
+      "kk": "Копенгагеннің латынша атауының (Hafnia) құрметіне аталған цирконийдің ажырамас «серігі».",
+      "ru": "Блестящий серебристый металл, химически почти неотличимый от циркония из-за лантаноидного сжатия.",
+      "en": "A lustrous silvery transition metal, almost chemically identical to zirconium due to the lanthanide contraction."
+    }
+  },
+  {
+    "number": 73,
+    "symbol": "Ta",
+    "name": {
+      "kk": "Тантал",
+      "ru": "Тантал",
+      "en": "Tantalum"
+    },
+    "atomicMass": 180.95,
+    "category": "transition-metal",
+    "group": 5,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 3290,
+    "boilingPoint": 5731,
+    "density": 16.69,
+    "electronegativity": 1.5,
+    "oxidationStates": "+5",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d³ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      11,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Андерс Густав Экеберг",
+      "ru": "Андерс Густав Экеберг",
+      "en": "Anders Gustaf Ekeberg"
+    },
+    "discoveryYear": 1802,
+    "uses": {
+      "kk": "Смартфондар мен ноутбуктердің миниатюралық тантал конденсаторлары, сүйекке бітіп кететін медициналық протездер және қышқылға төзімді химиялық реакторлар.",
+      "ru": "Миниатюрные конденсаторы смартфонов (колтан), хирургические пластины для сращивания костей и химоборудование.",
+      "en": "Miniature high-capacitance electrolytic capacitors in mobile electronics, cranial bone repair plates, and chemical reactors."
+    },
+    "description": {
+      "kk": "Патша арағына (HNO₃+HCl) да ерімейтін, биологиялық тұрғыдан абсолютті инертті қымбат металл.",
+      "ru": "Темно-серый тугоплавкий металл, не растворяющийся даже в царской водке; назван в честь страданий мифического Тантала.",
+      "en": "Extremely corrosion-resistant refractory metal, completely immune to aqua regia and fully biocompatible."
+    }
+  },
+  {
+    "number": 74,
+    "symbol": "W",
+    "name": {
+      "kk": "Вольфрам",
+      "ru": "Вольфрам",
+      "en": "Tungsten"
+    },
+    "atomicMass": 183.84,
+    "category": "transition-metal",
+    "group": 6,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 3695,
+    "boilingPoint": 6203,
+    "density": 19.25,
+    "electronegativity": 2.36,
+    "oxidationStates": "+4, +6",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁴ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      12,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Хуан Хосе және Фаусто де Элуяр",
+      "ru": "Хуан Хосе и Фаусто де Элуяр",
+      "en": "Juan José and Fausto Elhuyar"
+    },
+    "discoveryYear": 1783,
+    "uses": {
+      "kk": "Қатты кескіш құралдардың вольфрам карбиді (победит), шамдардың қылы, бронь тескіш снарядтар және термоядролық токамак диверторлары.",
+      "ru": "Сверхтвердые буры и резцы из карбида вольфрама (победит), нити накаливания, бронебойные сердечники и термоядерные реакторы ITER.",
+      "en": "Heavy-duty tungsten carbide drill bits and cutting inserts, incandescent filaments, armor-piercing kinetic penetrators, and fusion plasma walls."
+    },
+    "description": {
+      "kk": "Барлық металдардың ішіндегі ең жоғары балқу температурасына ие рекордшы (3422 °C), тығыздығы алтынмен бірдей.",
+      "ru": "Рекордсмен по температуре плавления среди всех чистых металлов (3422 °C), обладающий колоссальной плотностью и прочностью.",
+      "en": "Holds the highest melting point of all elements in elemental form (3422 °C) and a density virtually identical to gold."
+    }
+  },
+  {
+    "number": 75,
+    "symbol": "Re",
+    "name": {
+      "kk": "Рений",
+      "ru": "Рений",
+      "en": "Rhenium"
+    },
+    "atomicMass": 186.21,
+    "category": "transition-metal",
+    "group": 7,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 3459,
+    "boilingPoint": 5869,
+    "density": 21.02,
+    "electronegativity": 1.9,
+    "oxidationStates": "+4, +6, +7",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁵ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      13,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Вальтер Ноддак және Ида Ноддак",
+      "ru": "Вальтер Ноддак и Ида Таке",
+      "en": "Walter Noddack, Ida Tacke, and Otto Berg"
+    },
+    "discoveryYear": 1925,
+    "uses": {
+      "kk": "Реактивті ұшақ қозғалтқыштарының турбина қалақшаларының никель-рений суперқорытпалары және жоғары октанды бензин катализаторлары.",
+      "ru": "Турбинные лопатки реактивных двигателей современных истребителей и авиалайнеров (70% мирового потребления), катализ бензина.",
+      "en": "Nickel-based superalloys for commercial and military jet aircraft turbine blades, and lead-free high-octane gasoline catalysts."
+    },
+    "description": {
+      "kk": "Қазақстанның Жезқазған өңірінде мыс кенінен ілеспе түрде алынатын әлемдегі ең сирек кездесетін стратегиялық металдардың бірі.",
+      "ru": "Один из редчайших металлов земной коры; открыт в 1925 году и назван в честь реки Рейн в Германии.",
+      "en": "One of the rarest elements in Earth's crust, critically strategic for jet aviation with the 3rd highest melting point."
+    }
+  },
+  {
+    "number": 76,
+    "symbol": "Os",
+    "name": {
+      "kk": "Осмий",
+      "ru": "Осмий",
+      "en": "Osmium"
+    },
+    "atomicMass": 190.23,
+    "category": "transition-metal",
+    "group": 8,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 3306,
+    "boilingPoint": 5285,
+    "density": 22.59,
+    "electronegativity": 2.2,
+    "oxidationStates": "+4, +8",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁶ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      14,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Смитсон Теннант",
+      "ru": "Смитсон Теннант",
+      "en": "Smithson Tennant"
+    },
+    "discoveryYear": 1803,
+    "uses": {
+      "kk": "Қымбат мәңгілік қаламұштардың төзімді ұштары, электрондық микроскопиядағы биологиялық тіндерді бояу (OsO₄) және жоғары тозуға қарсы подшипниктер.",
+      "ru": "Износостойкие перья элитных авторучек, контакты реле, контрастирование срезов тканей в электронной микроскопии (OsO₄).",
+      "en": "Wear-resistant fountain pen nibs, electrical contacts, and staining lipid cell membranes in transmission electron microscopy."
+    },
+    "description": {
+      "kk": "Табиғаттағы ең тығыз элемент (1 литрі шамамен 22.6 кг тартады), оксидінің жағымсыз өткір хлор тәрізді иісі бар.",
+      "ru": "Самый плотный из всех химических элементов таблицы (22.59 г/см³); его оксид обладает резким запахом редьки и хлора.",
+      "en": "The densest naturally occurring chemical element (22.59 g/cm3), named after the Greek word for smell ('osme')."
+    }
+  },
+  {
+    "number": 77,
+    "symbol": "Ir",
+    "name": {
+      "kk": "Иридий",
+      "ru": "Иридий",
+      "en": "Iridium"
+    },
+    "atomicMass": 192.22,
+    "category": "transition-metal",
+    "group": 9,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2719,
+    "boilingPoint": 4701,
+    "density": 22.56,
+    "electronegativity": 2.2,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁷ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      15,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Смитсон Теннант",
+      "ru": "Смитсон Теннант",
+      "en": "Smithson Tennant"
+    },
+    "discoveryYear": 1803,
+    "uses": {
+      "kk": "Автомобильдердің ұзақ мерзімді иридий оталдыру шамдары (свечи зажигания), лазер кристалдарына арналған тигельдер және 1 кг мен 1 метр тарихи эталоны.",
+      "ru": "Премиальные свечи зажигания двигателей, тигли для выращивания монокристаллов лазеров и исторический международный эталон килограмма.",
+      "en": "Automotive iridium spark plugs, high-purity single-crystal laser crucibles, and the historical prototype kilogram standard."
+    },
+    "description": {
+      "kk": "Коррозияға ең төзімді металл; жер қыртысындағы иридий қабаты 66 млн жыл бұрын динозаврларды жойған астероид құлауының айғағы.",
+      "ru": "Самый устойчивый к коррозии металл; иридиевая аномалия в глинах по всему миру подтвердила падение астероида, погубившего динозавров.",
+      "en": "The most corrosion-resistant metal known; the geological iridium anomaly marks the massive asteroid impact that wiped out dinosaurs."
+    }
+  },
+  {
+    "number": 78,
+    "symbol": "Pt",
+    "name": {
+      "kk": "Платина",
+      "ru": "Платина",
+      "en": "Platinum"
+    },
+    "atomicMass": 195.08,
+    "category": "transition-metal",
+    "group": 10,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2041.4,
+    "boilingPoint": 4098,
+    "density": 21.45,
+    "electronegativity": 2.28,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁹ 6s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      17,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Антонио де Ульоа",
+      "ru": "Антонио де Ульоа",
+      "en": "Antonio de Ulloa"
+    },
+    "discoveryYear": 1735,
+    "uses": {
+      "kk": "Дизель көліктерінің катализаторлары, қатерлі ісікті емдейтін цисплатин дәрісі, отын элементтері және элиталық зергерлік бұйымдар.",
+      "ru": "Катализаторы очистки выхлопных газов, противораковый препарат цисплатин, водородные топливные элементы и ювелирные украшения.",
+      "en": "Vehicle emission reduction catalytic converters, cisplatin oncology chemotherapy, hydrogen fuel cell electrodes, and luxury jewelry."
+    },
+    "description": {
+      "kk": "Асыл металл, испан конкистадорлары алғаш тапқанда «күмісше» (испанша platina) деп төмен бағалаған.",
+      "ru": "Благородный драгоценный металл серо-белого цвета, названный первоначально испанцами «серебришком» за внешнее сходство с серебром.",
+      "en": "A prestigious dense, malleable precious metal whose name is a Spanish diminutive of plata ('little silver')."
+    }
+  },
+  {
+    "number": 79,
+    "symbol": "Au",
+    "name": {
+      "kk": "Алтын",
+      "ru": "Золото",
+      "en": "Gold"
+    },
+    "atomicMass": 196.97,
+    "category": "transition-metal",
+    "group": 11,
+    "period": 6,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1337.33,
+    "boilingPoint": 3243,
+    "density": 19.3,
+    "electronegativity": 2.54,
+    "oxidationStates": "+1, +3",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известно с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Қаржылық алтын-валюта резервтері, микросхемалардың коррозиясыз сенімді алтын контактілері, ғарыштық скафандр дулығаларының күн қорғанышы.",
+      "ru": "Международный валютный резерв, сверхнадежные микроконтакты электроники смартфонов и солнцезащитные золотые фильтры скафандров.",
+      "en": "Global monetary and investment reserves, fine jewelry, corrosion-free semiconductor wire bonding, and astronaut helmet visor radiation shields."
+    },
+    "description": {
+      "kk": "Ауада да, су ішінде де ешқашан тотықпайтын және қараймайтын, созылғыштығы мен пластикалығы рекордтық асыл металл.",
+      "ru": "Драгоценный металл жёлтого цвета, обладающий непревзойденной пластичностью (из 1 грамма вытягивается проволока длиной 2 км).",
+      "en": "The most malleable and ductile of all metals, chemically unreactive to atmospheric oxygen, and historically treasured worldwide."
+    }
+  },
+  {
+    "number": 80,
+    "symbol": "Hg",
+    "name": {
+      "kk": "Сынап",
+      "ru": "Ртуть",
+      "en": "Mercury"
+    },
+    "atomicMass": 200.59,
+    "category": "transition-metal",
+    "group": 12,
+    "period": 6,
+    "block": "d",
+    "state": "liquid",
+    "meltingPoint": 234.32,
+    "boilingPoint": 629.88,
+    "density": 13.534,
+    "electronegativity": 2,
+    "oxidationStates": "+1, +2",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известна с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Люминесцентті энергия үнемдейтін шамдар, барометрлер, электролиттік хлор өндірісі және металдарды ерітетін амальгамалар.",
+      "ru": "Люминесцентные газоразрядные лампы, сфигмоманометры, барометры, извлечение золота амальгамацией и химический синтез.",
+      "en": "Fluorescent lighting tubes, specialized scientific barometers, gold amalgam extraction, and historical medical thermometers."
+    },
+    "description": {
+      "kk": "Бөлме температурасында сұйық күйде болатын жалғыз қарапайым металл («тірі күміс», hydrargyrum).",
+      "ru": "Единственный металл, находящийся в жидком состоянии при комнатной температуре; образует амальгамы с другими металлами.",
+      "en": "The only metallic element that is liquid at standard temperature and pressure ('quicksilver', hydrargyrum)."
+    }
+  },
+  {
+    "number": 81,
+    "symbol": "Tl",
+    "name": {
+      "kk": "Таллий",
+      "ru": "Таллий",
+      "en": "Thallium"
+    },
+    "atomicMass": 204.38,
+    "category": "post-transition-metal",
+    "group": 13,
+    "period": 6,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 577,
+    "boilingPoint": 1746,
+    "density": 11.85,
+    "electronegativity": 1.62,
+    "oxidationStates": "+1, +3",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Уильям Крукс",
+      "ru": "Уильям Крукс",
+      "en": "William Crookes"
+    },
+    "discoveryYear": 1861,
+    "uses": {
+      "kk": "Кардиологиядағы жүрек бұлшықетін радиоизотоптық диагностикалау (Таллий-201), инфрақызыл оптикалық линзалар және аса өткізгіштер.",
+      "ru": "Сцинтиграфия миокарда сердца изотопом таллий-201, инфракрасная оптика приборов ночного видения и высокотемпературные сверхпроводники.",
+      "en": "Nuclear cardiology myocardial perfusion stress scans (Tl-201), infrared night-vision optical glasses, and specialized semiconductors."
+    },
+    "description": {
+      "kk": "Аса уытты ауыр металл (бұрын кеміргіштерге қарсы у болған), атауы грекше «жас жасыл бұтақ» (спектр сызығы бойынша) дегенді білдіреді.",
+      "ru": "Чрезвычайно токсичный металл без вкуса и запаха («яд отравителей»); назван по красивой зелёной линии в оптическом спектре.",
+      "en": "A highly toxic, soft malleable post-transition metal, historically dubbed the 'poisoner's poison'."
+    }
+  },
+  {
+    "number": 82,
+    "symbol": "Pb",
+    "name": {
+      "kk": "Қорғасын",
+      "ru": "Свинец",
+      "en": "Lead"
+    },
+    "atomicMass": 207.2,
+    "category": "post-transition-metal",
+    "group": 14,
+    "period": 6,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 600.61,
+    "boilingPoint": 2022,
+    "density": 11.34,
+    "electronegativity": 2.33,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      4
+    ],
+    "discoveredBy": {
+      "kk": "Ежелгі заманнан белгілі",
+      "ru": "Известен с древности",
+      "en": "Ancient civilizations"
+    },
+    "discoveryYear": "Ancient",
+    "uses": {
+      "kk": "Автомобильдердің қорғасын-қышқылды аккумуляторлары, рентген мен гамма-сәулелерден қорғайтын қабырғалар мен алжапқыштар, сүңгуір балластары.",
+      "ru": "Свинцово-кислотные стартерные аккумуляторы автомобилей, экраны защиты от рентгеновского и ядерного излучения, балластные грузила.",
+      "en": "Lead-acid vehicle starter batteries, radiological X-ray and gamma shielding garments and bricks, and undersea cabling."
+    },
+    "description": {
+      "kk": "Қазақстанда (Шымкент, Көкшетау) бай өндірілген ауыр жұмсақ металл; уранның радиоактивті ыдырауының соңғы тұрақты нүктесі.",
+      "ru": "Тяжелый и мягкий металл; является конечным стабильным продуктом радиоактивного распада урана и тория.",
+      "en": "A heavy, malleable metal with high density and low melting point, representing the stable terminal decay product of uranium."
+    }
+  },
+  {
+    "number": 83,
+    "symbol": "Bi",
+    "name": {
+      "kk": "Висмут",
+      "ru": "Висмут",
+      "en": "Bismuth"
+    },
+    "atomicMass": 208.98,
+    "category": "post-transition-metal",
+    "group": 15,
+    "period": 6,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 544.7,
+    "boilingPoint": 1837,
+    "density": 9.78,
+    "electronegativity": 2.02,
+    "oxidationStates": "+3, +5",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      5
+    ],
+    "discoveredBy": {
+      "kk": "Клод Франсуа Жоффруа",
+      "ru": "Клод Франсуа Жоффруа",
+      "en": "Claude François Geoffroy"
+    },
+    "discoveryYear": 1753,
+    "uses": {
+      "kk": "Асқазан жарасын емдейтін дәрілер (Де-Нол, Pepto-Bismol), өрт дабылы спринклерлерінің төмен балқитын балқымалары және улы қорғасынды алмастырушы.",
+      "ru": "Лекарства от гастрита и язвы желудка (Де-Нол, субсалицилат висмута), легкоплавкие термопредохранители пожаротушения и косметика.",
+      "en": "Stomach pharmaceuticals (Pepto-Bismol / De-Nol), non-toxic lead replacement in ammunition, fire sprinkler trigger plugs, and cosmetics."
+    },
+    "description": {
+      "kk": "Кристалданғанда кемпірқосақ тәрізді түрлі-түсті оксидтік қабық түзеді; ауыр металдардың ішінде ең қауіпсіз және уытты емесі.",
+      "ru": "Нетоксичный тяжелый металл, образующий кристаллы невероятной радужной лестничной формы за счет интерференции на оксидной пленке.",
+      "en": "A remarkably non-toxic heavy metal that forms iridescent, stepped spiral hopper crystals coated in colorful oxide films."
+    }
+  },
+  {
+    "number": 84,
+    "symbol": "Po",
+    "name": {
+      "kk": "Полоний",
+      "ru": "Полоний",
+      "en": "Polonium"
+    },
+    "atomicMass": 209,
+    "category": "post-transition-metal",
+    "group": 16,
+    "period": 6,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 527,
+    "boilingPoint": 1235,
+    "density": 9.196,
+    "electronegativity": 2,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      6
+    ],
+    "discoveredBy": {
+      "kk": "Мария Склодовская-Кюри және Пьер Кюри",
+      "ru": "Мария Склодовская-Кюри и Пьер Кюри",
+      "en": "Marie Curie and Pierre Curie"
+    },
+    "discoveryYear": 1898,
+    "uses": {
+      "kk": "Ғарыштық аппараттардың радиоизотоптық жылу генераторлары, өндірісте статикалық электр қуатын жоятын ионизаторлар және бериллий-полоний нейтрон көздері.",
+      "ru": "Источники тепла для луноходов и космических зондов, антистатические щетки для оптики и лабораторные источники альфа-частиц.",
+      "en": "Atomic thermoelectric heat sources in spacecraft (e.g. Lunokhod lunar rovers), industrial antistatic brushes, and neutron triggers."
+    },
+    "description": {
+      "kk": "Мария Кюридің отаны Польшаның құрметіне аталған, альфа-сәулеленудің арқасында қараңғыда көгілдір жарық шашатын аса қауіпті радиоактивті элемент.",
+      "ru": "Чрезвычайно радиоактивный металл, светящийся голубым светом за счет ионизации окружающего воздуха; назван в честь Польши.",
+      "en": "Intensely radioactive alpha-emitter named after Marie Curie's homeland Poland; glows faintly blue in dark air."
+    }
+  },
+  {
+    "number": 85,
+    "symbol": "At",
+    "name": {
+      "kk": "Астат",
+      "ru": "Астат",
+      "en": "Astatine"
+    },
+    "atomicMass": 210,
+    "category": "halogen",
+    "group": 17,
+    "period": 6,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 575,
+    "boilingPoint": 610,
+    "density": 6.35,
+    "electronegativity": 2.2,
+    "oxidationStates": "-1, +1, +3, +5",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      7
+    ],
+    "discoveredBy": {
+      "kk": "Дейл Корсон, Кеннет Маккензи және Эмилио Сегре",
+      "ru": "Дейл Корсон, Кеннет Маккензи и Эмилио Сегре",
+      "en": "Dale R. Corson, Kenneth Ross MacKenzie, and Emilio Segrè"
+    },
+    "discoveryYear": 1940,
+    "uses": {
+      "kk": "Астат-211 изотопы нысаналы альфа-терапия арқылы қатерлі ісік жасушаларын дәл жою бойынша ғылыми медицинада зерттелуде.",
+      "ru": "Изотоп астат-211 исследуется в таргетной альфа-терапии онкологических заболеваний (избирательное уничтожение клеток рака).",
+      "en": "Investigated in targeted alpha therapy (TAT) to destroy metastatic tumor cells without damaging neighboring healthy tissue."
+    },
+    "description": {
+      "kk": "Жер қыртысындағы ең аз кездесетін элемент (бүкіл ғаламшарда оның мөлшері 1 грамнан да аз), грекше «тұрақсыз» деген мағына береді.",
+      "ru": "Самый редкий элемент в земной коре (суммарно менее 1 грамма во всей биосфере); радиоактивен и нестабилен.",
+      "en": "The rarest naturally occurring element in Earth's crust (less than 1 gram exists globally at any moment)."
+    }
+  },
+  {
+    "number": 86,
+    "symbol": "Rn",
+    "name": {
+      "kk": "Радон",
+      "ru": "Радон",
+      "en": "Radon"
+    },
+    "atomicMass": 222,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 6,
+    "block": "p",
+    "state": "gas",
+    "meltingPoint": 202,
+    "boilingPoint": 211.5,
+    "density": 9.73,
+    "electronegativity": null,
+    "oxidationStates": "0",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8
+    ],
+    "discoveredBy": {
+      "kk": "Эрнест Резерфорд және Роберт Оуэнс",
+      "ru": "Фридрих Дорн",
+      "en": "Ernest Rutherford and Robert Owens"
+    },
+    "discoveryYear": 1899,
+    "uses": {
+      "kk": "Санаторийлердегі радонды емдік ванналар, жер сілкіністерін алдын ала болжау мониторингі және үйлердің жертөлелеріндегі радиациялық қауіпсіздік бақылауы.",
+      "ru": "Радоновые бальнеологические ванны на курортах, предсказание землетрясений по выходу газа и контроль радиации в подвалах домов.",
+      "en": "Controlled spa balneotherapy baths, geological earthquake precursor monitoring, and residential indoor air radiation monitoring."
+    },
+    "description": {
+      "kk": "Қалыпты жағдайда ең ауыр газ (ауадан шамамен 8 есе ауыр), жертөлелер мен шахталарда жиналатын радиоактивті асыл газ.",
+      "ru": "Самый тяжелый газ при стандартных условиях; невидим и радиоактивен, просачивается из гранитных пород в подвалы.",
+      "en": "A radioactive, colorless, odorless noble gas, and the heaviest gas under standard conditions (nearly 8 times heavier than air)."
+    }
+  },
+  {
+    "number": 87,
+    "symbol": "Fr",
+    "name": {
+      "kk": "Франций",
+      "ru": "Франций",
+      "en": "Francium"
+    },
+    "atomicMass": 223,
+    "category": "alkali-metal",
+    "group": 1,
+    "period": 7,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 300,
+    "boilingPoint": 950,
+    "density": 1.87,
+    "electronegativity": 0.7,
+    "oxidationStates": "+1",
+    "electronConfiguration": "[Rn] 7s¹",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      1
+    ],
+    "discoveredBy": {
+      "kk": "Маргарита Перей",
+      "ru": "Маргарита Перей",
+      "en": "Marguerite Perey"
+    },
+    "discoveryYear": 1939,
+    "uses": {
+      "kk": "Тек іргелі ядролық физика зертханаларында атом құрылысы мен әлсіз ядролық күштерді лазерлік торда зерттеу үшін ғана қолданылады.",
+      "ru": "Применяется исключительно в фундаментальных физических экспериментах по изучению квантовой электродинамики и атомной структуры.",
+      "en": "Exclusively utilized in fundamental atomic and quantum physics research using laser magneto-optical traps."
+    },
+    "description": {
+      "kk": "Ең тұрақсыз сілтілік металл (ең ұзақ өмір сүретін изотопының жартылай ыдырау периоды небәрі 22 минут), табиғаттағы мөлшері 20–30 грамм ғана.",
+      "ru": "Крайне нестабильный щёлочной металл; во всей земной коре одномоментно содержится всего около 20–30 граммов франция.",
+      "en": "The second rarest naturally occurring element, with a maximum half-life of only 22 minutes; named after France."
+    }
+  },
+  {
+    "number": 88,
+    "symbol": "Ra",
+    "name": {
+      "kk": "Радий",
+      "ru": "Радий",
+      "en": "Radium"
+    },
+    "atomicMass": 226,
+    "category": "alkaline-earth",
+    "group": 2,
+    "period": 7,
+    "block": "s",
+    "state": "solid",
+    "meltingPoint": 1233,
+    "boilingPoint": 2010,
+    "density": 5.5,
+    "electronegativity": 0.9,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Rn] 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Мария Склодовская-Кюри және Пьер Кюри",
+      "ru": "Мария Склодовская-Кюри и Пьер Кюри",
+      "en": "Marie Curie and Pierre Curie"
+    },
+    "discoveryYear": 1898,
+    "uses": {
+      "kk": "Тарихта алғашқы рак ауруларын радиотерапиямен емдеу (кюри-терапия) және 20 ғасыр басындағы сағат циферблаттарының жарық бояулары.",
+      "ru": "Исторически — лучевая терапия онкологических опухолей и светящаяся краска циферблатов; в настоящее время — альфа-терапия рака костей (Радий-223).",
+      "en": "Historically pioneered radiation oncology (Curie therapy); modern Radium-223 (Xofigo) treats metastatic bone prostate cancer."
+    },
+    "description": {
+      "kk": "Атауы латынша «сәуле» дегенді білдіреді (radius), радиоактивтілік ғылымының негізін салған аңызға айналған элемент.",
+      "ru": "Легендарный радиоактивный металл, открытый супругами Кюри в урановой смолке; светится бледным сине-зелёным светом.",
+      "en": "Legendary radioactive element discovered by Marie and Pierre Curie, whose intense radioactivity gave the phenomenon its name."
+    }
+  },
+  {
+    "number": 89,
+    "symbol": "Ac",
+    "name": {
+      "kk": "Актиний",
+      "ru": "Актиний",
+      "en": "Actinium"
+    },
+    "atomicMass": 227,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1323,
+    "boilingPoint": 3473,
+    "density": 10.07,
+    "electronegativity": 1.1,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Rn] 6d¹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Андре-Луи Дебьерн",
+      "ru": "Андре-Луи Дебьерн",
+      "en": "André-Louis Debierne"
+    },
+    "discoveryYear": 1899,
+    "uses": {
+      "kk": "Актиний-225 нысаналы қатерлі ісік альфа-терапиясында революциялық нәтижелер көрсетіп келе жатқан басты медициналық изотоп.",
+      "ru": "Изотоп Актиний-225 — один из самых многообещающих радиоизотопов в таргетной терапии трудноизлечимых форм рака.",
+      "en": "Actinium-225 is currently at the forefront of targeted alpha radiation therapy for advanced metastatic cancer treatment."
+    },
+    "description": {
+      "kk": "Актиноидтар тұқымдасының басы; қараңғыда қуатты көгілдір жарық шашатын қатты радиоактивті металл.",
+      "ru": "Родоначальник семейства актиноидов; светится в темноте зловещим голубым светом из-за ионизации воздуха.",
+      "en": "First element of the actinide series, glowing noticeably in the dark with an eerie blue light due to air ionization."
+    }
+  },
+  {
+    "number": 90,
+    "symbol": "Th",
+    "name": {
+      "kk": "Торий",
+      "ru": "Торий",
+      "en": "Thorium"
+    },
+    "atomicMass": 232.04,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 2023,
+    "boilingPoint": 5061,
+    "density": 11.72,
+    "electronegativity": 1.3,
+    "oxidationStates": "+4",
+    "electronConfiguration": "[Rn] 6d² 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      10,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Йёнс Якоб Берцелиус",
+      "ru": "Йёнс Якоб Берцелиус",
+      "en": "Jöns Jacob Berzelius"
+    },
+    "discoveryYear": 1828,
+    "uses": {
+      "kk": "Болашақтың қауіпсіз торийлік ядролық реакторлары (LFTR - сұйық тұзды реакторлар), вольфрам TIG дәнекерлеу электродтары.",
+      "ru": "Перспективное топливо безопасных жидкосолевых ядерных реакторов будущего (топливный ториевый цикл) и TIG электроды.",
+      "en": "Promising safe alternative nuclear fuel for molten salt reactors (Thorium fuel cycle), and high-heat TIG welding electrodes."
+    },
+    "description": {
+      "kk": "Скандинавияның найзағай құдайы Тордың құрметіне аталған, ураннан 3–4 есе көп таралған ядролық металл.",
+      "ru": "Слаборадиоактивный металл, названный в честь скандинавского бога грома Тора; потенциальная основа будущей чистой атомной энергетики.",
+      "en": "Silvery actinide named after Thor, Norse god of thunder; three times more abundant in Earth's crust than uranium."
+    }
+  },
+  {
+    "number": 91,
+    "symbol": "Pa",
+    "name": {
+      "kk": "Протактиний",
+      "ru": "Протактиний",
+      "en": "Protactinium"
+    },
+    "atomicMass": 231.04,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1841,
+    "boilingPoint": 4300,
+    "density": 15.37,
+    "electronegativity": 1.5,
+    "oxidationStates": "+4, +5",
+    "electronConfiguration": "[Rn] 5f² 6d¹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      20,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Отто Ган және Лиза Мейтнер",
+      "ru": "Отто Ган и Лиза Мейтнер",
+      "en": "Otto Hahn and Lise Meitner"
+    },
+    "discoveryYear": 1917,
+    "uses": {
+      "kk": "Мұхит түбіндегі шөгінділердің жасын анықтауға арналған геологиялық радиохронология және ядролық зерттеулер.",
+      "ru": "Радиометрическое датирование океанических осадков в палеоокеанографии и фундаментальная физика трансуранов.",
+      "en": "Used in radiometric dating of marine sediments up to 175,000 years old, and nuclear weapons physics research."
+    },
+    "description": {
+      "kk": "Атауы «актинийдің атасы» дегенді білдіреді, альфа-ыдырау кезінде актинийге айналатын тығыз радиоактивті металл.",
+      "ru": "Блестящий радиоактивный металл высокой токсичности, предшественник актиния при распаде урана-235.",
+      "en": "Dense, highly toxic actinide metal whose name reflects its role as the radioactive ancestor of actinium."
+    }
+  },
+  {
+    "number": 92,
+    "symbol": "U",
+    "name": {
+      "kk": "Уран",
+      "ru": "Уран",
+      "en": "Uranium"
+    },
+    "atomicMass": 238.03,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1405.3,
+    "boilingPoint": 4404,
+    "density": 19.1,
+    "electronegativity": 1.38,
+    "oxidationStates": "+3, +4, +5, +6",
+    "electronConfiguration": "[Rn] 5f³ 6d¹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      21,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Мартин Генрих Клапрот",
+      "ru": "Мартин Генрих Клапрот",
+      "en": "Martin Heinrich Klaproth"
+    },
+    "discoveryYear": 1789,
+    "uses": {
+      "kk": "Атом электр станцияларының басты ядролық отыны (Уран-235), сүңгуір қайықтардың реакторлары және сауытты бұзатын сарқылған уран снарядтары.",
+      "ru": "Основное ядерное топливо атомных электростанций (АЭС) и атомных ледоколов, бронебойные снаряды из обеднённого урана.",
+      "en": "Primary fissile fuel for worldwide nuclear power plants (U-235), marine naval reactors, and depleted uranium kinetic armor penetrators."
+    },
+    "description": {
+      "kk": "Қазақстан өндіру көлемі бойынша әлемде 1-орында тұрған (әлемдік өнімнің 40%-ы) аса маңызды энергетикалық металл.",
+      "ru": "Тяжёлый серебристо-серый металл; Казахстан занимает первое место в мире по его добыче (более 40% мирового рынка).",
+      "en": "Naturally occurring actinide driving global nuclear energy, with Kazakhstan ranking as the world's leading uranium producer."
+    }
+  },
+  {
+    "number": 93,
+    "symbol": "Np",
+    "name": {
+      "kk": "Нептуний",
+      "ru": "Нептуний",
+      "en": "Neptunium"
+    },
+    "atomicMass": 237,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 917,
+    "boilingPoint": 4273,
+    "density": 20.45,
+    "electronegativity": 1.36,
+    "oxidationStates": "+3, +4, +5, +6",
+    "electronConfiguration": "[Rn] 5f⁴ 6d¹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      22,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Эдвин Макмиллан және Филип Абельсон",
+      "ru": "Эдвин Макмиллан и Филип Абельсон",
+      "en": "Edwin McMillan and Philip H. Abelson"
+    },
+    "discoveryYear": 1940,
+    "uses": {
+      "kk": "Плутоний-238 изотопын синтездеуде алғышарт ретінде қолданылады, ол ғарыштық зондтардың (Voyager, Perseverance) РИТЭГ батареяларын қуаттайды.",
+      "ru": "Сырье для получения плутония-238, питающего термоэлектрические генераторы марсоходов NASA и межпланетных аппаратов Вояджер.",
+      "en": "Precursor isotope for synthesizing Plutonium-238, which fuels radioisotope thermoelectric generators on deep space probes like Voyager."
+    },
+    "description": {
+      "kk": "Ураннан кейінгі алғашқы трансурандық элемент; Нептун планетасының құрметіне аталған.",
+      "ru": "Первый синтезированный трансурановый элемент, названный в честь планеты Нептун, следующей за Ураном.",
+      "en": "The first synthesized transuranic element, discovered in 1940 and named after the planet Neptune."
+    }
+  },
+  {
+    "number": 94,
+    "symbol": "Pu",
+    "name": {
+      "kk": "Плутоний",
+      "ru": "Плутоний",
+      "en": "Plutonium"
+    },
+    "atomicMass": 244,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 912.5,
+    "boilingPoint": 3501,
+    "density": 19.86,
+    "electronegativity": 1.28,
+    "oxidationStates": "+3, +4, +5, +6",
+    "electronConfiguration": "[Rn] 5f⁶ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      24,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Гленн Сиборг, Эдвин Макмиллан, Джозеф Кеннеди және Артур Валь",
+      "ru": "Гленн Сиборг и коллеги",
+      "en": "Glenn T. Seaborg, Arthur Wahl, Joseph W. Kennedy, and Edwin McMillan"
+    },
+    "discoveryYear": 1940,
+    "uses": {
+      "kk": "Ядролық қарудың өзегі (Плутоний-239), АЭС-тердің МОКС-отыны және Марста жүрген Perseverance роверінің радиотермиялық қуат көзі.",
+      "ru": "Основа ядерных боеприпасов (плутоний-239), МОКС-топливо для АЭС и атомные батареи марсоходов Curiosity и Perseverance.",
+      "en": "Core material in modern nuclear weapons (Pu-239), MOX commercial reactor fuel, and power source for Mars rovers Curiosity and Perseverance."
+    },
+    "description": {
+      "kk": "Плутон ергежейлі планетасының құрметіне аталған, жылу мен радиацияны үздіксіз бөліп тұратын аса ауыр металл.",
+      "ru": "Серебристый трансурановый металл, самопроизвольно нагревающийся за счет собственного интенсивного альфа-распада.",
+      "en": "An actinide metal that is warm to the touch due to intense alpha self-decay; named after Pluto."
+    }
+  },
+  {
+    "number": 95,
+    "symbol": "Am",
+    "name": {
+      "kk": "Америций",
+      "ru": "Америций",
+      "en": "Americium"
+    },
+    "atomicMass": 243,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1449,
+    "boilingPoint": 2880,
+    "density": 12,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Rn] 5f⁷ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Гленн Сиборг, Ральф Джеймс, Леон Морган және Альберт Гиорсо",
+      "ru": "Гленн Сиборг и коллеги",
+      "en": "Glenn T. Seaborg, Ralph A. James, Leon O. Morgan, and Albert Ghiorso"
+    },
+    "discoveryYear": 1944,
+    "uses": {
+      "kk": "Тұрмыстық түтін мен өрт хабарлағыш детекторларындағы иондаушы камера (Америций-241) және мұнай ұңғымаларын гамма-каротаждау.",
+      "ru": "Миллионы домашних бытовых детекторов дыма (ионизационная камера на изотопе америций-241) и геофизический каротаж скважин.",
+      "en": "Household ionization smoke detectors (using microgram quantities of Am-241), industrial thickness gauges, and neutron radiography."
+    },
+    "description": {
+      "kk": "Америка құрлығының құрметіне аталған, қарапайым адамдардың үйінде болатын жалғыз жасанды трансурандық элемент.",
+      "ru": "Искусственный трансурановый металл; единственный синтетический радиоэлемент, широко присутствующий в бытовых приборах.",
+      "en": "A silvery synthetic actinide named after the Americas, uniquely found in millions of household smoke alarms."
+    }
+  },
+  {
+    "number": 96,
+    "symbol": "Cm",
+    "name": {
+      "kk": "Кюрий",
+      "ru": "Кюрий",
+      "en": "Curium"
+    },
+    "atomicMass": 247,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1613,
+    "boilingPoint": 3383,
+    "density": 13.51,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Rn] 5f⁷ 6d¹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      9,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Гленн Сиборг, Ральф Джеймс және Альберт Гиорсо",
+      "ru": "Гленн Сиборг и коллеги",
+      "en": "Glenn T. Seaborg, Ralph A. James, and Albert Ghiorso"
+    },
+    "discoveryYear": 1944,
+    "uses": {
+      "kk": "Марс пен кометаларға қонған ғарыштық зондтардың рентгендік спектрометрлерінің альфа-көзі (APXS) және ауыр элементтерді синтездеу.",
+      "ru": "Альфа-рентгеновские спектрометры APXS на марсоходах и спускаемом аппарате Филы на комете Чурюмова-Герасименко.",
+      "en": "Alpha-particle X-ray spectrometers (APXS) aboard Mars rovers and comet landers, and target for superheavy element creation."
+    },
+    "description": {
+      "kk": "Мария және Пьер Кюрилердің құрметіне аталған, қараңғыда күлгін түспен жарқырайтын күшті радиоактивті актиноид.",
+      "ru": "Назван в честь первопроходцев радиоактивности Пьера и Марии Кюри; ярко светится в темноте пурпурным светом.",
+      "en": "Named after Marie and Pierre Curie; intensely radioactive and glows with purple light in the dark."
+    }
+  },
+  {
+    "number": 97,
+    "symbol": "Bk",
+    "name": {
+      "kk": "Берклий",
+      "ru": "Берклий",
+      "en": "Berkelium"
+    },
+    "atomicMass": 247,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1259,
+    "boilingPoint": 2900,
+    "density": 14.78,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Rn] 5f⁹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      27,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Стэнли Томпсон, Альберт Гиорсо және Гленн Сиборг",
+      "ru": "Гленн Сиборг и коллеги",
+      "en": "Stanley G. Thompson, Albert Ghiorso, and Glenn T. Seaborg"
+    },
+    "discoveryYear": 1949,
+    "uses": {
+      "kk": "117-элементті (Теннессин) синтездеуде нысана-материал ретінде қолданылған және актиноидтардың химиясын зерттеу үшін қызмет етеді.",
+      "ru": "Использовался в качестве мишени для синтеза 117-го сверхтяжелого элемента теннессина в Дубне и фундаментальных ядерных исследований.",
+      "en": "Target material for synthesizing superheavy element 117 (tennessine) at Dubna, and fundamental transactinide nuclear studies."
+    },
+    "description": {
+      "kk": "Калифорния университеті орналасқан Беркли қаласының құрметіне аталған синтетикалық актиноид.",
+      "ru": "Синтетический радиоактивный металл, названный в честь калифорнийского города Беркли, где был впервые синтезирован.",
+      "en": "A soft silvery-white radioactive actinide named after the university city of Berkeley, California."
+    }
+  },
+  {
+    "number": 98,
+    "symbol": "Cf",
+    "name": {
+      "kk": "Калифорний",
+      "ru": "Калифорний",
+      "en": "Californium"
+    },
+    "atomicMass": 251,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1173,
+    "boilingPoint": 1743,
+    "density": 15.1,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Rn] 5f¹⁰ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      28,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Стэнли Томпсон, Кеннет Стрит, Альберт Гиорсо және Гленн Сиборг",
+      "ru": "Гленн Сиборг и коллеги",
+      "en": "Stanley G. Thompson, Kenneth Street Jr., Albert Ghiorso, and Glenn T. Seaborg"
+    },
+    "discoveryYear": 1950,
+    "uses": {
+      "kk": "Мұнай қабаттарын нейтрондық каротаждау, атом реакторларын іске қосуға арналған нейтрон көзі және әуежайлардағы жарылғыш заттарды іздеу құралдары.",
+      "ru": "Мощнейший портативный источник нейтронов: запуск атомных реакторов, нейтронный каротаж нефтяных скважин и досмотр багажа на взрывчатку.",
+      "en": "Extremely powerful portable neutron emitter used to start nuclear reactors, detect explosives in air cargo, and log deep oil wells."
+    },
+    "description": {
+      "kk": "Әлемдегі ең қымбат металдардың бірі (1 грамы ондаған миллион доллар тұрады), керемет нейтрон генераторы.",
+      "ru": "Один из самых дорогих материалов в мире; 1 микрограмм калифорния-252 испускает 2.3 миллиона нейтронов в секунду.",
+      "en": "One of the most expensive synthetic elements on Earth; just one microgram emits millions of spontaneous fission neutrons per second."
+    }
+  },
+  {
+    "number": 99,
+    "symbol": "Es",
+    "name": {
+      "kk": "Эйнштейний",
+      "ru": "Эйнштейний",
+      "en": "Einsteinium"
+    },
+    "atomicMass": 252,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1133,
+    "boilingPoint": 1269,
+    "density": 8.84,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Rn] 5f¹¹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      29,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Альберт Гиорсо бастаған топ",
+      "ru": "Альберт Гиорсо и коллеги",
+      "en": "Albert Ghiorso and team"
+    },
+    "discoveryYear": 1952,
+    "uses": {
+      "kk": "1955 жылы менделевий элементін алғаш синтездеуге арналған және ауыр ядролардың қасиеттерін зерттейтін ғылыми реагент.",
+      "ru": "Использовался для синтеза 101-го элемента менделевия и фундаментальных исследований квантовой химии предельных элементов.",
+      "en": "Used to produce the first atoms of mendelevium in 1955 and explore heavy actinide coordination chemistry."
+    },
+    "description": {
+      "kk": "Ұлы физик Альберт Эйнштейннің құрметіне аталған; 1952 жылы Тынық мұхитындағы алғашқы термоядролық сутекті бомба жарылысының қалдықтарынан табылған.",
+      "ru": "Открыт в радиоактивных осадках после первого термоядерного взрыва «Айви Майк» на атолле Эниветок; назван в честь Эйнштейна.",
+      "en": "Discovered in the radioactive debris of the first Ivy Mike thermonuclear test in 1952, named after Albert Einstein."
+    }
+  },
+  {
+    "number": 100,
+    "symbol": "Fm",
+    "name": {
+      "kk": "Фермий",
+      "ru": "Фермий",
+      "en": "Fermium"
+    },
+    "atomicMass": 257,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1800,
+    "boilingPoint": null,
+    "density": null,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Rn] 5f¹² 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      30,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Альберт Гиорсо бастаған топ",
+      "ru": "Альберт Гиорсо и коллеги",
+      "en": "Albert Ghiorso and team"
+    },
+    "discoveryYear": 1952,
+    "uses": {
+      "kk": "Тек ядролық зерттеулерде актиноидтардың электрондық орбитальдарының құрылымын модельдеу үшін ғана қолданылады.",
+      "ru": "Используется исключительно в фундаментальных ядерных экспериментах для изучения свойств границы актиноидного ряда.",
+      "en": "Used purely in nuclear physics laboratories to investigate the boundary properties of the actinide series."
+    },
+    "description": {
+      "kk": "Ядролық реакторды жасаушы Энрико Фермидің құрметіне аталған; нейтрондарды жұту арқылы ядролық реакторларда алынатын ең соңғы элемент.",
+      "ru": "Назван в честь Энрико Ферми; самый тяжёлый элемент, который ещё возможно получить последовательным захватом нейтронов в реакторе.",
+      "en": "Named after nuclear pioneer Enrico Fermi; the heaviest element that can be prepared by neutron bombardment."
+    }
+  },
+  {
+    "number": 101,
+    "symbol": "Md",
+    "name": {
+      "kk": "Менделевий",
+      "ru": "Менделевий",
+      "en": "Mendelevium"
+    },
+    "atomicMass": 258,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1100,
+    "boilingPoint": null,
+    "density": null,
+    "electronegativity": 1.3,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Rn] 5f¹³ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      31,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Альберт Гиорсо, Гленн Сиборг және Бернард Харви",
+      "ru": "Альберт Гиорсо, Гленн Сиборг и коллеги",
+      "en": "Albert Ghiorso, Glenn T. Seaborg, Bernard Harvey, and Gregory Choppin"
+    },
+    "discoveryYear": 1955,
+    "uses": {
+      "kk": "Ауыр элементтердің валенттілігін зерттеу үшін қолданылады; алғаш рет бар болғаны 17 атом көлемінде синтезделген.",
+      "ru": "Применяется в фундаментальных научных исследованиях химических свойств тяжелых актиноидов.",
+      "en": "Exclusively applied in advanced research examining the chemical valence states of heavy actinides."
+    },
+    "description": {
+      "kk": "Периодтық заңның авторы ұлы ғалым Дмитрий Иванович Менделеевтің құрметіне аталған айрықша элемент.",
+      "ru": "Первый элемент, полученный буквально «поатомно» (всего 17 атомов); с гордостью назван в честь создателя Периодической таблицы Д.И. Менделеева.",
+      "en": "Named in honor of Dmitri Mendeleev, creator of the Periodic Table; first element synthesized one atom at a time."
+    }
+  },
+  {
+    "number": 102,
+    "symbol": "No",
+    "name": {
+      "kk": "Нобелий",
+      "ru": "Нобелий",
+      "en": "Nobelium"
+    },
+    "atomicMass": 259,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "state": "solid",
+    "meltingPoint": 1100,
+    "boilingPoint": null,
+    "density": null,
+    "electronegativity": 1.3,
+    "oxidationStates": "+2, +3",
+    "electronConfiguration": "[Rn] 5f¹⁴ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Флёров тобы (Дубна) және Беркли зертханасы",
+      "ru": "Г.Н. Флёров и коллеги (Дубна, ОИЯИ)",
+      "en": "Joint Institute for Nuclear Research (Dubna) & Berkeley"
+    },
+    "discoveryYear": 1966,
+    "uses": {
+      "kk": "Ауыр ядролардың қасиеттері мен релятивистік электрондық эффектілерін зерттеуде қолданылады.",
+      "ru": "Используется для проверки квантово-механических теорий релятивистского поведения тяжелых электронов.",
+      "en": "Strictly limited to fundamental research into relativistic electron shell configurations."
+    },
+    "description": {
+      "kk": "Динамитті ойлап тапқан және атақты сыйлықтың негізін қалаған Альфред Нобельдің құрметіне аталған радиоактивті металл.",
+      "ru": "Синтетический радиоактивный металл, названный в честь Альфреда Нобеля; в растворах стабилен в степени окисления +2.",
+      "en": "A radioactive synthetic metal named after Alfred Nobel; uniquely stable in aqueous solution as No(II)."
+    }
+  },
+  {
+    "number": 103,
+    "symbol": "Lr",
+    "name": {
+      "kk": "Лоуренсий",
+      "ru": "Лоуренсий",
+      "en": "Lawrencium"
+    },
+    "atomicMass": 266,
+    "category": "actinide",
+    "group": null,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 1900,
+    "boilingPoint": null,
+    "density": null,
+    "electronegativity": 1.3,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Rn] 5f¹⁴ 7s² 7p¹",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Альберт Гиорсо бастаған топ",
+      "ru": "Альберт Гиорсо (Беркли) и Г.Н. Флёров (Дубна)",
+      "en": "Albert Ghiorso and team / JINR Dubna"
+    },
+    "discoveryYear": 1961,
+    "uses": {
+      "kk": "Актиноидтар мен трансактиноидтар шекарасындағы релятивистік 7p-электрондық қасиеттерді зерттеу.",
+      "ru": "Тестирование релятивистских квантовых эффектов в структуре тяжелых электронных оболочек.",
+      "en": "Theoretical and accelerator investigation of anomalous relativistic p-electron shielding behavior."
+    },
+    "description": {
+      "kk": "Циклотронды ойлап тапқан Эрнест Лоуренстің құрметіне аталған актиноидтар қатарының соңғы элементі.",
+      "ru": "Завершающий элемент ряда актиноидов; назван в честь изобретателя циклотрона Эрнеста Лоуренса.",
+      "en": "The final member of the actinide series, named after Ernest Lawrence, inventor of the cyclotron particle accelerator."
+    }
+  },
+  {
+    "number": 104,
+    "symbol": "Rf",
+    "name": {
+      "kk": "Резерфордий",
+      "ru": "Резерфордий",
+      "en": "Rutherfordium"
+    },
+    "atomicMass": 267,
+    "category": "transition-metal",
+    "group": 4,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": 2400,
+    "boilingPoint": 5800,
+    "density": 17,
+    "electronegativity": null,
+    "oxidationStates": "+4",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d² 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      10,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Дубна (ОИЯИ) және Беркли зертханалары",
+      "ru": "ОИЯИ (Дубна) и Лаборатория Беркли",
+      "en": "JINR (Dubna) and Lawrence Berkeley Laboratory"
+    },
+    "discoveryYear": 1964,
+    "uses": {
+      "kk": "Аса ауыр трансактиноидтардың химиялық қасиеттерін газды термохроматография арқылы анықтау.",
+      "ru": "Фундаментальные исследования газовой хроматографии летучих хлоридов сверхтяжелых элементов.",
+      "en": "Gas-phase thermochromatography research testing whether periodic trends hold for superheavy transactinides."
+    },
+    "description": {
+      "kk": "Атом ядросының планетарлық моделін ашқан «ядролық физиканың атасы» Эрнест Резерфордтың құрметіне аталған.",
+      "ru": "Первый трансактиноидный сверхтяжелый элемент таблицы, названный в честь великого физика Эрнеста Резерфорда.",
+      "en": "The first transactinide element, formally named in honor of nuclear pioneer Ernest Rutherford."
+    }
+  },
+  {
+    "number": 105,
+    "symbol": "Db",
+    "name": {
+      "kk": "Дубний",
+      "ru": "Дубний",
+      "en": "Dubnium"
+    },
+    "atomicMass": 268,
+    "category": "transition-metal",
+    "group": 5,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 21.6,
+    "electronegativity": null,
+    "oxidationStates": "+5",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d³ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      11,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Дубна ядролық зерттеулер институты (ОИЯИ)",
+      "ru": "Объединенный институт ядерных исследований (Дубна)",
+      "en": "Joint Institute for Nuclear Research (Dubna)"
+    },
+    "discoveryYear": 1968,
+    "uses": {
+      "kk": "Трансактиноидтардың 5-тобының (ванадий, ниобий, тантал) химиялық ұқсастығын салыстыру.",
+      "ru": "Изучение химических свойств 5-й группы и проверка сохранения периодичности у сверхтяжелых ядер.",
+      "en": "Investigating solution chemistry analogies between dubnium, niobium, and tantalum."
+    },
+    "description": {
+      "kk": "Көптеген жаңа элементтер синтезделген әйгілі ғылым қаласы Дубнаның құрметіне аталған.",
+      "ru": "Сверхтяжелый радиоактивный металл, увековечивший российский наукоград Дубна — мировой центр ядерного синтеза.",
+      "en": "Named after the Russian science town of Dubna, headquarters of the Joint Institute for Nuclear Research."
+    }
+  },
+  {
+    "number": 106,
+    "symbol": "Sg",
+    "name": {
+      "kk": "Сиборгий",
+      "ru": "Сиборгий",
+      "en": "Seaborgium"
+    },
+    "atomicMass": 269,
+    "category": "transition-metal",
+    "group": 6,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 23,
+    "electronegativity": null,
+    "oxidationStates": "+6",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁴ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      12,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Альберт Гиорсо және Гленн Сиборг тобы",
+      "ru": "Альберт Гиорсо, Гленн Сиборг и коллеги",
+      "en": "Albert Ghiorso, Glenn T. Seaborg and team"
+    },
+    "discoveryYear": 1974,
+    "uses": {
+      "kk": "Вольфрам мен молибденге ұқсас газ тәрізді карбонилдері мен оксихлоридтерін синтездеу зерттеулері.",
+      "ru": "Синтез и изучение летучих карбонильных комплексов Sg(CO)₆ для подтверждения законов периодичности.",
+      "en": "Synthesized as hexacarbonyl Sg(CO)6 to prove that it behaves as a true heavier homologue of molybdenum and tungsten."
+    },
+    "description": {
+      "kk": "Көзі тірісінде аты элементке берілген алғашқы ғалым Гленн Сиборгтың құрметіне аталған.",
+      "ru": "Первый элемент, названный в честь живущего на тот момент ученого — лауреата Нобелевской премии Гленна Сиборга.",
+      "en": "The first chemical element named after a living person at the time of official naming, Nobel laureate Glenn T. Seaborg."
+    }
+  },
+  {
+    "number": 107,
+    "symbol": "Bh",
+    "name": {
+      "kk": "Борий",
+      "ru": "Борий",
+      "en": "Bohrium"
+    },
+    "atomicMass": 270,
+    "category": "transition-metal",
+    "group": 7,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 26,
+    "electronegativity": null,
+    "oxidationStates": "+7",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁵ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      13,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "GSI Дармштадт (Германия) және ОИЯИ Дубна",
+      "ru": "Петер Армбрустер, Готтфрид Мюнценберг (GSI, Дармштадт)",
+      "en": "GSI Helmholtz Centre for Heavy Ion Research"
+    },
+    "discoveryYear": 1981,
+    "uses": {
+      "kk": "Аса ауыр элементтердің тотығу дәрежелері мен рений аналогтарын зерттеу.",
+      "ru": "Изучение летучести оксихлорида бория BhO₃Cl в потоке газа-носителя.",
+      "en": "Fundamental gas-chromatography analysis of volatile oxychlorides like BhO3Cl."
+    },
+    "description": {
+      "kk": "Кванттық атом моделін жасаған ұлы дат физигі Нильс Бордың құрметіне аталған.",
+      "ru": "Назван в честь великого создателя квантовой теории строения атома Нильса Бора.",
+      "en": "Named after the Danish physicist and father of quantum atomic theory, Niels Bohr."
+    }
+  },
+  {
+    "number": 108,
+    "symbol": "Hs",
+    "name": {
+      "kk": "Хассий",
+      "ru": "Хассий",
+      "en": "Hassium"
+    },
+    "atomicMass": 269,
+    "category": "transition-metal",
+    "group": 8,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 27,
+    "electronegativity": null,
+    "oxidationStates": "+8",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁶ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      14,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Петер Армбрустер және Готтфрид Мюнценберг (GSI)",
+      "ru": "Петер Армбрустер и коллеги (GSI Дармштадт)",
+      "en": "Peter Armbruster and Gottfried Münzenberg (GSI)"
+    },
+    "discoveryYear": 1984,
+    "uses": {
+      "kk": "Осмий сияқты ұшқыш тетраоксид түзетін жоғары тотығу дәрежесін (+8) растау тәжірибелері.",
+      "ru": "Подтверждение образования летучего высшего оксида HsO₄, аналогичного OsO₄.",
+      "en": "Used to confirm maximum group 8 oxidation states through volatile tetroxide HsO4 experiments."
+    },
+    "description": {
+      "kk": "Германиядағы Гессен федералдық жерінің латынша тарихи атауымен (Hassia) аталған.",
+      "ru": "Сверхтяжелый элемент, названный в честь немецкой земли Гессен (лат. Hassia), где находится институт GSI.",
+      "en": "Named after the German state of Hesse (Hassia in Latin), home to the GSI Heavy Ion Research Centre."
+    }
+  },
+  {
+    "number": 109,
+    "symbol": "Mt",
+    "name": {
+      "kk": "Мейтнерий",
+      "ru": "Мейтнерий",
+      "en": "Meitnerium"
+    },
+    "atomicMass": 278,
+    "category": "unknown",
+    "group": 9,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 27.5,
+    "electronegativity": null,
+    "oxidationStates": "+3, +4",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁷ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      15,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Петер Армбрустер және Готтфрид Мюнценберг (GSI)",
+      "ru": "Петер Армбрустер и коллеги (GSI Дармштадт)",
+      "en": "Peter Armbruster and Gottfried Münzenberg (GSI)"
+    },
+    "discoveryYear": 1982,
+    "uses": {
+      "kk": "Аса ауыр ядролардың альфа-ыдырау тізбектері мен жартылай ыдырау мерзімдерін өлшеу.",
+      "ru": "Изучение цепочек радиоактивного распада сверхтяжелых трансфермиевых элементов.",
+      "en": "Investigating transactinide alpha-decay chains and nuclear shell stabilization models."
+    },
+    "description": {
+      "kk": "Уранның ядролық бөлінуін теориялық тұрғыдан алғаш түсіндірген көрнекті физик Лиза Мейтнердің құрметіне аталған.",
+      "ru": "Назван в честь выдающегося австрийского физика Лизы Мейтнер, впервые рассчитавшей деление ядра урана.",
+      "en": "Named in honor of Austrian physicist Lise Meitner, who co-discovered nuclear fission of uranium."
+    }
+  },
+  {
+    "number": 110,
+    "symbol": "Ds",
+    "name": {
+      "kk": "Дармштадтий",
+      "ru": "Дармштадтий",
+      "en": "Darmstadtium"
+    },
+    "atomicMass": 281,
+    "category": "unknown",
+    "group": 10,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 26,
+    "electronegativity": null,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁸ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      16,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Зигурд Хофманн бастаған топ (GSI)",
+      "ru": "Зигурд Хофманн и коллеги (GSI Дармштадт)",
+      "en": "Sigurd Hofmann and team (GSI)"
+    },
+    "discoveryYear": 1994,
+    "uses": {
+      "kk": "Аса ауыр ядролардың спонтанды ыдырау қасиеттерін бақылау және үдеткіш техникасын дамыту.",
+      "ru": "Экспериментальная проверка пределов стабильности атомных ядер и кулоновского отталкивания.",
+      "en": "Exploring nuclear fission barriers and testing models of strong nuclear force limits."
+    },
+    "description": {
+      "kk": "GSI ауыр иондар зерттеу орталығы орналасқан немістің Дармштадт қаласының құрметіне аталған.",
+      "ru": "Назван в честь немецкого города Дармштадт, где были открыты шесть новых химических элементов.",
+      "en": "Named after the German city of Darmstadt, where six superheavy elements were successfully synthesized."
+    }
+  },
+  {
+    "number": 111,
+    "symbol": "Rg",
+    "name": {
+      "kk": "Рентгений",
+      "ru": "Рентгений",
+      "en": "Roentgenium"
+    },
+    "atomicMass": 282,
+    "category": "unknown",
+    "group": 11,
+    "period": 7,
+    "block": "d",
+    "state": "solid",
+    "meltingPoint": null,
+    "boilingPoint": null,
+    "density": 28.7,
+    "electronegativity": null,
+    "oxidationStates": "+3",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁹ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      17,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Зигурд Хофманн бастаған топ (GSI)",
+      "ru": "Зигурд Хофманн и коллеги (GSI Дармштадт)",
+      "en": "Sigurd Hofmann and team (GSI)"
+    },
+    "discoveryYear": 1994,
+    "uses": {
+      "kk": "Алтын тобының (11-топ) релятивистік жиырылу эффектілері мен химиялық қасиеттерін тестілеу.",
+      "ru": "Изучение релятивистского сжатия 7s-орбиталей и благородных свойств 11-й группы.",
+      "en": "Investigating relativistic 7s contraction effects on the chemistry of group 11 superheavy metals."
+    },
+    "description": {
+      "kk": "Рентген сәулелерін ашқан алғашқы Нобель сыйлығының лауреаты Вильгельм Конрад Рентгеннің құрметіне аталған.",
+      "ru": "Назван в честь Вильгельма Рентгена, открывшего X-лучи и получившего первую Нобелевскую премию по физике.",
+      "en": "Named in honor of Wilhelm Conrad Röntgen, the discoverer of X-rays and first Nobel laureate in Physics."
+    }
+  },
+  {
+    "number": 112,
+    "symbol": "Cn",
+    "name": {
+      "kk": "Коперниций",
+      "ru": "Коперниций",
+      "en": "Copernicium"
+    },
+    "atomicMass": 285,
+    "category": "transition-metal",
+    "group": 12,
+    "period": 7,
+    "block": "d",
+    "state": "gas",
+    "meltingPoint": 283,
+    "boilingPoint": 340,
+    "density": 14,
+    "electronegativity": null,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      2
+    ],
+    "discoveredBy": {
+      "kk": "Зигурд Хофманн бастаған топ (GSI)",
+      "ru": "Зигурд Хофманн и коллеги (GSI Дармштадт)",
+      "en": "Sigurd Hofmann and team (GSI)"
+    },
+    "discoveryYear": 1996,
+    "uses": {
+      "kk": "Бөлме температурасында релятивистік эффекттерге байланысты ұшқыш сұйықтық немесе тіпті газ тәрізді мінез-құлықты зерттеу.",
+      "ru": "Экспериментальное изучение феномена летучего «благородного металла», ведущего себя подобно благородному газу.",
+      "en": "Investigating volatile 'noble metal' behavior where relativistic effects may render it gaseous at room temperature."
+    },
+    "description": {
+      "kk": "Гелиоцентрлік жүйенің авторы атақты астроном Николай Коперниктің құрметіне аталған.",
+      "ru": "Сверхтяжелый элемент, названный в честь великого астронома Николая Коперника, изменившего картину мира.",
+      "en": "Named in honor of Nicolaus Copernicus, the astronomer who placed the Sun at the center of the solar system."
+    }
+  },
+  {
+    "number": 113,
+    "symbol": "Nh",
+    "name": {
+      "kk": "Нихоний",
+      "ru": "Нихоний",
+      "en": "Nihonium"
+    },
+    "atomicMass": 286,
+    "category": "unknown",
+    "group": 13,
+    "period": 7,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 700,
+    "boilingPoint": 1400,
+    "density": 16,
+    "electronegativity": null,
+    "oxidationStates": "+1, +3",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p¹",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      3
+    ],
+    "discoveredBy": {
+      "kk": "Косуке Морита бастаған RIKEN тобы (Жапония)",
+      "ru": "Институт RIKEN под руководством Косукэ Мориты (Япония)",
+      "en": "RIKEN team led by Kosuke Morita (Japan)"
+    },
+    "discoveryYear": 2004,
+    "uses": {
+      "kk": "Азия құрлығында ашылған алғашқы элемент ретінде ауыр ядролардың ыдырау заңдылықтарын зерттеуге пайдаланылады.",
+      "ru": "Изучение тонких механизмов «холодного слияния» ядер цинка и висмута на линейном ускорителе.",
+      "en": "Fundamental accelerator research demonstrating cold-fusion reactions between zinc and bismuth beams."
+    },
+    "description": {
+      "kk": "Азияда синтезделген алғашқы химиялық элемент, Жапонияның өзіндік атауымен (Нихон) аталған.",
+      "ru": "Первый химический элемент, открытый в Азии; его имя происходит от самоназвания Японии — «Нихон» («Страна восходящего солнца»).",
+      "en": "The first chemical element discovered in Asia, named after the native Japanese name for Japan ('Nihon')."
+    }
+  },
+  {
+    "number": 114,
+    "symbol": "Fl",
+    "name": {
+      "kk": "Флеровий",
+      "ru": "Флеровий",
+      "en": "Flerovium"
+    },
+    "atomicMass": 289,
+    "category": "post-transition-metal",
+    "group": 14,
+    "period": 7,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 200,
+    "boilingPoint": 380,
+    "density": 14,
+    "electronegativity": null,
+    "oxidationStates": "+2",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      4
+    ],
+    "discoveredBy": {
+      "kk": "Юрий Оганесян тобы (ОИЯИ, Дубна) және Ливермор зертханасы",
+      "ru": "ОИЯИ (Дубна) под руководством Ю.Ц. Оганесяна и Ливерморская лаборатория",
+      "en": "JINR (Dubna) and Lawrence Livermore National Laboratory"
+    },
+    "discoveryYear": 1998,
+    "uses": {
+      "kk": "Аса ауыр элементтердің «тұрақтылық аралы» (Island of Stability) теориясын дәлелдеуде шешуші рөл атқарады.",
+      "ru": "Ключевой элемент для экспериментального доказательства существования «острова стабильности» в ядре.",
+      "en": "Crucial proof-of-concept element validating the theoretical 'Island of Stability' concept in superheavy nuclear physics."
+    },
+    "description": {
+      "kk": "Көрнекті физик Георгий Флёровтың құрметіне аталған; релятивистік әсерлерден оның химиялық белсенділігі өте төмен.",
+      "ru": "Назван в честь Лаборатории ядерных реакций имени Г.Н. Флёрова; обладает необычайно слабой химической активностью.",
+      "en": "Named after the Flerov Laboratory of Nuclear Reactions in Dubna, exhibiting surprisingly inert, noble-gas-like chemical behavior."
+    }
+  },
+  {
+    "number": 115,
+    "symbol": "Mc",
+    "name": {
+      "kk": "Московий",
+      "ru": "Московий",
+      "en": "Moscovium"
+    },
+    "atomicMass": 290,
+    "category": "unknown",
+    "group": 15,
+    "period": 7,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 670,
+    "boilingPoint": 1400,
+    "density": 13.5,
+    "electronegativity": null,
+    "oxidationStates": "+1, +3",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      5
+    ],
+    "discoveredBy": {
+      "kk": "ОИЯИ (Дубна) және Ливермор ұлттық зертханасы",
+      "ru": "ОИЯИ (Дубна) и Ливерморская национальная лаборатория",
+      "en": "JINR (Dubna) and Lawrence Livermore National Laboratory"
+    },
+    "discoveryYear": 2003,
+    "uses": {
+      "kk": "Калций-48 иондарының сәулесімен америций-243 нысанасын соқтығыстыру арқылы ядролық реакцияларды зерттеу.",
+      "ru": "Изучение реакций горячего слияния ядер кальция-48 и америция-243 на ускорителе У-400.",
+      "en": "Investigating fusion-evaporation mechanisms between Calcium-48 projectiles and Americium-243 actinide targets."
+    },
+    "description": {
+      "kk": "Дубна қаласы орналасқан ежелгі Мәскеу жерінің құрметіне аталған аса ауыр синтетикалық элемент.",
+      "ru": "Назван в честь древней Московской земли, где расположен Объединенный институт ядерных исследований.",
+      "en": "Named in honor of the Moscow region, home to the Joint Institute for Nuclear Research in Dubna."
+    }
+  },
+  {
+    "number": 116,
+    "symbol": "Lv",
+    "name": {
+      "kk": "Ливерморий",
+      "ru": "Ливерморий",
+      "en": "Livermorium"
+    },
+    "atomicMass": 293,
+    "category": "unknown",
+    "group": 16,
+    "period": 7,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 700,
+    "boilingPoint": 1100,
+    "density": 12.9,
+    "electronegativity": null,
+    "oxidationStates": "+2, +4",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      6
+    ],
+    "discoveredBy": {
+      "kk": "ОИЯИ (Дубна) және Лоуренс Ливермор зертханасы",
+      "ru": "ОИЯИ (Дубна) и Ливерморская лаборатория",
+      "en": "JINR (Dubna) and Lawrence Livermore National Laboratory"
+    },
+    "discoveryYear": 2000,
+    "uses": {
+      "kk": "Кюрий-248 нысанасын атқылау арқылы оганесон мен флеровий ыдырау өнімдерін зерттеу.",
+      "ru": "Изучение цепочек альфа-распада оганесона и синтез изотопов с замкнутыми нейтронными оболочками.",
+      "en": "Alpha-decay daughter tracking following the synthesis of oganesson and heavy ion collision diagnostics."
+    },
+    "description": {
+      "kk": "АҚШ-тағы атақты Лоуренс Ливермор ұлттық зертханасы мен Ливермор қаласының құрметіне аталған.",
+      "ru": "Назван в честь Ливерморской национальной лаборатории им. Э. Лоуренса и калифорнийского города Ливермор.",
+      "en": "Named after the Lawrence Livermore National Laboratory and the city of Livermore, California."
+    }
+  },
+  {
+    "number": 117,
+    "symbol": "Ts",
+    "name": {
+      "kk": "Теннессин",
+      "ru": "Теннессин",
+      "en": "Tennessine"
+    },
+    "atomicMass": 294,
+    "category": "halogen",
+    "group": 17,
+    "period": 7,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 723,
+    "boilingPoint": 883,
+    "density": 7.2,
+    "electronegativity": null,
+    "oxidationStates": "-1, +1, +3, +5",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      7
+    ],
+    "discoveredBy": {
+      "kk": "ОИЯИ (Дубна), Ливермор және Ок-Ридж зертханалары",
+      "ru": "ОИЯИ (Дубна), Окриджская и Ливерморская лаборатории",
+      "en": "JINR Dubna, Oak Ridge National Lab, Vanderbilt, and LLNL"
+    },
+    "discoveryYear": 2010,
+    "uses": {
+      "kk": "Аса ауыр галогендердің тотығу-тотықсыздану қасиеттері мен спин-орбиталық байланысын зерттеу.",
+      "ru": "Изучение сильнейших спин-орбитальных взаимодействий в тяжелейшем известном галогене.",
+      "en": "Investigating how extreme relativistic spin-orbit coupling modifies halogen group trends."
+    },
+    "description": {
+      "kk": "Берклий-249 нысанасын дайындаған АҚШ-тың Ок-Ридж ғылыми орталығы орналасқан Теннесси штатының құрметіне аталған.",
+      "ru": "Второй по номеру самый тяжелый элемент; назван в честь американского штата Теннесси, где расположен Окриджский реактор.",
+      "en": "The second heaviest known element, named after the US state of Tennessee in recognition of Oak Ridge National Laboratory."
+    }
+  },
+  {
+    "number": 118,
+    "symbol": "Og",
+    "name": {
+      "kk": "Оганесон",
+      "ru": "Оганесон",
+      "en": "Oganesson"
+    },
+    "atomicMass": 294,
+    "category": "noble-gas",
+    "group": 18,
+    "period": 7,
+    "block": "p",
+    "state": "solid",
+    "meltingPoint": 325,
+    "boilingPoint": 350,
+    "density": 5,
+    "electronegativity": null,
+    "oxidationStates": "0, +2, +4",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      8
+    ],
+    "discoveredBy": {
+      "kk": "Юрий Оганесян тобы (ОИЯИ Дубна және Ливермор)",
+      "ru": "Академик Ю.Ц. Оганесян и коллеги (ОИЯИ Дубна и Ливермор)",
+      "en": "JINR Dubna and Lawrence Livermore National Laboratory"
+    },
+    "discoveryYear": 2002,
+    "uses": {
+      "kk": "Периодтық кестенің қазіргі белгілі соңғы элементі ретінде ядролық тұрақтылықтың абсолютті шекарасын зерттеуге қолданылады.",
+      "ru": "Фундаментальное исследование границы существования химических элементов и проверка релятивистского размытия электронных оболочек.",
+      "en": "Pushing the frontiers of the periodic table, exploring relativistic shell-smearing and the absolute limits of matter."
+    },
+    "description": {
+      "kk": "Аса ауыр элементтер синтезінің көшбасшысы, академик Юрий Оганесянның құрметіне аталған периодтық жүйенің 118-ші ең ауыр элементі.",
+      "ru": "118-й и пока последний элемент таблицы Менделеева, названный в честь выдающегося ныне живущего академика Юрия Цолаковича Оганесяна.",
+      "en": "Element 118, the heaviest element in the periodic table, named after living Russian-Armenian nuclear physicist Yuri Oganessian."
+    }
+  }
+]

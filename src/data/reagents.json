@@ -1,0 +1,542 @@
+[
+  {
+    "id": "H2O",
+    "formula": "H2O",
+    "name": { "kk": "Тазартылған су", "ru": "Дистиллированная вода", "en": "Distilled Water" },
+    "color": "rgba(224, 242, 254, 0.45)",
+    "state": "liquid",
+    "type": "water",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "droplet",
+      "text": { "kk": "Қауіпсіз зат (бейтарап орта)", "ru": "Безопасное вещество (нейтральная среда)", "en": "Safe neutral solvent" }
+    },
+    "description": {
+      "kk": "Химиялық тәжірибелерде әмбебап еріткіш ретінде қолданылады.",
+      "ru": "Универсальный растворитель для проведения лабораторных опытов.",
+      "en": "Universal solvent used in chemistry laboratory experiments."
+    }
+  },
+  {
+    "id": "HCl",
+    "formula": "HCl",
+    "name": { "kk": "Тұз қышқылы", "ru": "Соляная кислота", "en": "Hydrochloric Acid" },
+    "color": "rgba(240, 249, 255, 0.4)",
+    "state": "liquid",
+    "type": "acid",
+    "pH": 1.0,
+    "ions": { "cations": ["H+"], "anions": ["Cl-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Күйдіргіш күшті қышқыл, буы тыныс алу жолдарын тітіркендіреді", "ru": "Едкая сильная кислота, пары раздражают дыхательные пути", "en": "Corrosive strong acid, irritating fumes" }
+    },
+    "description": {
+      "kk": "Күшті бірнегізді қышқыл, металдармен және негіздермен қарқынды әрекеттеседі.",
+      "ru": "Сильная одноосновная кислота, активно реагирует с металлами и щелочами.",
+      "en": "Strong monoprotic acid, actively dissolves base metals and reacts with alkalis."
+    }
+  },
+  {
+    "id": "H2SO4",
+    "formula": "H2SO4",
+    "name": { "kk": "Күкірт қышқылы", "ru": "Серная кислота", "en": "Sulfuric Acid" },
+    "color": "rgba(241, 245, 249, 0.45)",
+    "state": "liquid",
+    "type": "acid",
+    "pH": 0.8,
+    "ions": { "cations": ["H+"], "anions": ["SO4_2-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Аса күшті күйдіргіш қышқыл, сумен араластырғанда қатты қызады", "ru": "Особо опасная едкая кислота, сильный разогрев при растворении", "en": "Extremely corrosive, violently exothermic when mixed with water" }
+    },
+    "description": {
+      "kk": "«Химиялық өндірістің наны», екінегізді күшті қышқыл, су тартқыш.",
+      "ru": "Ключевая промышленная двухосновная кислота, мощный водоотнимающий агент.",
+      "en": "Strong diprotic mineral acid and powerful dehydrating agent."
+    }
+  },
+  {
+    "id": "HNO3",
+    "formula": "HNO3",
+    "name": { "kk": "Азот қышқылы", "ru": "Азотная кислота", "en": "Nitric Acid" },
+    "color": "rgba(254, 249, 195, 0.4)",
+    "state": "liquid",
+    "type": "acid",
+    "pH": 1.0,
+    "ions": { "cations": ["H+"], "anions": ["NO3-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Күшті тотықтырғыш, теріні сары түске бояп күйдіреді", "ru": "Сильный окислитель, оставляет жёлтые ожоги на коже", "en": "Strong oxidizer, causes characteristic xanthoproteic yellow burns" }
+    },
+    "description": {
+      "kk": "Күшті тотықтырғыш қышқыл, тіпті мыспен және күміспен әрекеттеседі.",
+      "ru": "Сильная кислота-окислитель, растворяет даже медь и серебро.",
+      "en": "Powerful oxidizing acid capable of dissolving copper and silver."
+    }
+  },
+  {
+    "id": "CH3COOH",
+    "formula": "CH3COOH",
+    "name": { "kk": "Сірке қышқылы", "ru": "Уксусная кислота", "en": "Acetic Acid" },
+    "color": "rgba(248, 250, 252, 0.4)",
+    "state": "liquid",
+    "type": "acid",
+    "pH": 2.8,
+    "ions": { "cations": ["H+"], "anions": ["CH3COO-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "droplet",
+      "text": { "kk": "Өткір иісті әлсіз органикалық қышқыл", "ru": "Органическая кислота с резким характерным запахом", "en": "Weak organic acid with sharp vinegar aroma" }
+    },
+    "description": {
+      "kk": "Тұрмыста сірке суы ретінде белгілі бірнегізді карбон қышқылы.",
+      "ru": "Одноосновная карбоновая кислота, известная в быту как столовый уксус.",
+      "en": "Weak carboxylic acid widely used in organic chemistry and households."
+    }
+  },
+  {
+    "id": "NaOH",
+    "formula": "NaOH",
+    "name": { "kk": "Натрий гидроксиді (күйдіргіш натр)", "ru": "Гидроксид натрия (едкий натр)", "en": "Sodium Hydroxide" },
+    "color": "rgba(241, 245, 249, 0.4)",
+    "state": "liquid",
+    "type": "base",
+    "pH": 13.5,
+    "ions": { "cations": ["Na+"], "anions": ["OH-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Күйдіргіш сілті, тері мен көзді қатты зақымдайды", "ru": "Едкая щёлочь, разрушает белки кожи и опасна для глаз", "en": "Caustic alkali, causes severe burns and tissue damage" }
+    },
+    "description": {
+      "kk": "Күшті сілті, майлар мен органиканы лезде ерітеді, сабын өндірісінің негізі.",
+      "ru": "Сильное основание (щёлочь), основа мыловарения и нейтрализации кислот.",
+      "en": "Strong soluble base essential for neutralization and saponification."
+    }
+  },
+  {
+    "id": "KOH",
+    "formula": "KOH",
+    "name": { "kk": "Калий гидроксиді (күйдіргіш кали)", "ru": "Гидроксид калия (едкое кали)", "en": "Potassium Hydroxide" },
+    "color": "rgba(241, 245, 249, 0.4)",
+    "state": "liquid",
+    "type": "base",
+    "pH": 13.5,
+    "ions": { "cations": ["K+"], "anions": ["OH-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Өте белсенді күйдіргіш сілті", "ru": "Сильнощелочной едкий раствор", "en": "Strongly alkaline caustic solution" }
+    },
+    "description": {
+      "kk": "Сұйық сабын және сілтілі аккумуляторлар өндірісінде қолданылатын сілті.",
+      "ru": "Щёлочь для производства жидкого мыла и электролитов аккумуляторов.",
+      "en": "Highly soluble strong alkali used in batteries and chemical synthesis."
+    }
+  },
+  {
+    "id": "Ca(OH)2",
+    "formula": "Ca(OH)2",
+    "name": { "kk": "Кальций гидроксиді (әк суы)", "ru": "Гидроксид кальция (известковая вода)", "en": "Calcium Hydroxide (Limewater)" },
+    "color": "rgba(248, 250, 252, 0.5)",
+    "state": "liquid",
+    "type": "base",
+    "pH": 11.5,
+    "ions": { "cations": ["Ca2+"], "anions": ["OH-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "droplet",
+      "text": { "kk": "Сілтілік орта, көзді тітіркендіреді", "ru": "Щелочной раствор, раздражает слизистые", "en": "Mildly caustic alkaline solution" }
+    },
+    "description": {
+      "kk": "Көмірқышқыл газын (CO2) анықтауға арналған сапалық реагент (әк суы лайланады).",
+      "ru": "Качественный реактив на углекислый газ (мутнеет при пропускании CO2).",
+      "en": "Classic analytical reagent for carbon dioxide detection (turns milky)."
+    }
+  },
+  {
+    "id": "NH3",
+    "formula": "NH3*H2O",
+    "name": { "kk": "Аммиак суы (мүсәтір спирті)", "ru": "Раствор аммиака (нашатырный спирт)", "en": "Aqueous Ammonia" },
+    "color": "rgba(241, 245, 249, 0.4)",
+    "state": "liquid",
+    "type": "base",
+    "pH": 11.0,
+    "ions": { "cations": ["NH4+"], "anions": ["OH-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "skull",
+      "text": { "kk": "Өткір мүсәтір иісті, буы көзді жастандырады", "ru": "Резкий характерный запах нашатыря, раздражает слизистые", "en": "Pungent ammonia fumes, strongly irritating to eyes and nose" }
+    },
+    "description": {
+      "kk": "Әлсіз ұшқыш негіз, кешенді қосылыстар түзуге бейім.",
+      "ru": "Слабое летучее основание, образует яркие комплексные соединения.",
+      "en": "Weak volatile base capable of forming deep blue coordination complexes."
+    }
+  },
+  {
+    "id": "NaCl",
+    "formula": "NaCl",
+    "name": { "kk": "Натрий хлориді (ас тұзы)", "ru": "Хлорид натрия (поваренная соль)", "en": "Sodium Chloride" },
+    "color": "rgba(240, 249, 255, 0.35)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 7.0,
+    "ions": { "cations": ["Na+"], "anions": ["Cl-"] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Қауіпсіз бейтарап тұз", "ru": "Безопасная нейтральная соль", "en": "Safe neutral mineral salt" }
+    },
+    "description": {
+      "kk": "Күміс ионымен (Ag+) ақ ірімшік тәрізді тұнба түзеді.",
+      "ru": "Дает характерный творожистый осадок с ионами серебра (AgCl).",
+      "en": "Common table salt; forms insoluble white curdy precipitate with Ag+."
+    }
+  },
+  {
+    "id": "CuSO4",
+    "formula": "CuSO4",
+    "name": { "kk": "Мыс сульфаты (мыс купоросы)", "ru": "Сульфат меди(II) (медный купорос)", "en": "Copper(II) Sulfate" },
+    "color": "rgba(56, 189, 248, 0.65)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 5.2,
+    "ions": { "cations": ["Cu2+"], "anions": ["SO4_2-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "biohazard",
+      "text": { "kk": "Ауызға алуға болмайды, улы тұз", "ru": "Токсично при проглатывании", "en": "Harmful if swallowed, toxic to aquatic life" }
+    },
+    "description": {
+      "kk": "Ашық көгілдір түсті ерітінді, сілтімен көгілдір тұнба түзеді.",
+      "ru": "Ярко-голубой раствор, дает характерный осадок гидроксида меди(II).",
+      "en": "Distinctive vibrant blue solution; precipitates blue Cu(OH)2 with alkali."
+    }
+  },
+  {
+    "id": "AgNO3",
+    "formula": "AgNO3",
+    "name": { "kk": "Күміс нитраты (ляпис)", "ru": "Нитрат серебра (ляпис)", "en": "Silver Nitrate" },
+    "color": "rgba(248, 250, 252, 0.4)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 6.0,
+    "ions": { "cations": ["Ag+"], "anions": ["NO3-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "skull",
+      "text": { "kk": "Теріге тисе қара дақ қалдырады, жарықтан бұзылады", "ru": "Оставляет трудносмываемые чёрные пятна на коже", "en": "Stains skin black through photoreduction, caustic salt" }
+    },
+    "description": {
+      "kk": "Галогендерді (Cl-, Br-, I-) сапалық анықтауға арналған қымбат бағалы реагент.",
+      "ru": "Аналитический реактив для качественного обнаружения галогенид-ионов.",
+      "en": "Standard analytical reagent for halide precipitation (Cl-, Br-, I-)."
+    }
+  },
+  {
+    "id": "BaCl2",
+    "formula": "BaCl2",
+    "name": { "kk": "Барий хлориді", "ru": "Хлорид бария", "en": "Barium Chloride" },
+    "color": "rgba(240, 249, 255, 0.35)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 6.8,
+    "ions": { "cations": ["Ba2+"], "anions": ["Cl-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Улы барий тұзы, жұтуға қатаң тыйым салынады", "ru": "Высокотоксичная растворимая соль бария", "en": "Toxic soluble barium salt, handle with caution" }
+    },
+    "description": {
+      "kk": "Сульфат ионына (SO4 2-) сапалық реактив — ақ тұнба BaSO4 түзеді.",
+      "ru": "Качественный реактив на сульфат-ионы (белый осадок BaSO4, нерастворимый в кислотах).",
+      "en": "Classic qualitative test reagent for sulfate ions, forming dense white BaSO4."
+    }
+  },
+  {
+    "id": "Na2CO3",
+    "formula": "Na2CO3",
+    "name": { "kk": "Натрий карбонаты (кальцийленген сода)", "ru": "Карбонат натрия (кальцинированная сода)", "en": "Sodium Carbonate" },
+    "color": "rgba(248, 250, 252, 0.4)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 11.2,
+    "ions": { "cations": ["Na+"], "anions": ["CO3_2-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "droplet",
+      "text": { "kk": "Сілтілік гидролизденетін тұз, көзді тітіркендіреді", "ru": "Щелочная реакция гидролиза, раздражает глаза", "en": "Alkaline salt due to hydrolysis, mild eye irritant" }
+    },
+    "description": {
+      "kk": "Қышқыл қосқанда лезде көмірқышқыл газы көпіршіп бөлінеді.",
+      "ru": "При добавлении кислот бурно вскипает с выделением углекислого газа.",
+      "en": "Effervesces vigorously with acids releasing carbon dioxide gas."
+    }
+  },
+  {
+    "id": "NaHCO3",
+    "formula": "NaHCO3",
+    "name": { "kk": "Натрий гидрокарбонаты (ас содасы)", "ru": "Гидрокарбонат натрия (пищевая сода)", "en": "Sodium Bicarbonate" },
+    "color": "rgba(248, 250, 252, 0.4)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 8.4,
+    "ions": { "cations": ["Na+"], "anions": ["CO3_2-", "H+"] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Қауіпсіз тұрмыстық қышқыл тұз", "ru": "Безопасная пищевая гидросоль", "en": "Safe edible baking soda salt" }
+    },
+    "description": {
+      "kk": "Қышқылдармен қайнап әрекеттесіп көмірқышқыл газын (CO2) бөледі.",
+      "ru": "Мгновенно выделяет пузырьки CO2 даже со слабыми кислотами (уксус).",
+      "en": "Effervesces gently with acids like vinegar producing carbon dioxide."
+    }
+  },
+  {
+    "id": "CaCO3",
+    "formula": "CaCO3",
+    "name": { "kk": "Кальций карбонаты (бор, мәрмәр)", "ru": "Карбонат кальция (мел, мрамор)", "en": "Calcium Carbonate" },
+    "color": "rgba(245, 245, 245, 0.8)",
+    "state": "solid",
+    "type": "salt",
+    "pH": 7.5,
+    "ions": { "cations": ["Ca2+"], "anions": ["CO3_2-"] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Суда ерімейтін қауіпсіз табиғи минерал", "ru": "Нерастворимый безопасный минерал", "en": "Insoluble natural mineral, non-hazardous" }
+    },
+    "description": {
+      "kk": "Қатты ақ зат, қышқылдарда көмірқышқыл газын бөліп ериді.",
+      "ru": "Белое твёрдое вещество, растворяется в кислотах с шипением (выделение CO2).",
+      "en": "Solid white mineral; dissolves in acids with brisk bubbling of CO2."
+    }
+  },
+  {
+    "id": "FeCl3",
+    "formula": "FeCl3",
+    "name": { "kk": "Темір(III) хлориді", "ru": "Хлорид железа(III)", "en": "Iron(III) Chloride" },
+    "color": "rgba(217, 119, 6, 0.65)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 2.5,
+    "ions": { "cations": ["Fe3+"], "anions": ["Cl-"] },
+    "hazard": {
+      "level": "warning",
+      "icon": "droplet",
+      "text": { "kk": "Қышқылдық гидролизденген тот тәрізді сары-қоңыр тұз", "ru": "Кислый коррозионный раствор ржавого цвета", "en": "Corrosive acidic brownish-yellow salt solution" }
+    },
+    "description": {
+      "kk": "Сары-қоңыр түсті ерітінді, сілтімен қоңыр Fe(OH)3 тұнбасын түзеді.",
+      "ru": "Раствор цвета ржавчины, дает бурый осадок гидроксида железа(III).",
+      "en": "Rust-colored solution; forms reddish-brown Fe(OH)3 precipitate with bases."
+    }
+  },
+  {
+    "id": "KI",
+    "formula": "KI",
+    "name": { "kk": "Калий йодиді", "ru": "Иодид калия", "en": "Potassium Iodide" },
+    "color": "rgba(240, 249, 255, 0.35)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 7.0,
+    "ions": { "cations": ["K+"], "anions": ["I-"] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Йод тапшылығының алдын алуға қолданылатын тұз", "ru": "Препарат йода, стабильная соль", "en": "Stable iodide salt used in nutrition and testing" }
+    },
+    "description": {
+      "kk": "Қорғасын тұзымен әрекеттесіп әйгілі ашық сары «алтын жаңбыр» (PbI2) түзеді.",
+      "ru": "Образует ярко-жёлтый осадок иодида свинца («золотой дождь»).",
+      "en": "Forms bright golden-yellow precipitate of lead iodide (PbI2)."
+    }
+  },
+  {
+    "id": "Pb(NO3)2",
+    "formula": "Pb(NO3)2",
+    "name": { "kk": "Қорғасын(II) нитраты", "ru": "Нитрат свинца(II)", "en": "Lead(II) Nitrate" },
+    "color": "rgba(240, 249, 255, 0.35)",
+    "state": "liquid",
+    "type": "salt",
+    "pH": 4.5,
+    "ions": { "cations": ["Pb2+"], "anions": ["NO3-"] },
+    "hazard": {
+      "level": "danger",
+      "icon": "skull",
+      "text": { "kk": "Улы ауыр металл тұзы, ағзада жинақталады", "ru": "Токсичная соль тяжёлого металла, кумулятивный яд", "en": "Toxic heavy metal salt, environmental hazard" }
+    },
+    "description": {
+      "kk": "Иодидпен сары PbI2, сульфатпен ақ PbSO4 тұнбаларын түзеді.",
+      "ru": "Дает яркий жёлтый осадок с иодидами и белый с сульфатами.",
+      "en": "Reacts with iodides to produce bright canary-yellow PbI2."
+    }
+  },
+  {
+    "id": "Zn",
+    "formula": "Zn",
+    "name": { "kk": "Мырыш (түйіршіктер)", "ru": "Цинк (гранулы)", "en": "Zinc (Granules)" },
+    "color": "#94A3B8",
+    "state": "solid",
+    "type": "metal",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Белсенді қатты металл", "ru": "Твёрдый активный металл", "en": "Solid active metal granules" }
+    },
+    "description": {
+      "kk": "Тұз немесе күкірт қышқылымен сутек газын (H2) қарқынды бөліп әрекеттеседі.",
+      "ru": "Классический металл для получения водорода вытеснением из кислот.",
+      "en": "Active metal used in Kipp's apparatus to generate hydrogen gas from acids."
+    }
+  },
+  {
+    "id": "Mg",
+    "formula": "Mg",
+    "name": { "kk": "Магний (жоңқа)", "ru": "Магний (стружка)", "en": "Magnesium (Ribbon)" },
+    "color": "#CBD5E1",
+    "state": "solid",
+    "type": "metal",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "warning",
+      "icon": "flame",
+      "text": { "kk": "Ауада жарқырап жанатын өте белсенді металл", "ru": "Легковоспламеняющийся металл, горит ослепительным пламенем", "en": "Highly reactive flammable metal, burns with blinding white light" }
+    },
+    "description": {
+      "kk": "Қышқылдармен өте жылдам экзотермиялық реакцияға түсіп, сутек бөледі.",
+      "ru": "Бурно реагирует с кислотами с выделением водорода и разогревом.",
+      "en": "Reacts vigorously and exothermically with acids evolving hydrogen."
+    }
+  },
+  {
+    "id": "Fe",
+    "formula": "Fe",
+    "name": { "kk": "Темір (ұнтақ/шеге)", "ru": "Железо (порошок/гвоздь)", "en": "Iron (Powder/Nail)" },
+    "color": "#64748B",
+    "state": "solid",
+    "type": "metal",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Қауіпсіз металл", "ru": "Безопасный ферромагнитный металл", "en": "Safe ferromagnetic transition metal" }
+    },
+    "description": {
+      "kk": "Мыс сульфаты ерітіндісінен қызыл мысты ығыстырып шығарады.",
+      "ru": "Вытесняет медь из раствора медного купороса (покрывается красным слоем).",
+      "en": "Displaces copper from CuSO4 solution, coating nail with reddish copper."
+    }
+  },
+  {
+    "id": "Cu",
+    "formula": "Cu",
+    "name": { "kk": "Мыс (сым/жоңқа)", "ru": "Медь (проволока/стружка)", "en": "Copper (Wire)" },
+    "color": "#F97316",
+    "state": "solid",
+    "type": "metal",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Қауіпсіз асыл емес ауыр металл", "ru": "Благородно-красный пластичный металл", "en": "Safe reddish transition metal" }
+    },
+    "description": {
+      "kk": "Сутектен кейін тұрғандықтан тұз қышқылымен әрекеттеспейді, тек HNO3-пен әрекеттеседі.",
+      "ru": "Стоит после водорода: не реагирует с HCl, но растворяется в HNO3.",
+      "en": "Unreactive with HCl (below H in activity series); dissolves in nitric acid."
+    }
+  },
+  {
+    "id": "Al",
+    "formula": "Al",
+    "name": { "kk": "Алюминий (фольга/ұнтақ)", "ru": "Алюминий (фольга/порошок)", "en": "Aluminum (Foil)" },
+    "color": "#E2E8F0",
+    "state": "solid",
+    "type": "metal",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "shield",
+      "text": { "kk": "Жеңіл амфотерлі металл", "ru": "Лёгкий амфотерный металл", "en": "Lightweight amphoteric metal" }
+    },
+    "description": {
+      "kk": "Амфотерлі металл: қышқылдарда да, сілтілерде де еріп сутек бөледі.",
+      "ru": "Амфотерный металл: растворяется и в кислотах, и в щелочах с выделением H2.",
+      "en": "Amphoteric metal that dissolves in both acids and strong alkalis."
+    }
+  },
+  {
+    "id": "Litmus",
+    "formula": "Litmus",
+    "name": { "kk": "Лакмус (индикатор)", "ru": "Лакмус (индикатор)", "en": "Litmus (Indicator)" },
+    "color": "rgba(168, 85, 247, 0.7)",
+    "state": "liquid",
+    "type": "indicator",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "droplet",
+      "text": { "kk": "Қауіпсіз табиғи индикатор", "ru": "Безопасный природный индикатор", "en": "Safe natural pH indicator" }
+    },
+    "description": {
+      "kk": "Қышқылда — қызыл, бейтарапта — күлгін, сілтіде — көк түске боялады.",
+      "ru": "В кислоте — красный, в нейтральной среде — фиолетовый, в щёлочи — синий.",
+      "en": "Red in acid, purple in neutral, deep blue in alkaline solutions."
+    }
+  },
+  {
+    "id": "Phenolphthalein",
+    "formula": "Phenolphthalein",
+    "name": { "kk": "Фенолфталеин (индикатор)", "ru": "Фенолфталеин (индикатор)", "en": "Phenolphthalein" },
+    "color": "rgba(255, 255, 255, 0.3)",
+    "state": "liquid",
+    "type": "indicator",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "droplet",
+      "text": { "kk": "Сілтіге аса сезімтал индикатор", "ru": "Специфический индикатор на щёлочь", "en": "Sensitive indicator for alkaline pH" }
+    },
+    "description": {
+      "kk": "«Фенолфталеин сілтіде — таңқурайдай құлпырар», қышқылда және бейтарапта түссіз.",
+      "ru": "Бесцветен в кислой и нейтральной среде, ярко-малиновый в щёлочи.",
+      "en": "Colorless in acidic and neutral solutions; turns vivid magenta in base."
+    }
+  },
+  {
+    "id": "MethylOrange",
+    "formula": "MethylOrange",
+    "name": { "kk": "Метилоранж (индикатор)", "ru": "Метиловый оранжевый", "en": "Methyl Orange" },
+    "color": "rgba(249, 115, 22, 0.8)",
+    "state": "liquid",
+    "type": "indicator",
+    "pH": 7.0,
+    "ions": { "cations": [], "anions": [] },
+    "hazard": {
+      "level": "safe",
+      "icon": "droplet",
+      "text": { "kk": "Қышқылдық орта индикаторы", "ru": "Кислотно-основной индикатор", "en": "Azo dye pH indicator" }
+    },
+    "description": {
+      "kk": "Қышқылда — ашық қызғылт/қызыл, бейтарапта — қызғылт сары, сілтіде — сары.",
+      "ru": "В кислоте — розово-красный, в нейтральной — оранжевый, в щёлочи — жёлтый.",
+      "en": "Pinkish-red in acid, orange in neutral, bright yellow in alkali."
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "id": "task_blue_precipitate",
+    "title": { "kk": "Көгілдір тұнба ал", "ru": "Получи голубой осадок", "en": "Produce blue precipitate" },
+    "description": {
+      "kk": "Мыс(II) тұзын пайдаланып сынауықта ашық көгілдір тұнба түзіңіз.",
+      "ru": "Используя соль меди(II), получите в пробирке ярко-голубой осадок гидроксида меди.",
+      "en": "Using copper(II) salt, produce a vibrant blue precipitate in the test tube."
+    },
+    "hint": {
+      "kk": "Көк түсті мыс купоросына (CuSO4) сілті (NaOH немесе KOH) қосып көріңіз.",
+      "ru": "Добавьте к голубому раствору медного купороса (CuSO4) щёлочь (NaOH или KOH).",
+      "en": "Mix blue copper sulfate (CuSO4) with an alkali solution (NaOH or KOH)."
+    },
+    "target": { "type": "precipitateColor", "value": "blue" },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_gas_no_precipitate",
+    "title": { "kk": "Тұнбасыз газ бөліп шығар", "ru": "Получи газ без осадка", "en": "Release gas without precipitate" },
+    "description": {
+      "kk": "Сұйықтықтың мөлдірлігін сақтай отырып, көпіршіктер бөлінетін реакция жүргізіңіз.",
+      "ru": "Проведите реакцию, в которой бурно выделяется газ, но раствор остаётся прозрачным без осадка.",
+      "en": "Perform a reaction that releases gas bubbles while leaving the solution clear."
+    },
+    "hint": {
+      "kk": "Карбонат тұзына (Na2CO3 немесе NaHCO3) қышқыл (HCl немесе H2SO4) қосыңыз.",
+      "ru": "К раствору соды (Na2CO3 или NaHCO3) добавьте соляную или серную кислоту.",
+      "en": "Add hydrochloric or sulfuric acid to sodium carbonate or bicarbonate."
+    },
+    "target": { "type": "gasWithoutPrecipitate" },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_curdy_white_precipitate",
+    "title": { "kk": "Ақ ірімшік тәрізді тұнба ал", "ru": "Получи белый творожистый осадок", "en": "Get white curdy precipitate" },
+    "description": {
+      "kk": "Хлорид ионына сапалық реакция жасап, AgCl ақ ірімшік тәрізді тұнбасын алыңыз.",
+      "ru": "Проведите качественную реакцию на хлориды и получите творожистый осадок AgCl.",
+      "en": "Conduct the qualitative test for chloride ions yielding curdy AgCl precipitate."
+    },
+    "hint": {
+      "kk": "Күміс нитратына (AgNO3) тұз қышқылын (HCl) немесе ас тұзын (NaCl) қосыңыз.",
+      "ru": "Смешайте нитрат серебра (AgNO3) с соляной кислотой (HCl) или солью (NaCl).",
+      "en": "Combine silver nitrate (AgNO3) with hydrochloric acid (HCl) or table salt (NaCl)."
+    },
+    "target": { "type": "reactionId", "value": ["agno3_hcl_agcl", "agno3_nacl_agcl"] },
+    "difficulty": "easy",
+    "points": 60
+  },
+  {
+    "id": "task_detect_acid_litmus",
+    "title": { "kk": "Қышқылдық ортаны анықта", "ru": "Определи кислоту лакмусом", "en": "Detect acid with litmus" },
+    "description": {
+      "kk": "Индикатор көмегімен ерітіндіні қызыл түске бояп, қышқыл ортаны дәлелдеңіз.",
+      "ru": "Используя лакмус, окрасьте раствор в красный цвет, подтвердив кислую среду.",
+      "en": "Using litmus, turn the solution red to confirm an acidic environment."
+    },
+    "hint": {
+      "kk": "Сынауыққа қышқыл (HCl, H2SO4 немесе HNO3) құйып, лакмус индикаторын қосыңыз.",
+      "ru": "Налейте в пробирку любую кислоту (HCl, H2SO4) и капните лакмус.",
+      "en": "Pour an acid into the test tube and add litmus indicator."
+    },
+    "target": { "type": "indicatorColor", "indicator": "Litmus", "color": "red" },
+    "difficulty": "easy",
+    "points": 40
+  },
+  {
+    "id": "task_neutralize_phenolphthalein",
+    "title": { "kk": "Сілтіні қышқылмен түссіздендір", "ru": "Нейтрализуй щёлочь до обесцвечивания", "en": "Neutralize alkali to colorless" },
+    "description": {
+      "kk": "Сілтіге фенолфталеин тамызып (таңқурай түс), оны қышқылмен бейтараптап түссіз етіңіз.",
+      "ru": "Окрасьте щёлочь фенолфталеином в малиновый цвет, а затем обесцветьте кислотой.",
+      "en": "Turn alkali solution pink with phenolphthalein, then discharge it clear using acid."
+    },
+    "hint": {
+      "kk": "1) Сынауыққа NaOH құйыңыз. 2) Фенолфталеин қосыңыз. 3) HCl немесе H2SO4 қосып бейтараптаңыз.",
+      "ru": "Сначала добавьте NaOH, затем фенолфталеин (раствор станет малиновым), затем добавьте HCl.",
+      "en": "Add NaOH, then add phenolphthalein (turns pink), then add HCl to neutralize."
+    },
+    "target": { "type": "reactionId", "value": ["neutralize_pink_phenolphthalein"] },
+    "difficulty": "medium",
+    "points": 80
+  },
+  {
+    "id": "task_produce_hydrogen",
+    "title": { "kk": "Сутек газын ал", "ru": "Выдели водород из активного металла", "en": "Produce hydrogen gas from metal" },
+    "description": {
+      "kk": "Белсенді металл мен қышқылдың әрекеттесуінен сутек газының қарқынды бөлінуін жүргізіңіз.",
+      "ru": "Получите газообразный водород взаимодействием цинка или магния с кислотой.",
+      "en": "Generate hydrogen gas by reacting zinc or magnesium with acid."
+    },
+    "hint": {
+      "kk": "Мырыш (Zn) немесе магний (Mg) түйіршіктеріне тұз қышқылын (HCl) құйыңыз.",
+      "ru": "Добавьте к гранулам цинка (Zn) или стружке магния (Mg) соляную кислоту (HCl).",
+      "en": "Add hydrochloric acid (HCl) to zinc granules or magnesium."
+    },
+    "target": { "type": "gasProduced", "gas": "H2" },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_golden_rain",
+    "title": { "kk": "«Алтын жаңбыр» (сары тұнба)", "ru": "«Золотой дождь» (жёлтый осадок)", "en": "Golden Rain (yellow precipitate)" },
+    "description": {
+      "kk": "Қорғасын тұзы мен йодид арасындағы ашық сары кристалды PbI2 тұнбасын алыңыз.",
+      "ru": "Синтезируйте ярко-жёлтый осадок иодида свинца PbI2 («Золотой дождь»).",
+      "en": "Synthesize bright yellow crystalline lead iodide precipitate (Golden Rain)."
+    },
+    "hint": {
+      "kk": "Қорғасын нитраты (Pb(NO3)2) мен калий йодидін (KI) араластырыңыз.",
+      "ru": "Смешайте растворы нитрата свинца Pb(NO3)2 и иодида калия KI.",
+      "en": "Mix solutions of lead(II) nitrate Pb(NO3)2 and potassium iodide KI."
+    },
+    "target": { "type": "reactionId", "value": ["pbno32_ki_pbi2"] },
+    "difficulty": "medium",
+    "points": 70
+  },
+  {
+    "id": "task_brown_rust_precipitate",
+    "title": { "kk": "Қоңыр-қызыл тот тұнбасын ал", "ru": "Бурый осадок гидроксида железа", "en": "Reddish-brown iron hydroxide" },
+    "description": {
+      "kk": "Темір(III) гидроксидінің көлемді тот түсті қоңыр тұнбасын синтездеңіз.",
+      "ru": "Получите бурый объёмный осадок Fe(OH)3 взаимодействием соли трёхвалентного железа со щёлочью.",
+      "en": "Precipitate rust-brown iron(III) hydroxide using iron(III) salt and a base."
+    },
+    "hint": {
+      "kk": "Сары-қоңыр FeCl3 ерітіндісіне натрий гидроксидін (NaOH) немесе сілті қосыңыз.",
+      "ru": "К раствору хлорида железа(III) FeCl3 прилейте гидроксид натрия NaOH.",
+      "en": "Add sodium hydroxide (NaOH) to iron(III) chloride solution (FeCl3)."
+    },
+    "target": { "type": "precipitateColor", "value": "brown" },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_barium_sulfate",
+    "title": { "kk": "Қышқылда ерімейтін барий сульфаты", "ru": "Осадок сульфата бария", "en": "Barium sulfate precipitation" },
+    "description": {
+      "kk": "Сульфат ионына сапалық реакция жасап, қышқылда ерімейтін ақ BaSO4 тұнбасын түзіңіз.",
+      "ru": "Проведите качественную реакцию на сульфат-ион с выпадением белого BaSO4.",
+      "en": "Demonstrate the sulfate qualitative test precipitating insoluble BaSO4."
+    },
+    "hint": {
+      "kk": "Барий хлоридін (BaCl2) күкірт қышқылымен (H2SO4) немесе мыс купоросымен (CuSO4) араластырыңыз.",
+      "ru": "Смешайте хлорид бария (BaCl2) с серной кислотой (H2SO4) или сульфатом меди.",
+      "en": "Mix barium chloride (BaCl2) with sulfuric acid (H2SO4) or copper sulfate."
+    },
+    "target": { "type": "reactionId", "value": ["bacl2_h2so4_baso4", "bacl2_cuso4_baso4"] },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_cloudy_limewater",
+    "title": { "kk": "Әк суын лайла", "ru": "Помутнение известковой воды", "en": "Cloudy limewater test" },
+    "description": {
+      "kk": "Мөлдір әк суын сүттей ақ түске айналдырып лайлаңыз.",
+      "ru": "Вызовите помутнение прозрачной известковой воды образованием осадка карбоната кальция.",
+      "en": "Turn clear limewater milky-white by precipitating calcium carbonate."
+    },
+    "hint": {
+      "kk": "Кальций гидроксидіне (әк суы, Ca(OH)2) сода ерітіндісін (Na2CO3) қосыңыз.",
+      "ru": "К известковой воде Ca(OH)2 прилейте раствор соды Na2CO3.",
+      "en": "Add sodium carbonate (Na2CO3) solution to limewater Ca(OH)2."
+    },
+    "target": { "type": "reactionId", "value": ["caoh2_na2co3_caco3", "caoh2_nahco3_caco3"] },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_displace_copper",
+    "title": { "kk": "Мысты металмен ығыстыр", "ru": "Вытесни медь железом", "en": "Displace copper with iron" },
+    "description": {
+      "kk": "Белсендірек металды мыс тұзына салып, қызыл түсті таза мысты ығыстырып шығарыңыз.",
+      "ru": "Покройте металл красным слоем металлической меди в растворе медного купороса.",
+      "en": "Deposit reddish metallic copper from copper sulfate solution using active metal."
+    },
+    "hint": {
+      "kk": "Мыс сульфатына (CuSO4) темір (Fe) немесе мырыш (Zn) қосыңыз.",
+      "ru": "Опустите железо (Fe) или цинк (Zn) в раствор медного купороса (CuSO4).",
+      "en": "Add iron (Fe) or zinc (Zn) to copper(II) sulfate (CuSO4) solution."
+    },
+    "target": { "type": "reactionId", "value": ["fe_cuso4_cu", "zn_cuso4_cu"] },
+    "difficulty": "medium",
+    "points": 70
+  },
+  {
+    "id": "task_thermal_decomposition",
+    "title": { "kk": "Қыздыру арқылы қара оксид ал", "ru": "Термическое разложение гидроксида", "en": "Thermal decomposition of hydroxide" },
+    "description": {
+      "kk": "Көгілдір мыс гидроксидін тұнбаға түсіріп, содан кейін спиртшаммен қыздырып қара CuO оксидіне айналдырыңыз.",
+      "ru": "Осадите голубой Cu(OH)2, а затем включите горелку и нагрейте пробирку до почернения осадка.",
+      "en": "Precipitate blue Cu(OH)2, then turn on the burner to heat it until it decomposes to black CuO."
+    },
+    "hint": {
+      "kk": "1) CuSO4 + NaOH (көгілдір тұнба). 2) Горелканы қосып, сынауықты қыздырыңыз.",
+      "ru": "Сначала смешайте CuSO4 и NaOH, затем нажмите кнопку «Горелка» для нагрева.",
+      "en": "First react CuSO4 with NaOH, then toggle the Bunsen burner on to heat the tube."
+    },
+    "target": { "type": "reactionId", "value": ["heat_cuoh2_cuo"] },
+    "difficulty": "hard",
+    "points": 100
+  },
+  {
+    "id": "task_chalk_acid",
+    "title": { "kk": "Борды қышқылда еріт", "ru": "Раствори мел в кислоте", "en": "Dissolve chalk in acid" },
+    "description": {
+      "kk": "Қатты кальций карбонатын (борды) қышқылмен әрекеттестіріп, газ бөлінуімен ерітіңіз.",
+      "ru": "Растворите нерастворимый мел (CaCO3) соляной кислотой с бурным шипением.",
+      "en": "Dissolve solid calcium carbonate (CaCO3) in acid with vigorous effervescence."
+    },
+    "hint": {
+      "kk": "Сынауыққа бор (CaCO3) салып, үстіне тұз қышқылын (HCl) құйыңыз.",
+      "ru": "Поместите в пробирку CaCO3 и добавьте соляную кислоту HCl.",
+      "en": "Place chalk (CaCO3) in the vessel and pour hydrochloric acid (HCl)."
+    },
+    "target": { "type": "reactionId", "value": ["caco3_hcl_co2", "caco3_hno3_co2"] },
+    "difficulty": "easy",
+    "points": 50
+  },
+  {
+    "id": "task_silver_tree",
+    "title": { "kk": "«Күміс ағашы» тәжірибесі", "ru": "«Серебряное дерево»", "en": "Silvery Tree experiment" },
+    "description": {
+      "kk": "Мыс сымының бетінде жылтыр күміс қылқандарының өсуін жүзеге асырыңыз.",
+      "ru": "Вырастите игольчатые кристаллы серебра на медной проволоке в растворе ляписа.",
+      "en": "Grow glistening needle-like silver crystals on copper inside silver nitrate."
+    },
+    "hint": {
+      "kk": "Мысқа (Cu) күміс нитратын (AgNO3) құйыңыз.",
+      "ru": "Поместите медь (Cu) в раствор нитрата серебра (AgNO3).",
+      "en": "Place copper (Cu) into silver nitrate (AgNO3) solution."
+    },
+    "target": { "type": "reactionId", "value": ["cu_agno3_ag"] },
+    "difficulty": "medium",
+    "points": 80
+  },
+  {
+    "id": "task_sapphire_complex",
+    "title": { "kk": "Сапфир түсті мыс аммиакаты", "ru": "Сапфировый комплекс меди", "en": "Sapphire copper-ammonia complex" },
+    "description": {
+      "kk": "Мыс тұзына аммиак суын артық мөлшерде қосып, қанық сапфир-көк кешенді ерітінді түзіңіз.",
+      "ru": "Получите чернильно-синий сапфировый комплекс тетраамминмеди действием избытка аммиака на соль меди.",
+      "en": "Synthesize the deep royal sapphire-blue tetraamminecopper complex using excess aqueous ammonia."
+    },
+    "hint": {
+      "kk": "Мыс купоросына (CuSO4) аммиак суын (NH3) қосыңыз.",
+      "ru": "Добавьте к раствору сульфата меди CuSO4 аммиачную воду NH3.",
+      "en": "Add aqueous ammonia (NH3) to copper sulfate (CuSO4)."
+    },
+    "target": { "type": "reactionId", "value": ["cux_nh3_complex"] },
+    "difficulty": "medium",
+    "points": 90
+  }
+]

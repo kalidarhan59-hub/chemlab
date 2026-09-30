@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab - Көптілді химия білім беру порталы | Платформа по химии",
+  "description": "Заманауи, интерактивті және көптілді химия порталы (Қазақша, Русский, English). Интерактивная многоязычная платформа для изучения химии.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

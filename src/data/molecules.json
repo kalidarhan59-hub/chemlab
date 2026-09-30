@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "water",
+    "name": { "kk": "Су", "ru": "Вода", "en": "Water" },
+    "formula": "H2O",
+    "category": "inorganic",
+    "description": {
+      "kk": "Жер бетіндегі барлық тіршіліктің негізі, полярлы әмбебап еріткіш.",
+      "ru": "Универсальный полярный растворитель, основа жизни на Земле.",
+      "en": "Universal polar solvent and the chemical basis for all life on Earth."
+    },
+    "fact": {
+      "kk": "Сутектік байланыстардың арқасында судың қайнау температурасы басқа гидридтермен салыстырғанда өте жоғары (100°C).",
+      "ru": "Благодаря прочным водородным связям вода имеет аномально высокую температуру кипения.",
+      "en": "Strong hydrogen bonding gives water an anomalously high boiling point of 100°C."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Бұрыштық (104.5°)", "ru": "Угловая (104.5°)", "en": "Bent (104.5°)" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "O1", "element": "O", "x": 0, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": -55, "y": 45, "z": 0 },
+      { "id": "H2", "element": "H", "x": 55, "y": 45, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "O1", "b": "H1", "order": 1 },
+      { "a": "O1", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "carbon_dioxide",
+    "name": { "kk": "Көмірқышқыл газы", "ru": "Углекислый газ", "en": "Carbon Dioxide" },
+    "formula": "CO2",
+    "category": "inorganic",
+    "description": {
+      "kk": "Түссіз, иіссіз газ, тыныс алу мен жанудың өнімі, өсімдіктер фотосинтезінің шикізаты.",
+      "ru": "Бесцветный газ без запаха, продукт дыхания и сырьё для фотосинтеза.",
+      "en": "Colorless, odorless gas produced by respiration and used in photosynthesis."
+    },
+    "fact": {
+      "kk": "Қатты күйіндегі CO2 «құрғақ мұз» деп аталады және -78.5°C-та сұйыққа айналмай сублимацияланады.",
+      "ru": "Твёрдый CO2 называется «сухим льдом» и сублимирует прямо в газ при -78.5°C.",
+      "en": "Solid CO2 is called 'dry ice' and sublimates directly to gas at -78.5°C."
+    },
+    "hybridization": "sp",
+    "geometry": { "kk": "Сызықтық (180°)", "ru": "Линейная (180°)", "en": "Linear (180°)" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": -70, "y": 0, "z": 0 },
+      { "id": "O2", "element": "O", "x": 70, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "O1", "order": 2 },
+      { "a": "C1", "b": "O2", "order": 2 }
+    ]
+  },
+  {
+    "id": "ammonia",
+    "name": { "kk": "Аммиак", "ru": "Аммиак", "en": "Ammonia" },
+    "formula": "NH3",
+    "category": "inorganic",
+    "description": {
+      "kk": "Өткір иісті, суда өте жақсы еритін сілтілік қасиеті бар газ.",
+      "ru": "Бесцветный газ с резким запахом нашатыря, хорошо растворимый в воде.",
+      "en": "Colorless gas with a pungent odor, highly soluble in water forming alkaline solution."
+    },
+    "fact": {
+      "kk": "Әлемде өндірілетін аммиактың 80%-ы ауыл шаруашылығына тыңайтқыш жасауға жұмсалады.",
+      "ru": "Около 80% всего промышленного аммиака идёт на производство азотных удобрений.",
+      "en": "About 80% of all industrially produced ammonia is used for agricultural fertilizers."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тригональды пирамида (107°)", "ru": "Тригональная пирамида (107°)", "en": "Trigonal Pyramidal (107°)" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "N1", "element": "N", "x": 0, "y": -15, "z": 15 },
+      { "id": "H1", "element": "H", "x": -50, "y": 30, "z": -10 },
+      { "id": "H2", "element": "H", "x": 50, "y": 30, "z": -10 },
+      { "id": "H3", "element": "H", "x": 0, "y": 50, "z": 30 }
+    ],
+    "bonds": [
+      { "a": "N1", "b": "H1", "order": 1 },
+      { "a": "N1", "b": "H2", "order": 1 },
+      { "a": "N1", "b": "H3", "order": 1 }
+    ]
+  },
+  {
+    "id": "methane",
+    "name": { "kk": "Метан", "ru": "Метан", "en": "Methane" },
+    "formula": "CH4",
+    "category": "alkane",
+    "description": {
+      "kk": "Ең қарапайым қаныққан көмірсутек (алкан), табиғи газдың 90-98%-ын құрайды.",
+      "ru": "Простейший предельный углеводород (алкан), основа природного газа.",
+      "en": "Simplest alkane and the main constituent of natural gas fuel."
+    },
+    "fact": {
+      "kk": "Метан көмірқышқыл газына қарағанда парниктік әсері 28 есе күшті газ болып табылады.",
+      "ru": "Парниковый потенциал метана в 28 раз выше, чем у углекислого газа.",
+      "en": "Methane has a global warming potential 28 times greater than carbon dioxide."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тетраэдр (109.5°)", "ru": "Тетраэдрическая (109.5°)", "en": "Tetrahedral (109.5°)" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": 0, "y": -65, "z": 0 },
+      { "id": "H2", "element": "H", "x": 60, "y": 25, "z": -20 },
+      { "id": "H3", "element": "H", "x": -60, "y": 25, "z": -20 },
+      { "id": "H4", "element": "H", "x": 0, "y": 30, "z": 60 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C1", "b": "H4", "order": 1 }
+    ]
+  },
+  {
+    "id": "ethane",
+    "name": { "kk": "Этан", "ru": "Этан", "en": "Ethane" },
+    "formula": "C2H6",
+    "category": "alkane",
+    "description": {
+      "kk": "Екінші алкан, табиғи және мұнайға серіктес газдарда кездеседі.",
+      "ru": "Второй член гомологического ряда алканов, сырьё для получения этилена.",
+      "en": "Second member of the alkane homologous series, key feedstock for ethylene."
+    },
+    "fact": {
+      "kk": "Өнеркәсіпте этанды пиролиздеу арқылы полиэтиленнің шикізаты — этилен алынады.",
+      "ru": "Из этана пиролизом получают этилен для производства полиэтилена.",
+      "en": "Ethane is steam-cracked industrially to produce ethylene for polyethylene plastic."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тетраэдрлік тізбек", "ru": "Тетраэдрическая", "en": "Tetrahedral" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -45, "y": 0, "z": 0 },
+      { "id": "C2", "element": "C", "x": 45, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": -95, "y": 0, "z": 0 },
+      { "id": "H2", "element": "H", "x": -45, "y": -50, "z": 25 },
+      { "id": "H3", "element": "H", "x": -45, "y": 50, "z": -25 },
+      { "id": "H4", "element": "H", "x": 95, "y": 0, "z": 0 },
+      { "id": "H5", "element": "H", "x": 45, "y": -50, "z": -25 },
+      { "id": "H6", "element": "H", "x": 45, "y": 50, "z": 25 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 1 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C2", "b": "H4", "order": 1 },
+      { "a": "C2", "b": "H5", "order": 1 },
+      { "a": "C2", "b": "H6", "order": 1 }
+    ]
+  },
+  {
+    "id": "propane",
+    "name": { "kk": "Пропан", "ru": "Пропан", "en": "Propane" },
+    "formula": "C3H8",
+    "category": "alkane",
+    "description": {
+      "kk": "Үш көміртекті алкан, тұрмыстық сұйытылған газ баллондары мен автогаз құрамына кіреді.",
+      "ru": "Углеводородный газ, компонент сжиженного автомобильного и бытового газа.",
+      "en": "Three-carbon alkane, primary component of liquefied petroleum gas (LPG)."
+    },
+    "fact": {
+      "kk": "Пропан қысым астында оңай сұйытылады, сондықтан оны тасымалдау өте ыңғайлы.",
+      "ru": "Пропан сжижается при умеренном давлении, что делает его удобным для транспортировки в баллонах.",
+      "en": "Propane easily liquefies under moderate pressure for convenient cylinder transport."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тетраэдрлік ирек тізбек", "ru": "Зигзагообразная", "en": "Bent chain" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -70, "y": 25, "z": 0 },
+      { "id": "C2", "element": "C", "x": 0, "y": -25, "z": 0 },
+      { "id": "C3", "element": "C", "x": 70, "y": 25, "z": 0 },
+      { "id": "H1", "element": "H", "x": -115, "y": 25, "z": 0 },
+      { "id": "H2", "element": "H", "x": -70, "y": 75, "z": 0 },
+      { "id": "H3", "element": "H", "x": -70, "y": -25, "z": 30 },
+      { "id": "H4", "element": "H", "x": 0, "y": -75, "z": 0 },
+      { "id": "H5", "element": "H", "x": 0, "y": -25, "z": -40 },
+      { "id": "H6", "element": "H", "x": 115, "y": 25, "z": 0 },
+      { "id": "H7", "element": "H", "x": 70, "y": 75, "z": 0 },
+      { "id": "H8", "element": "H", "x": 70, "y": -25, "z": 30 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 1 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C2", "b": "H4", "order": 1 },
+      { "a": "C2", "b": "H5", "order": 1 },
+      { "a": "C3", "b": "H6", "order": 1 },
+      { "a": "C3", "b": "H7", "order": 1 },
+      { "a": "C3", "b": "H8", "order": 1 }
+    ]
+  },
+  {
+    "id": "ethylene",
+    "name": { "kk": "Этилен (этен)", "ru": "Этилен (этен)", "en": "Ethylene (Ethene)" },
+    "formula": "C2H4",
+    "category": "alkene",
+    "description": {
+      "kk": "Қос байланысы бар ең қарапайым алкен, химия өндірісінде ең көп өндірілетін органикалық зат.",
+      "ru": "Простейший алкен с двойной связью C=C, мировое сырьё №1 для пластиков.",
+      "en": "Simplest alkene containing a C=C double bond, foundation of petrochemical polymers."
+    },
+    "fact": {
+      "kk": "Этилен өсімдіктерде фитогормон қызметін атқарып, жемістердің пісуін тездетеді (мысалы, банандар).",
+      "ru": "Этилен — природный растительный гормон, ускоряющий созревание фруктов.",
+      "en": "Ethylene functions as a natural plant hormone that triggers fruit ripening."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық тригональды (120°)", "ru": "Плоская тригональная (120°)", "en": "Trigonal Planar (120°)" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -40, "y": 0, "z": 0 },
+      { "id": "C2", "element": "C", "x": 40, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": -85, "y": -45, "z": 0 },
+      { "id": "H2", "element": "H", "x": -85, "y": 45, "z": 0 },
+      { "id": "H3", "element": "H", "x": 85, "y": -45, "z": 0 },
+      { "id": "H4", "element": "H", "x": 85, "y": 45, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 2 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C2", "b": "H3", "order": 1 },
+      { "a": "C2", "b": "H4", "order": 1 }
+    ]
+  },
+  {
+    "id": "acetylene",
+    "name": { "kk": "Ацетилен (этин)", "ru": "Ацетилен (этин)", "en": "Acetylene (Ethyne)" },
+    "formula": "C2H2",
+    "category": "alkyne",
+    "description": {
+      "kk": "Үштік байланысы бар қарапайым алкин, оттекте жанғанда температурасы 3000°C-қа жетеді.",
+      "ru": "Простейший алкин с тройной связью C≡C, горит ослепительным высокотемпературным пламенем.",
+      "en": "Simplest alkyne featuring a carbon-carbon triple bond, burns up to 3300°C."
+    },
+    "fact": {
+      "kk": "Металдарды газбен дәнекерлеу және кесу ацетилен жалынымен жүргізіледі.",
+      "ru": "Ацетиленокислородное пламя достигает 3150°C и используется для сварки и резки стали.",
+      "en": "Oxy-acetylene torches achieve 3150°C, hot enough to cut and weld heavy structural steel."
+    },
+    "hybridization": "sp",
+    "geometry": { "kk": "Сызықтық (180°)", "ru": "Линейная (180°)", "en": "Linear (180°)" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -35, "y": 0, "z": 0 },
+      { "id": "C2", "element": "C", "x": 35, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": -95, "y": 0, "z": 0 },
+      { "id": "H2", "element": "H", "x": 95, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 3 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C2", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "benzene",
+    "name": { "kk": "Бензол", "ru": "Бензол", "en": "Benzene" },
+    "formula": "C6H6",
+    "category": "aromatic",
+    "description": {
+      "kk": "Ароматты көмірсутектердің басты өкілі, тұрақты тұйықталған алты мүшелі электрондық сақина.",
+      "ru": "Родоначальник ароматических соединений с делокализованной π-электронной системой.",
+      "en": "Archetype of aromatic hydrocarbons with a stabilized conjugated pi-ring."
+    },
+    "fact": {
+      "kk": "Бензол сақинасының құрылымы неміс химигі Август Кекулеге өз құйрығын тістеген жылан түсінде келген.",
+      "ru": "Формулу бензольного кольца Август Кекуле увидел во сне в виде змеи, кусающей свой хвост.",
+      "en": "August Kekulé famously conceived the cyclic structure of benzene after dreaming of an Ouroboros snake."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық дұрыс алтыбұрыш (120°)", "ru": "Плоская шестиугольная", "en": "Planar hexagonal ring" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": -60, "z": 0 },
+      { "id": "C2", "element": "C", "x": 52, "y": -30, "z": 0 },
+      { "id": "C3", "element": "C", "x": 52, "y": 30, "z": 0 },
+      { "id": "C4", "element": "C", "x": 0, "y": 60, "z": 0 },
+      { "id": "C5", "element": "C", "x": -52, "y": 30, "z": 0 },
+      { "id": "C6", "element": "C", "x": -52, "y": -30, "z": 0 },
+      { "id": "H1", "element": "H", "x": 0, "y": -100, "z": 0 },
+      { "id": "H2", "element": "H", "x": 86, "y": -50, "z": 0 },
+      { "id": "H3", "element": "H", "x": 86, "y": 50, "z": 0 },
+      { "id": "H4", "element": "H", "x": 0, "y": 100, "z": 0 },
+      { "id": "H5", "element": "H", "x": -86, "y": 50, "z": 0 },
+      { "id": "H6", "element": "H", "x": -86, "y": -50, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 2 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C3", "b": "C4", "order": 2 },
+      { "a": "C4", "b": "C5", "order": 1 },
+      { "a": "C5", "b": "C6", "order": 2 },
+      { "a": "C6", "b": "C1", "order": 1 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C2", "b": "H2", "order": 1 },
+      { "a": "C3", "b": "H3", "order": 1 },
+      { "a": "C4", "b": "H4", "order": 1 },
+      { "a": "C5", "b": "H5", "order": 1 },
+      { "a": "C6", "b": "H6", "order": 1 }
+    ]
+  },
+  {
+    "id": "methanol",
+    "name": { "kk": "Метанол (ағаш спирті)", "ru": "Метанол (древесный спирт)", "en": "Methanol" },
+    "formula": "CH3OH",
+    "category": "alcohol",
+    "description": {
+      "kk": "Біратомды қарапайым спирт, өте күшті өлімге әкелетін у (5-10 мл адамды зағип етеді).",
+      "ru": "Простейший спирт, сильнейший яд (даже 10 мл могут вызвать полную слепоту).",
+      "en": "Simplest alcohol; a potent deadly poison that causes blindness in small amounts."
+    },
+    "fact": {
+      "kk": "Сыртқы түрі мен иісі кәдімгі этил спиртіне (этанолға) ұқсас болғандықтан аса қауіпті.",
+      "ru": "Метанол неотличим по вкусу и запаху от этанола, что часто приводит к смертельным отравлениям.",
+      "en": "Methanol smells and tastes identical to ethanol, leading to fatal accidental poisoning."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тетраэдрлік / бұрыштық C-O-H", "ru": "Тетраэдрическая", "en": "Tetrahedral / bent" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -30, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 40, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": 80, "y": 35, "z": 0 },
+      { "id": "H2", "element": "H", "x": -75, "y": 0, "z": 0 },
+      { "id": "H3", "element": "H", "x": -30, "y": -45, "z": 20 },
+      { "id": "H4", "element": "H", "x": -30, "y": 45, "z": -20 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "O1", "order": 1 },
+      { "a": "O1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C1", "b": "H4", "order": 1 }
+    ]
+  },
+  {
+    "id": "ethanol",
+    "name": { "kk": "Этанол (этил спирті)", "ru": "Этанол (этиловый спирт)", "en": "Ethanol" },
+    "formula": "C2H5OH",
+    "category": "alcohol",
+    "description": {
+      "kk": "Медицинада антисептик ретінде және биоотын өндірісінде кең қолданылатын спирт.",
+      "ru": "Этиловый спирт, антисептик, растворитель и возобновляемое биотопливо.",
+      "en": "Common alcohol used globally as medical disinfectant, solvent, and biofuel."
+    },
+    "fact": {
+      "kk": "Бразилияда автокөліктердің 80%-дан астамы қант қамысынан алынған таза этанолмен жүреді.",
+      "ru": "В Бразилии более 80% легковых автомобилей используют этанол из сахарного тростника.",
+      "en": "In Brazil, sugarcane-derived bioethanol powers over 80% of personal motor vehicles."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тізбекті тетраэдр", "ru": "Угловая цепь", "en": "Chain" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -60, "y": 20, "z": 0 },
+      { "id": "C2", "element": "C", "x": 0, "y": -20, "z": 0 },
+      { "id": "O1", "element": "O", "x": 60, "y": 20, "z": 0 },
+      { "id": "H1", "element": "H", "x": 100, "y": 0, "z": 0 },
+      { "id": "H2", "element": "H", "x": -105, "y": 20, "z": 0 },
+      { "id": "H3", "element": "H", "x": -60, "y": 70, "z": 0 },
+      { "id": "H4", "element": "H", "x": -60, "y": -20, "z": 30 },
+      { "id": "H5", "element": "H", "x": 0, "y": -70, "z": 0 },
+      { "id": "H6", "element": "H", "x": 0, "y": 20, "z": -30 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 1 },
+      { "a": "C2", "b": "O1", "order": 1 },
+      { "a": "O1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C1", "b": "H4", "order": 1 },
+      { "a": "C2", "b": "H5", "order": 1 },
+      { "a": "C2", "b": "H6", "order": 1 }
+    ]
+  },
+  {
+    "id": "formaldehyde",
+    "name": { "kk": "Формальдегид (метаналь)", "ru": "Формальдегид (метаналь)", "en": "Formaldehyde (Methanal)" },
+    "formula": "CH2O",
+    "category": "aldehyde",
+    "description": {
+      "kk": "Өткір тұншықтырғыш иісі бар қарапайым альдегид, сулы ерітіндісі формолин деп аталады.",
+      "ru": "Простейший альдегид с резким запахом, 40%-й раствор называется формалином.",
+      "en": "Simplest aldehyde gas; a 37-40% aqueous solution is known as formalin."
+    },
+    "fact": {
+      "kk": "Формалин биологиялық препараттарды бұзылмайтын етіп сақтау үшін қолданылады.",
+      "ru": "Формалин фиксирует белки и используется для консервации биологических экспонатов.",
+      "en": "Formalin cross-links proteins and is widely used for biological specimen preservation."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық тригональды (120°)", "ru": "Плоская тригональная", "en": "Trigonal planar" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -65, "z": 0 },
+      { "id": "H1", "element": "H", "x": -50, "y": 40, "z": 0 },
+      { "id": "H2", "element": "H", "x": 50, "y": 40, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "O1", "order": 2 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "acetic_acid",
+    "name": { "kk": "Сірке қышқылы (этан қышқылы)", "ru": "Уксусная кислота (этановая кислота)", "en": "Acetic Acid (Ethanoic Acid)" },
+    "formula": "C2H4O2",
+    "category": "acid",
+    "description": {
+      "kk": "Бірнегізді карбон қышқылы, тұрмыста 6-9% сірке суы ретінде белгілі.",
+      "ru": "Карбоновая кислота с резким запахом, известный кулинарный уксус.",
+      "en": "Common carboxylic acid responsible for the characteristic pungent sour taste of vinegar."
+    },
+    "fact": {
+      "kk": "Таза сірке қышқылы 16.6°C-та мұзға ұқсас кристалл болып қататындықтан «мұзды сірке қышқылы» деп аталады.",
+      "ru": "Чистая 100% кислота замерзает при 16.6°C в ледоподобную массу («ледяная уксусная кислота»).",
+      "en": "Pure water-free acetic acid freezes at 16.6°C into crystal sheets and is termed 'glacial acetic acid'."
+    },
+    "hybridization": "sp² / sp³",
+    "geometry": { "kk": "Тармақталған жазық", "ru": "Плоская карбоксильная", "en": "Planar carboxyl" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -45, "y": 0, "z": 0 },
+      { "id": "C2", "element": "C", "x": 20, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 60, "y": -45, "z": 0 },
+      { "id": "O2", "element": "O", "x": 55, "y": 45, "z": 0 },
+      { "id": "H1", "element": "H", "x": 100, "y": 45, "z": 0 },
+      { "id": "H2", "element": "H", "x": -95, "y": 0, "z": 0 },
+      { "id": "H3", "element": "H", "x": -45, "y": -45, "z": 20 },
+      { "id": "H4", "element": "H", "x": -45, "y": 45, "z": -20 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 1 },
+      { "a": "C2", "b": "O1", "order": 2 },
+      { "a": "C2", "b": "O2", "order": 1 },
+      { "a": "O2", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C1", "b": "H4", "order": 1 }
+    ]
+  },
+  {
+    "id": "hydrogen_chloride",
+    "name": { "kk": "Хлорлы сутек", "ru": "Хлороводород", "en": "Hydrogen Chloride" },
+    "formula": "HCl",
+    "category": "inorganic",
+    "description": {
+      "kk": "Суда ерігенде адам асқазанының сөліне кіретін күшті тұз қышқылын түзеді.",
+      "ru": "Газ, растворение которого в воде даёт соляную кислоту (компонент желудочного сока).",
+      "en": "Colorless corrosive gas that dissolves in water to produce hydrochloric acid."
+    },
+    "fact": {
+      "kk": "1 литр суға 500 литрге дейін хлорлы сутек газы ери алады.",
+      "ru": "В одном объёме воды может раствориться до 500 объёмов хлороводорода.",
+      "en": "A single volume of water can absorb nearly 500 volumes of hydrogen chloride gas."
+    },
+    "hybridization": "-",
+    "geometry": { "kk": "Сызықтық", "ru": "Линейная", "en": "Linear" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "H1", "element": "H", "x": -45, "y": 0, "z": 0 },
+      { "id": "Cl1", "element": "Cl", "x": 45, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "H1", "b": "Cl1", "order": 1 }
+    ]
+  },
+  {
+    "id": "sodium_chloride",
+    "name": { "kk": "Натрий хлориді", "ru": "Хлорид натрия", "en": "Sodium Chloride" },
+    "formula": "NaCl",
+    "category": "salt",
+    "description": {
+      "kk": "Иондық байланыстың көрнекі үлгісі, қарапайым ас тұзы.",
+      "ru": "Эталон ионной кристаллической связи, поваренная соль.",
+      "en": "Classic ionic lattice compound, common household table salt."
+    },
+    "fact": {
+      "kk": "Адам ағзасында натрий мен хлор иондары жүйке импульстарын өткізуге және осмостық қысымды ұстауға жауапты.",
+      "ru": "Ионы натрия и хлора поддерживают осмотическое давление и нервную проводимость человека.",
+      "en": "Na+ and Cl- ions regulate cellular osmotic balance and nerve pulse conduction in the human body."
+    },
+    "hybridization": "ionic",
+    "geometry": { "kk": "Иондық жұп", "ru": "Ионная", "en": "Ionic pair" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "Na1", "element": "Na", "x": -50, "y": 0, "z": 0 },
+      { "id": "Cl1", "element": "Cl", "x": 50, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "Na1", "b": "Cl1", "order": 1 }
+    ]
+  },
+  {
+    "id": "oxygen",
+    "name": { "kk": "Оттек молекуласы", "ru": "Кислород", "en": "Molecular Oxygen" },
+    "formula": "O2",
+    "category": "gas",
+    "description": {
+      "kk": "Ауаның 21%-ын құрайтын, тыныс алу мен жанудың негізгі газы.",
+      "ru": "Газ, составляющий 21% атмосферы Земли, необходим для дыхания живых организмов.",
+      "en": "Diatomic gas making up 21% of Earth's atmosphere, essential for aerobic respiration."
+    },
+    "fact": {
+      "kk": "Сұйық оттек (-183°C) ашық көгілдір түсті және парамагнитті қасиетке ие (магнитке тартылады).",
+      "ru": "Жидкий кислород имеет красивый бледно-голубой цвет и притягивается сильным магнитом.",
+      "en": "Liquid oxygen is pale sky-blue and exhibits strong paramagnetism, clinging to magnetic poles."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Сызықтық", "ru": "Линейная", "en": "Linear" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "O1", "element": "O", "x": -40, "y": 0, "z": 0 },
+      { "id": "O2", "element": "O", "x": 40, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "O1", "b": "O2", "order": 2 }
+    ]
+  },
+  {
+    "id": "nitrogen",
+    "name": { "kk": "Азот молекуласы", "ru": "Азот", "en": "Molecular Nitrogen" },
+    "formula": "N2",
+    "category": "gas",
+    "description": {
+      "kk": "Атмосфераның 78%-ын құрайтын берік үштік байланысты бейтарап газ.",
+      "ru": "Основной газ атмосферы (78%), обладающий сверхпрочной тройной связью N≡N.",
+      "en": "Main component of Earth's atmosphere (78%), bound by an ultra-strong triple bond."
+    },
+    "fact": {
+      "kk": "Азот молекуласындағы үштік байланысты үзу үшін 945 кДж/моль энергия қажет, сондықтан ол кәдімгі жағдайда өте инертті.",
+      "ru": "Из-за прочности тройной связи азот химически пассивен при комнатной температуре.",
+      "en": "Requiring 945 kJ/mol to break its triple bond, molecular nitrogen is remarkably unreactive."
+    },
+    "hybridization": "sp",
+    "geometry": { "kk": "Сызықтық", "ru": "Линейная", "en": "Linear" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "N1", "element": "N", "x": -35, "y": 0, "z": 0 },
+      { "id": "N2", "element": "N", "x": 35, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "N1", "b": "N2", "order": 3 }
+    ]
+  },
+  {
+    "id": "hydrogen",
+    "name": { "kk": "Сутек молекуласы", "ru": "Водород", "en": "Molecular Hydrogen" },
+    "formula": "H2",
+    "category": "gas",
+    "description": {
+      "kk": "Әлемдегі ең жеңіл және ең көп таралған химиялық элементтің молекуласы.",
+      "ru": "Самый лёгкий газ во Вселенной, перспективное экологически чистое топливо.",
+      "en": "Lightest gas in the cosmos, premier clean fuel whose only combustion byproduct is water."
+    },
+    "fact": {
+      "kk": "Сутек жанғанда тек таза су түзіледі, сондықтан ол болашақтың жасыл отыны саналады.",
+      "ru": "При сгорании водорода выделяется колоссальное количество энергии и чистая вода.",
+      "en": "Combusting hydrogen releases substantial energy and zero emissions other than pure water."
+    },
+    "hybridization": "-",
+    "geometry": { "kk": "Сызықтық", "ru": "Линейная", "en": "Linear" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "H1", "element": "H", "x": -30, "y": 0, "z": 0 },
+      { "id": "H2", "element": "H", "x": 30, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "H1", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "ozone",
+    "name": { "kk": "Озон", "ru": "Озон", "en": "Ozone" },
+    "formula": "O3",
+    "category": "gas",
+    "description": {
+      "kk": "Оттектің аллотропиялық түр өзгерісі, Жерді күннің қауіпті ультракүлгін сәулесінен қорғайды.",
+      "ru": "Аллотропная модификация кислорода, образующая озоновый экран планеты.",
+      "en": "Triatomic allotrope of oxygen forming the stratospheric protective layer."
+    },
+    "fact": {
+      "kk": "Озон найзағай жарқылдаған соң ауада пайда болатын өзіндік таза өткір иіске ие («озон» грекше «иісті» деген сөз).",
+      "ru": "Запах озона ощущается после грозы (греч. ozo — пахну).",
+      "en": "Ozone gives thunderous rainstorms their fresh electrical scent (from Greek 'ozein', to smell)."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Бұрыштық (116.8°)", "ru": "Угловая (116.8°)", "en": "Bent (116.8°)" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "O1", "element": "O", "x": 0, "y": -35, "z": 0 },
+      { "id": "O2", "element": "O", "x": -55, "y": 25, "z": 0 },
+      { "id": "O3", "element": "O", "x": 55, "y": 25, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "O1", "b": "O2", "order": 2 },
+      { "a": "O1", "b": "O3", "order": 1 }
+    ]
+  },
+  {
+    "id": "hydrogen_peroxide",
+    "name": { "kk": "Сутек пероксиді", "ru": "Пероксид водорода (перекись)", "en": "Hydrogen Peroxide" },
+    "formula": "H2O2",
+    "category": "inorganic",
+    "description": {
+      "kk": "Пероксидті байланысы (-O-O-) бар күшті тотықтырғыш және медициналық зарарсыздандырғыш.",
+      "ru": "Неустойчивое пероксидное соединение, популярный медицинский антисептик.",
+      "en": "Simplest peroxide with an unstable -O-O- bond, powerful antiseptic and oxidizer."
+    },
+    "fact": {
+      "kk": "Жараға тигендегі көпіршу — қандағы каталаза ферментінің сутек пероксидін су мен оттекке лезде ыдыратуының нәтижесі.",
+      "ru": "Вскипание перекиси на ране вызвано ферментом каталазой, разрушающей H2O2 на воду и O2.",
+      "en": "Blood contact effervesces as the enzyme catalase rapidly degrades H2O2 into water and oxygen."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Жартылай ашық кітап тәрізді", "ru": "Неплоская угловая", "en": "Non-planar dihedral" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "O1", "element": "O", "x": -35, "y": 0, "z": -15 },
+      { "id": "O2", "element": "O", "x": 35, "y": 0, "z": 15 },
+      { "id": "H1", "element": "H", "x": -75, "y": 40, "z": 0 },
+      { "id": "H2", "element": "H", "x": 75, "y": -40, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "O1", "b": "O2", "order": 1 },
+      { "a": "O1", "b": "H1", "order": 1 },
+      { "a": "O2", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "carbon_monoxide",
+    "name": { "kk": "Иіс газы (көміртек(II) оксиді)", "ru": "Угарный газ", "en": "Carbon Monoxide" },
+    "formula": "CO",
+    "category": "inorganic",
+    "description": {
+      "kk": "Иіссіз және түссіз аса қауіпті тұншықтырғыш газ, оттек жетіспегенде жану кезінде пайда болады.",
+      "ru": "Коварный ядовитый газ без запаха, продукт неполного сгорания топлива.",
+      "en": "Colorless, odorless poisonous gas produced during incomplete carbon combustion."
+    },
+    "fact": {
+      "kk": "Иіс газы қан гемоглобинімен оттекке қарағанда 250 есе берік байланысып, оттектің тасымалдануын бөгейді.",
+      "ru": "CO связывается с гемоглобином в 250 раз прочнее кислорода, вызывая кислородное голодание.",
+      "en": "CO binds to blood hemoglobin with 250-fold higher affinity than oxygen, blocking oxygen transport."
+    },
+    "hybridization": "sp",
+    "geometry": { "kk": "Сызықтық", "ru": "Линейная", "en": "Linear" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -35, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 35, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "O1", "order": 3 }
+    ]
+  },
+  {
+    "id": "sulfur_dioxide",
+    "name": { "kk": "Күкіртті газ (күкірт(IV) оксиді)", "ru": "Сернистый газ (диоксид серы)", "en": "Sulfur Dioxide" },
+    "formula": "SO2",
+    "category": "inorganic",
+    "description": {
+      "kk": "Тұтанған сіріңкенің өткір иісі бар газ, қышқыл жаңбырлардың басты көзі.",
+      "ru": "Газ с резким запахом зажжённой спички, главная причина кислотных дождей.",
+      "en": "Choking gas with burning-match odor; main atmospheric contributor to acid rain."
+    },
+    "fact": {
+      "kk": "Шарап өндірісінде антисептик және тотығуға қарсы зат (консервант E220) ретінде қолданылады.",
+      "ru": "Используется в виноделии как консервант E220 против нежелательного брожения.",
+      "en": "Widely employed as food preservative E220 and antimicrobial agent in winemaking."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Бұрыштық (119°)", "ru": "Угловая (119°)", "en": "Bent (119°)" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "S1", "element": "S", "x": 0, "y": -20, "z": 0 },
+      { "id": "O1", "element": "O", "x": -55, "y": 25, "z": 0 },
+      { "id": "O2", "element": "O", "x": 55, "y": 25, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "S1", "b": "O1", "order": 2 },
+      { "a": "S1", "b": "O2", "order": 2 }
+    ]
+  },
+  {
+    "id": "formic_acid",
+    "name": { "kk": "Құмырсқа қышқылы", "ru": "Муравьиная кислота", "en": "Formic Acid" },
+    "formula": "CH2O2",
+    "category": "acid",
+    "description": {
+      "kk": "Ең қарапайым карбон қышқылы, құмырсқалар мен қалақайдың күйдіргіш сұйықтығында болады.",
+      "ru": "Простейшая карбоновая кислота, содержится в яде муравьёв и волосках крапивы.",
+      "en": "Simplest carboxylic acid found naturally in ant venom and stinging nettle."
+    },
+    "fact": {
+      "kk": "Құрылымында альдегид тобы да болғандықтан, күміс айна реакциясына түсетін жалғыз қышқыл.",
+      "ru": "Единственная карбоновая кислота, дающая реакцию «серебряного зеркала».",
+      "en": "Uniquely among carboxylic acids, formic acid gives a positive silver-mirror test."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық тригональды", "ru": "Плоская", "en": "Planar" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -60, "z": 0 },
+      { "id": "O2", "element": "O", "x": 55, "y": 35, "z": 0 },
+      { "id": "H1", "element": "H", "x": 100, "y": 35, "z": 0 },
+      { "id": "H2", "element": "H", "x": -55, "y": 35, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "O1", "order": 2 },
+      { "a": "C1", "b": "O2", "order": 1 },
+      { "a": "O2", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "acetone",
+    "name": { "kk": "Ацетон (диметилкетон)", "ru": "Ацетон (диметилкетон)", "en": "Acetone" },
+    "formula": "C3H6O",
+    "category": "ketone",
+    "description": {
+      "kk": "Ең қарапайым кетон, өнеркәсіп пен тұрмыстағы танымал әмбебап органикалық еріткіш.",
+      "ru": "Простейший кетон, популярный растворитель лаков, красок и полимеров.",
+      "en": "Simplest ketone and ubiquitous solvent for plastics, paints, and nail varnish."
+    },
+    "fact": {
+      "kk": "Адам ағзасы қатаң диета немесе қант диабеті кезінде ацетонды кетондық дене ретінде түзеді.",
+      "ru": "При диабете или голодании ацетон вырабатывается в организме как кетоновое тело.",
+      "en": "Ketosis during fasting or untreated diabetes produces endogenous breath acetone."
+    },
+    "hybridization": "sp² / sp³",
+    "geometry": { "kk": "Жазық карбонил тобы", "ru": "Плоская у группы C=O", "en": "Planar carbonyl" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -60, "y": 30, "z": 0 },
+      { "id": "C2", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "C3", "element": "C", "x": 60, "y": 30, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -65, "z": 0 },
+      { "id": "H1", "element": "H", "x": -105, "y": 30, "z": 0 },
+      { "id": "H2", "element": "H", "x": -60, "y": 80, "z": 0 },
+      { "id": "H3", "element": "H", "x": -60, "y": -15, "z": 30 },
+      { "id": "H4", "element": "H", "x": 105, "y": 30, "z": 0 },
+      { "id": "H5", "element": "H", "x": 60, "y": 80, "z": 0 },
+      { "id": "H6", "element": "H", "x": 60, "y": -15, "z": -30 }
+    ],
+    "bonds": [
+      { "a": "C2", "b": "O1", "order": 2 },
+      { "a": "C2", "b": "C1", "order": 1 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C1", "b": "H1", "order": 1 },
+      { "a": "C1", "b": "H2", "order": 1 },
+      { "a": "C1", "b": "H3", "order": 1 },
+      { "a": "C3", "b": "H4", "order": 1 },
+      { "a": "C3", "b": "H5", "order": 1 },
+      { "a": "C3", "b": "H6", "order": 1 }
+    ]
+  },
+  {
+    "id": "urea",
+    "name": { "kk": "Мочевина (карбамид)", "ru": "Мочевина (карбамид)", "en": "Urea (Carbamide)" },
+    "formula": "CH4N2O",
+    "category": "organic",
+    "description": {
+      "kk": "Көмір қышқылының толық амиді, ағзаның ақуыз алмасуының басты соңғы өнімі.",
+      "ru": "Диамид угольной кислоты, важнейшее азотное минеральное удобрение.",
+      "en": "Diamide of carbonic acid, first organic molecule synthesized from inorganics."
+    },
+    "fact": {
+      "kk": "1828 жылы Фридрих Вёлер бейорганикалық заттан мочевинаны синтездеп, «өмірлік күш» (витализм) теориясын жоққа шығарды.",
+      "ru": "Синтез мочевины Вёлером в 1828 году опроверг витализм и положил начало органической химии.",
+      "en": "Wöhler's 1828 synthesis of urea demolished the vitalism dogma, founding synthetic organic chemistry."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық құрылым", "ru": "Плоская", "en": "Planar" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -60, "z": 0 },
+      { "id": "N1", "element": "N", "x": -55, "y": 35, "z": 0 },
+      { "id": "N2", "element": "N", "x": 55, "y": 35, "z": 0 },
+      { "id": "H1", "element": "H", "x": -95, "y": 20, "z": 0 },
+      { "id": "H2", "element": "H", "x": -55, "y": 80, "z": 0 },
+      { "id": "H3", "element": "H", "x": 95, "y": 20, "z": 0 },
+      { "id": "H4", "element": "H", "x": 55, "y": 80, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "O1", "order": 2 },
+      { "a": "C1", "b": "N1", "order": 1 },
+      { "a": "C1", "b": "N2", "order": 1 },
+      { "a": "N1", "b": "H1", "order": 1 },
+      { "a": "N1", "b": "H2", "order": 1 },
+      { "a": "N2", "b": "H3", "order": 1 },
+      { "a": "N2", "b": "H4", "order": 1 }
+    ]
+  },
+  {
+    "id": "chlorine",
+    "name": { "kk": "Хлор молекуласы", "ru": "Хлор", "en": "Molecular Chlorine" },
+    "formula": "Cl2",
+    "category": "gas",
+    "description": {
+      "kk": "Сары-жасыл түсті улы тұншықтырғыш газ, күшті тотықтырғыш және зарарсыздандырғыш.",
+      "ru": "Ядовитый жёлто-зелёный газ с резким запахом хлорки.",
+      "en": "Toxic pale yellow-green diatomic gas with an irritating, bleach-like odor."
+    },
+    "fact": {
+      "kk": "Ауыз суды хлорлау арқылы адамзат миллиондаған адамды сүзек және тырысқақ (холера) індетінен құтқарды.",
+      "ru": "Хлорирование воды спасло миллионы жизней от эпидемий холеры и брюшного тифа.",
+      "en": "Water chlorination has saved millions of lives globally from waterborne cholera epidemics."
+    },
+    "hybridization": "-",
+    "geometry": { "kk": "Сызықтық", "ru": "Линейная", "en": "Linear" },
+    "polarity": "nonpolar",
+    "atoms": [
+      { "id": "Cl1", "element": "Cl", "x": -45, "y": 0, "z": 0 },
+      { "id": "Cl2", "element": "Cl", "x": 45, "y": 0, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "Cl1", "b": "Cl2", "order": 1 }
+    ]
+  },
+  {
+    "id": "sulfuric_acid",
+    "name": { "kk": "Күкірт қышқылы", "ru": "Серная кислота", "en": "Sulfuric Acid" },
+    "formula": "H2SO4",
+    "category": "acid",
+    "description": {
+      "kk": "Химиялық өндірістің негізі, күшті екінегізді түссіз ауыр қышқыл.",
+      "ru": "«Купоросное масло», важнейшая минеральная двухосновная кислота.",
+      "en": "Strong diprotic mineral acid and the most widely manufactured chemical worldwide."
+    },
+    "fact": {
+      "kk": "Күкірт қышқылының жылдық өндірісі бұрын мемлекеттің индустриялық қуатының басты көрсеткіші саналған.",
+      "ru": "Объём производства серной кислоты традиционно считался барометром химической промышленности страны.",
+      "en": "Sulfuric acid production volume was historically regarded as an index of a nation's industrial strength."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тетраэдрлік күкірт атомы", "ru": "Тетраэдрическая", "en": "Tetrahedral S center" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "S1", "element": "S", "x": 0, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -60, "z": 0 },
+      { "id": "O2", "element": "O", "x": 0, "y": 60, "z": 0 },
+      { "id": "O3", "element": "O", "x": -60, "y": 0, "z": 0 },
+      { "id": "O4", "element": "O", "x": 60, "y": 0, "z": 0 },
+      { "id": "H1", "element": "H", "x": -95, "y": 30, "z": 0 },
+      { "id": "H2", "element": "H", "x": 95, "y": -30, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "S1", "b": "O1", "order": 2 },
+      { "a": "S1", "b": "O2", "order": 2 },
+      { "a": "S1", "b": "O3", "order": 1 },
+      { "a": "S1", "b": "O4", "order": 1 },
+      { "a": "O3", "b": "H1", "order": 1 },
+      { "a": "O4", "b": "H2", "order": 1 }
+    ]
+  },
+  {
+    "id": "nitric_acid",
+    "name": { "kk": "Азот қышқылы", "ru": "Азотная кислота", "en": "Nitric Acid" },
+    "formula": "HNO3",
+    "category": "acid",
+    "description": {
+      "kk": "Күшті тотықтырғыш қышқыл, тыңайтқыштар мен қопарылғыш заттар өндірісінде негізгі шикізат.",
+      "ru": "Сильная кислота-окислитель, основа производства селитр и полимеров.",
+      "en": "Highly corrosive mineral acid used for producing fertilizers and explosives."
+    },
+    "fact": {
+      "kk": "Азот қышқылы мен тұз қышқылының 1:3 қоспасы «патша арағы» (aqua regia) деп аталып, алтынды ерітеді.",
+      "ru": "Смесь азотной и соляной кислот («царская водка») способна растворять золото и платину.",
+      "en": "A 1:3 mixture with hydrochloric acid forms 'aqua regia', which dissolves gold and platinum."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық тригональды", "ru": "Плоская", "en": "Planar" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "N1", "element": "N", "x": 0, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -55, "z": 0 },
+      { "id": "O2", "element": "O", "x": -50, "y": 35, "z": 0 },
+      { "id": "O3", "element": "O", "x": 50, "y": 35, "z": 0 },
+      { "id": "H1", "element": "H", "x": 90, "y": 20, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "N1", "b": "O1", "order": 2 },
+      { "a": "N1", "b": "O2", "order": 1 },
+      { "a": "N1", "b": "O3", "order": 1 },
+      { "a": "O3", "b": "H1", "order": 1 }
+    ]
+  },
+  {
+    "id": "phenol",
+    "name": { "kk": "Фенол (карболовая кислота)", "ru": "Фенол (карболовая кислота)", "en": "Phenol" },
+    "formula": "C6H6O",
+    "category": "aromatic",
+    "description": {
+      "kk": "Бензол сақинасына гидроксил тобы тікелей жалғанған хош иісті қосылыс, пластмассалар шикізаты.",
+      "ru": "Ароматический спирт, сырьё для фенолформальдегидных смол и антисептиков.",
+      "en": "Aromatic organic compound consisting of a phenyl group bonded to a hydroxy group."
+    },
+    "fact": {
+      "kk": "1867 жылы Джозеф Листер фенолды (карболка) хирургтардың алғашқы антисептигі ретінде енгізді.",
+      "ru": "Карболка совершила революцию в медицине XIX века как первый антисептик в хирургии.",
+      "en": "Joseph Lister revolutionized surgery in 1867 by introducing carbolic acid (phenol) antiseptic."
+    },
+    "hybridization": "sp²",
+    "geometry": { "kk": "Жазық бензол сақинасы", "ru": "Плоская", "en": "Planar ring" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": -50, "z": 0 },
+      { "id": "C2", "element": "C", "x": 45, "y": -25, "z": 0 },
+      { "id": "C3", "element": "C", "x": 45, "y": 25, "z": 0 },
+      { "id": "C4", "element": "C", "x": 0, "y": 50, "z": 0 },
+      { "id": "C5", "element": "C", "x": -45, "y": 25, "z": 0 },
+      { "id": "C6", "element": "C", "x": -45, "y": -25, "z": 0 },
+      { "id": "O1", "element": "O", "x": 0, "y": -95, "z": 0 },
+      { "id": "H1", "element": "H", "x": 35, "y": -115, "z": 0 },
+      { "id": "H2", "element": "H", "x": 80, "y": -45, "z": 0 },
+      { "id": "H3", "element": "H", "x": 80, "y": 45, "z": 0 },
+      { "id": "H4", "element": "H", "x": 0, "y": 90, "z": 0 },
+      { "id": "H5", "element": "H", "x": -80, "y": 45, "z": 0 },
+      { "id": "H6", "element": "H", "x": -80, "y": -45, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 2 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C3", "b": "C4", "order": 2 },
+      { "a": "C4", "b": "C5", "order": 1 },
+      { "a": "C5", "b": "C6", "order": 2 },
+      { "a": "C6", "b": "C1", "order": 1 },
+      { "a": "C1", "b": "O1", "order": 1 },
+      { "a": "O1", "b": "H1", "order": 1 },
+      { "a": "C2", "b": "H2", "order": 1 },
+      { "a": "C3", "b": "H3", "order": 1 },
+      { "a": "C4", "b": "H4", "order": 1 },
+      { "a": "C5", "b": "H5", "order": 1 },
+      { "a": "C6", "b": "H6", "order": 1 }
+    ]
+  },
+  {
+    "id": "glycerol",
+    "name": { "kk": "Глицерин (пропантриол-1,2,3)", "ru": "Глицерин", "en": "Glycerol (Glycerin)" },
+    "formula": "C3H8O3",
+    "category": "alcohol",
+    "description": {
+      "kk": "Үшатомды тұтқыр тәтті дәмі бар спирт, косметика, фармацевтика және жарылғыш заттар шикізаты.",
+      "ru": "Трёхатомный спирт сладковатого вкуса, компонент жиров и увлажняющих кремов.",
+      "en": "Trihydroxy alcohol forming the molecular backbone of all animal and vegetable fats."
+    },
+    "fact": {
+      "kk": "Глицеринді нитрлеу арқылы әйгілі нитроглицерин (динамиттің негізі) алынады.",
+      "ru": "Нитрованием глицерина Альфред Нобель создал нитроглицерин и динамит.",
+      "en": "Nitration of glycerol by Alfred Nobel yielded nitroglycerin, the heart of dynamite."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Тармақталған үш гидроксилді", "ru": "Трёхатомная цепь", "en": "Triol chain" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": -60, "y": 0, "z": 0 },
+      { "id": "C2", "element": "C", "x": 0, "y": 0, "z": 0 },
+      { "id": "C3", "element": "C", "x": 60, "y": 0, "z": 0 },
+      { "id": "O1", "element": "O", "x": -60, "y": -50, "z": 0 },
+      { "id": "O2", "element": "O", "x": 0, "y": 50, "z": 0 },
+      { "id": "O3", "element": "O", "x": 60, "y": -50, "z": 0 },
+      { "id": "H1", "element": "H", "x": -95, "y": -65, "z": 0 },
+      { "id": "H2", "element": "H", "x": 35, "y": 65, "z": 0 },
+      { "id": "H3", "element": "H", "x": 95, "y": -65, "z": 0 },
+      { "id": "H4", "element": "H", "x": -100, "y": 15, "z": 0 },
+      { "id": "H5", "element": "H", "x": -60, "y": 45, "z": 0 },
+      { "id": "H6", "element": "H", "x": 0, "y": -45, "z": 0 },
+      { "id": "H7", "element": "H", "x": 100, "y": 15, "z": 0 },
+      { "id": "H8", "element": "H", "x": 60, "y": 45, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 1 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C1", "b": "O1", "order": 1 },
+      { "a": "C2", "b": "O2", "order": 1 },
+      { "a": "C3", "b": "O3", "order": 1 },
+      { "a": "O1", "b": "H1", "order": 1 },
+      { "a": "O2", "b": "H2", "order": 1 },
+      { "a": "O3", "b": "H3", "order": 1 },
+      { "a": "C1", "b": "H4", "order": 1 },
+      { "a": "C1", "b": "H5", "order": 1 },
+      { "a": "C2", "b": "H6", "order": 1 },
+      { "a": "C3", "b": "H7", "order": 1 },
+      { "a": "C3", "b": "H8", "order": 1 }
+    ]
+  },
+  {
+    "id": "glucose",
+    "name": { "kk": "Глюкоза", "ru": "Глюкоза (виноградный сахар)", "en": "Glucose" },
+    "formula": "C6H12O6",
+    "category": "sugar",
+    "description": {
+      "kk": "Адам мен жануарлар ағзасының басты энергия көзі (жүзім қанты, моносахарид).",
+      "ru": "Главный источник энергии для клеток человека и животных, моносахарид.",
+      "en": "Essential monosaccharide sugar serving as the primary metabolic energy source."
+    },
+    "fact": {
+      "kk": "Адам миының салмағы дененің 2%-ын ғана құрағанымен, күнделікті глюкозаның 20%-ын тұтынады.",
+      "ru": "Человеческий мозг потребляет около 20% всей глюкозы тела, составляя лишь 2% его массы.",
+      "en": "The human brain consumes 20% of all blood glucose while representing just 2% of body mass."
+    },
+    "hybridization": "sp³",
+    "geometry": { "kk": "Алты мүшелі сақиналы форма", "ru": "Пиранозное кольцо", "en": "Pyranose chair ring" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 45, "y": 15, "z": 0 },
+      { "id": "C2", "element": "C", "x": 25, "y": 50, "z": 0 },
+      { "id": "C3", "element": "C", "x": -25, "y": 50, "z": 0 },
+      { "id": "C4", "element": "C", "x": -45, "y": 15, "z": 0 },
+      { "id": "C5", "element": "C", "x": -25, "y": -25, "z": 0 },
+      { "id": "O5", "element": "O", "x": 25, "y": -25, "z": 0 },
+      { "id": "C6", "element": "C", "x": -45, "y": -65, "z": 0 },
+      { "id": "O1", "element": "O", "x": 85, "y": 15, "z": 0 },
+      { "id": "O2", "element": "O", "x": 45, "y": 90, "z": 0 },
+      { "id": "O3", "element": "O", "x": -45, "y": 90, "z": 0 },
+      { "id": "O4", "element": "O", "x": -85, "y": 15, "z": 0 },
+      { "id": "O6", "element": "O", "x": -85, "y": -75, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 1 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C3", "b": "C4", "order": 1 },
+      { "a": "C4", "b": "C5", "order": 1 },
+      { "a": "C5", "b": "O5", "order": 1 },
+      { "a": "O5", "b": "C1", "order": 1 },
+      { "a": "C5", "b": "C6", "order": 1 },
+      { "a": "C1", "b": "O1", "order": 1 },
+      { "a": "C2", "b": "O2", "order": 1 },
+      { "a": "C3", "b": "O3", "order": 1 },
+      { "a": "C4", "b": "O4", "order": 1 },
+      { "a": "C6", "b": "O6", "order": 1 }
+    ]
+  },
+  {
+    "id": "aspirin",
+    "name": { "kk": "Аспирин (ацетилсалицил қышқылы)", "ru": "Аспирин (ацетилсалициловая кислота)", "en": "Aspirin (Acetylsalicylic Acid)" },
+    "formula": "C9H8O4",
+    "category": "medicine",
+    "description": {
+      "kk": "Әлемдегі ең танымал ауырсынуды басатын, қызу түсіретін дәрілік зат.",
+      "ru": "Самое известное в истории противовоспалительное и жаропонижающее лекарство.",
+      "en": "The most widely taken pain-relieving, anti-inflammatory, and antipyretic drug."
+    },
+    "fact": {
+      "kk": "Аспиринді 1897 жылы неміс химигі Феликс Хоффманн ревматизммен ауыратын әкесіне көмектесу үшін синтездеген.",
+      "ru": "Феликс Хоффман синтезировал стабильный аспирин в 1897 году, чтобы облегчить боль отца при артрите.",
+      "en": "Felix Hoffmann synthesized stable acetylsalicylic acid in 1897 to relieve his father's arthritis."
+    },
+    "hybridization": "sp² / sp³",
+    "geometry": { "kk": "Ароматты бензол сақиналы", "ru": "Ароматическая", "en": "Aromatic core" },
+    "polarity": "polar",
+    "atoms": [
+      { "id": "C1", "element": "C", "x": 0, "y": -40, "z": 0 },
+      { "id": "C2", "element": "C", "x": 35, "y": -20, "z": 0 },
+      { "id": "C3", "element": "C", "x": 35, "y": 20, "z": 0 },
+      { "id": "C4", "element": "C", "x": 0, "y": 40, "z": 0 },
+      { "id": "C5", "element": "C", "x": -35, "y": 20, "z": 0 },
+      { "id": "C6", "element": "C", "x": -35, "y": -20, "z": 0 },
+      { "id": "C7", "element": "C", "x": 0, "y": -85, "z": 0 },
+      { "id": "O1", "element": "O", "x": -35, "y": -105, "z": 0 },
+      { "id": "O2", "element": "O", "x": 35, "y": -105, "z": 0 },
+      { "id": "H1", "element": "H", "x": 35, "y": -140, "z": 0 },
+      { "id": "O3", "element": "O", "x": 70, "y": -40, "z": 0 },
+      { "id": "C8", "element": "C", "x": 105, "y": -20, "z": 0 },
+      { "id": "O4", "element": "O", "x": 105, "y": 20, "z": 0 },
+      { "id": "C9", "element": "C", "x": 145, "y": -40, "z": 0 }
+    ],
+    "bonds": [
+      { "a": "C1", "b": "C2", "order": 2 },
+      { "a": "C2", "b": "C3", "order": 1 },
+      { "a": "C3", "b": "C4", "order": 2 },
+      { "a": "C4", "b": "C5", "order": 1 },
+      { "a": "C5", "b": "C6", "order": 2 },
+      { "a": "C6", "b": "C1", "order": 1 },
+      { "a": "C1", "b": "C7", "order": 1 },
+      { "a": "C7", "b": "O1", "order": 2 },
+      { "a": "C7", "b": "O2", "order": 1 },
+      { "a": "O2", "b": "H1", "order": 1 },
+      { "a": "C2", "b": "O3", "order": 1 },
+      { "a": "O3", "b": "C8", "order": 1 },
+      { "a": "C8", "b": "O4", "order": 2 },
+      { "a": "C8", "b": "C9", "order": 1 }
+    ]
+  }
+]

@@ -1,0 +1,3011 @@
+[
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleCard.tsx",
+    "line": 42,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<span className=\"px-2.5 py-1 rounded-full text-[11px] font-bold bg-teal-500/90 text-white backdrop-blur-md shadow-md\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleCard.tsx",
+    "line": 46,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<span className=\"px-2.5 py-1 rounded-full text-[11px] font-bold bg-emerald-500/90 text-white backdrop-blur-md shadow-md flex items-center gap-1\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleCard.tsx",
+    "line": 63,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-amber-500 text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleCard.tsx",
+    "line": 64,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-900/60 text-slate-300 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticlePage.tsx",
+    "line": 82,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-teal-500 text-white font-bold text-xs\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticlePage.tsx",
+    "line": 139,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-amber-500 text-white border-amber-500 shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticlePage.tsx",
+    "line": 140,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": ": 'border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-slate-400 hover:text-amber-500'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticlePage.tsx",
+    "line": 222,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-5 py-3 rounded-xl bg-gradient-to-r from-teal-500 to-purple-600 hover:brightness-110 text-white font-bold text-xs shadow-lg shadow-teal-500/25 transition-all cursor-pointer shrink-0\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleQuiz.tsx",
+    "line": 87,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-4 py-1.5 rounded-lg bg-teal-500 hover:bg-teal-600 disabled:opacity-40 text-white font-bold text-xs shadow-md transition-all cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleSearch.tsx",
+    "line": 35,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Search className=\"w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ArticleSearch.tsx",
+    "line": 47,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<ArrowUpDown className=\"w-4 h-4 text-slate-400 shrink-0\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ReactionBlock.tsx",
+    "line": 39,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"p-4 rounded-xl bg-slate-900 text-white font-mono font-bold text-center text-base sm:text-lg overflow-x-auto shadow-inner\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/ReactionBlock.tsx",
+    "line": 56,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold bg-teal-500 hover:bg-teal-600 text-white shadow-md transition-all active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/articles/TopicFilter.tsx",
+    "line": 36,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md shadow-teal-500/30 ring-2 ring-teal-500/40'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 13,
+    "matches": [
+      "text-zinc-300"
+    ],
+    "text": "C: { bg: 'bg-zinc-500/20', text: 'text-zinc-300', border: 'border-zinc-500/40' },"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 52,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<h3 className=\"font-semibold text-slate-100 text-sm sm:text-base\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 55,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 85,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "text: 'text-slate-300',"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 103,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "<span className=\"text-xs font-medium text-slate-200 block leading-tight\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 106,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 132,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400 w-4 text-right\">{row.reactantsTotal}</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/AtomBalanceVisualizer.tsx",
+    "line": 143,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400 w-4 text-right\">{row.productsTotal}</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 94,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1.5 text-xs font-medium rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition-all flex items-center gap-1.5 shadow-sm\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 104,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1.5 text-xs font-medium rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition-all hidden sm:flex items-center gap-1.5 shadow-sm font-mono\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 114,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1.5 text-xs font-medium rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition-all flex items-center gap-1.5 shadow-sm\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 143,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"text-slate-100 group-hover:text-teal-200 underline decoration-teal-500/30 underline-offset-4\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 172,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"text-slate-100 group-hover:text-purple-200 underline decoration-purple-500/30 underline-offset-4\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 183,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400 font-medium mr-1 text-[11px] uppercase tracking-wider\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/BalancedDisplay.tsx",
+    "line": 191,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1 rounded-lg bg-slate-800/60 hover:bg-slate-700/80 border border-slate-700 text-slate-300 hover:text-white transition-all flex items-center gap-1.5 active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 127,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": ": 'border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-800/40'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 140,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": ": 'border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-800/40'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 153,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": ": 'border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-800/40'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 166,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": ": 'border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-800/40'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 181,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"p-6 text-center text-slate-400 bg-slate-800/30 rounded-xl border border-slate-800\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 183,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "<p className=\"text-sm font-medium text-slate-200\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 186,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400 mt-1\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 194,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<h4 className=\"text-sm sm:text-base font-semibold text-slate-100\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 197,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 221,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"font-mono text-sm font-bold text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 224,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[11px] text-slate-400 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 244,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"flex-1 bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:border-teal-500\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 249,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "className=\"bg-slate-900 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 focus:outline-none focus:border-teal-500\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 281,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"font-mono font-bold text-slate-100 text-sm\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 289,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<div className=\"flex items-center justify-between text-slate-300 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 295,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<div className=\"flex items-center justify-between text-slate-300 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 308,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "<span className=\"font-semibold text-slate-200 block\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 330,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[11px] text-slate-400 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 337,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-xs text-slate-300\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 343,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "className=\"bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1 text-xs text-slate-200\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 354,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-xs text-slate-300\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 364,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-24 bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1 text-xs text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 392,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<h4 className=\"text-sm sm:text-base font-semibold text-slate-100\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 395,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 407,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "className=\"px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 text-[11px] border border-slate-700 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 422,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"flex-1 bg-slate-900 border border-slate-700 rounded-xl px-4 py-2.5 font-mono text-sm sm:text-base text-slate-100 focus:outline-none focus:border-purple-500 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 432,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"font-mono text-xl sm:text-2xl font-bold text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 435,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-xs text-slate-400 block mt-0.5\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 446,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-xs text-slate-400 font-sans\">г/моль</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 453,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<div className=\"flex items-center justify-between text-xs text-slate-300\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 455,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"font-mono text-slate-400\">100.00%</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 479,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<thead className=\"bg-slate-800/60 text-slate-400 text-[11px] uppercase tracking-wider\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 493,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "<td className=\"py-2.5 px-3 font-sans text-slate-200\">{getElementName(item.symbol)}</td>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 494,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<td className=\"py-2.5 px-3 text-center text-slate-300\">&times;{item.count}</td>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 495,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<td className=\"py-2.5 px-3 text-right text-slate-400\">{item.atomicMass.toFixed(3)}</td>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 496,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "<td className=\"py-2.5 px-3 text-right text-slate-200 font-semibold\">{item.totalMass.toFixed(3)}</td>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 514,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<h4 className=\"text-sm sm:text-base font-semibold text-slate-100\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 517,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 531,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Еріген заттың массасы (m_зат, г):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 538,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 543,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Жалпы ерітіндінің массасы (m_ерітінді, г):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 550,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 555,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Еріген заттың молярлық массасы (M, г/моль):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 562,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 567,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Ерітіндінің көлемі (V, литр):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 574,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 581,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">Массалық үлес (ω):</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 587,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">Молярлық концентрация (C_M):</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 608,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Бастапқы концентрация (C₁):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 615,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 620,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Бастапқы көлем (V₁, мл немесе л):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 627,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 632,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 block mb-1\">Қажетті концентрация (C₂):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 639,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 646,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">Қажетті жалпы көлем (V₂):</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 673,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<h4 className=\"text-sm sm:text-base font-semibold text-slate-100\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 676,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 683,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 font-medium\">Қысым (P, кПа):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 689,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 695,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 font-medium\">Көлем (V, литр):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 701,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 707,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 font-medium\">Зат мөлшері (n, моль):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 713,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 719,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<label className=\"text-slate-300 font-medium\">Температура (T, °C):</label>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 725,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1.5 text-slate-100\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/CalculatorsSection.tsx",
+    "line": 736,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<span className=\"text-slate-300\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ChemicalKeyboard.tsx",
+    "line": 42,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-xs font-mono text-slate-400 mr-1 hidden sm:inline\">Символдар:</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ChemicalKeyboard.tsx",
+    "line": 74,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "className=\"px-2 py-1 text-xs font-medium rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition-all active:scale-95 flex items-center gap-1\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ChemicalKeyboard.tsx",
+    "line": 92,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-xs font-mono text-slate-400 mr-1 shrink-0 hidden sm:inline\">Элементтер:</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ChemicalKeyboard.tsx",
+    "line": 98,
+    "matches": [
+      "text-slate-200",
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1 text-xs font-bold rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-200 hover:text-white border border-slate-700/80 transition-all active:scale-95 shrink-0\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 63,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Search className=\"w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 69,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "className=\"w-full bg-slate-900 border border-slate-700/80 rounded-xl pl-10 pr-4 py-2 text-xs sm:text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-teal-500\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 75,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": "className=\"absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-200\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 91,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md shadow-teal-500/20'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 92,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800/80 text-slate-300 hover:bg-slate-700 hover:text-white border border-slate-700'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 104,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"p-8 text-center text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 120,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<span className=\"text-xs sm:text-sm font-semibold text-slate-100 group-hover:text-teal-300 transition-colors truncate\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/PresetsModal.tsx",
+    "line": 142,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-[11px] text-slate-400 line-clamp-1\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ReactionHistory.tsx",
+    "line": 33,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<History className=\"w-6 h-6 mx-auto mb-2 opacity-50 text-slate-400\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ReactionHistory.tsx",
+    "line": 89,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-1 rounded text-slate-400 hover:text-white\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/balancer/ReactionHistory.tsx",
+    "line": 105,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "item.isStarred ? 'text-amber-400' : 'text-slate-500 hover:text-slate-300'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatHistoryControls.tsx",
+    "line": 35,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"p-1.5 rounded-lg text-slate-400 hover:text-red-500 hover:bg-red-500/10 transition-all cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatInput.tsx",
+    "line": 52,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"p-2.5 rounded-xl bg-red-500 hover:bg-red-600 text-white font-bold text-xs shadow-md transition-all active:scale-95 cursor-pointer shrink-0\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatInput.tsx",
+    "line": 62,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"p-2.5 rounded-xl bg-gradient-to-tr from-teal-500 to-indigo-600 hover:brightness-110 disabled:opacity-40 text-white font-bold text-xs shadow-md transition-all active:scale-95 cursor-pointer shrink-0\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatMessage.tsx",
+    "line": 44,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-gradient-to-tr from-purple-500 to-indigo-600 text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatMessage.tsx",
+    "line": 45,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'bg-gradient-to-tr from-teal-500 to-emerald-600 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatMessage.tsx",
+    "line": 54,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white rounded-tr-none shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatMessage.tsx",
+    "line": 68,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"p-1 rounded text-slate-400 hover:text-teal-500 transition-colors cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatMessage.tsx",
+    "line": 77,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"p-1 rounded text-slate-400 hover:text-teal-500 transition-colors cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatWidget.tsx",
+    "line": 181,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"fixed bottom-6 right-6 z-40 p-4 rounded-2xl bg-gradient-to-tr from-teal-500 via-purple-600 to-indigo-600 text-white shadow-2xl hover:scale-110 active:scale-95 transition-all flex items-center gap-2 cursor-pointer group glow-teal\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatWidget.tsx",
+    "line": 196,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"w-10 h-10 rounded-xl bg-gradient-to-tr from-teal-500 to-indigo-600 flex items-center justify-center text-white shadow-md\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatWidget.tsx",
+    "line": 200,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<h3 className=\"font-extrabold text-sm text-white flex items-center gap-1.5\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatWidget.tsx",
+    "line": 217,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-1.5 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 transition-colors cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatWidget.tsx",
+    "line": 231,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"text-slate-400 hover:text-white shrink-0 cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/ChatWidget.tsx",
+    "line": 245,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<div className=\"p-4 rounded-2xl bg-slate-900 border border-slate-800 text-xs sm:text-sm text-slate-300 leading-relaxed max-w-xs mx-auto shadow-md\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/chat/TypingIndicator.tsx",
+    "line": 18,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"w-8 h-8 rounded-xl bg-gradient-to-tr from-teal-500 to-emerald-600 text-white flex items-center justify-center shrink-0 shadow-md\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/home/FactOfTheDayCard.tsx",
+    "line": 86,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"shrink-0 px-4 py-3 rounded-xl bg-gradient-to-tr from-teal-500 to-purple-600 text-white font-mono font-bold text-xl sm:text-2xl shadow-md min-w-[70px] text-center\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/home/FactOfTheDayCard.tsx",
+    "line": 98,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Clock className=\"w-3.5 h-3.5 text-slate-400\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/home/HeroSection.tsx",
+    "line": 97,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<div className=\"absolute bottom-4 left-4 right-4 p-3 rounded-xl bg-slate-900/80 dark:bg-black/80 backdrop-blur-md border border-white/10 flex items-center justify-between text-xs text-slate-300\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/home/HeroSection.tsx",
+    "line": 102,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[11px] text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/home/SectionsGrid.tsx",
+    "line": 66,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className={`w-12 h-12 rounded-xl bg-gradient-to-tr ${mod.gradient} flex items-center justify-center text-white shadow-md shadow-black/10 group-hover:scale-110 transition-transform duration-300`}"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/Burner.tsx",
+    "line": 54,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-gradient-to-r from-amber-500 to-orange-500 text-white shadow-amber-500/25 ring-2 ring-amber-400/40 animate-pulse'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/Burner.tsx",
+    "line": 55,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": ": 'bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/Burner.tsx",
+    "line": 59,
+    "matches": [
+      "text-white",
+      "text-slate-400"
+    ],
+    "text": "<Power className={`w-3.5 h-3.5 ${isOn ? 'text-white' : 'text-slate-400'}`} />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 49,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<span className=\"text-slate-100 font-bold\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 52,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 text-xs font-mono ml-2\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 70,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"flex items-center justify-between text-xs text-slate-400 pb-1 border-b border-slate-800\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 93,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[11px] text-slate-400 flex items-center gap-1 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 102,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-1 rounded-lg hover:bg-slate-700 text-slate-400 hover:text-white transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 114,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<div className=\"font-mono text-slate-100 font-bold text-xs sm:text-sm bg-slate-900/60 p-2.5 rounded-xl border border-slate-800\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ExperimentLogModal.tsx",
+    "line": 119,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<p className=\"text-slate-300 line-clamp-2\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/Flask.tsx",
+    "line": 127,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "isActive ? 'text-teal-300' : 'text-slate-300 group-hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/Flask.tsx",
+    "line": 132,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/LabControls.tsx",
+    "line": 50,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition-all disabled:opacity-40 disabled:cursor-not-allowed flex items-center gap-1.5 shadow-sm active:scale-95\""
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/lab/LabControls.tsx",
+    "line": 85,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "? 'bg-teal-500 text-slate-950 font-bold shadow-teal-500/20'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/LabControls.tsx",
+    "line": 96,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition-all flex items-center gap-1.5 shadow-sm active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/LabControls.tsx",
+    "line": 105,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 transition-all flex items-center gap-1.5 shadow-sm active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/LabScene.tsx",
+    "line": 39,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<span className=\"text-xs font-semibold text-slate-300 flex items-center gap-2\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/LabScene.tsx",
+    "line": 44,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[11px] text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentItem.tsx",
+    "line": 56,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "return 'bg-slate-500/15 text-slate-300 border-slate-500/30';"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentItem.tsx",
+    "line": 80,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<span className=\"font-mono text-xs sm:text-sm font-extrabold text-slate-100 group-hover:text-teal-300 transition-colors\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentItem.tsx",
+    "line": 105,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<p className=\"text-[11px] text-slate-300 line-clamp-1 mb-2 font-medium\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentShelf.tsx",
+    "line": 68,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Search className=\"w-3.5 h-3.5 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentShelf.tsx",
+    "line": 80,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": "className=\"absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentShelf.tsx",
+    "line": 97,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ReagentShelf.tsx",
+    "line": 98,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'bg-slate-100 dark:bg-slate-800/80 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 hover:text-slate-900 dark:hover:text-white border border-slate-200 dark:border-slate-700/60'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ResultPanel.tsx",
+    "line": 85,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-2.5 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white border border-slate-200 dark:border-slate-700 text-xs font-semibold transition-all flex items-center gap-1.5 shadow-sm active:scale-95 cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/ResultPanel.tsx",
+    "line": 157,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Droplets className=\"w-7 h-7 mx-auto text-slate-400 dark:text-slate-500\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/SafetyModal.tsx",
+    "line": 104,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<span className=\"text-slate-100 font-bold\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/SafetyModal.tsx",
+    "line": 119,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<p className=\"text-slate-300 leading-relaxed\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/SafetyModal.tsx",
+    "line": 139,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<span className=\"font-semibold text-slate-100 block\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/SafetyModal.tsx",
+    "line": 142,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-slate-400 leading-relaxed\">"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/lab/SafetyModal.tsx",
+    "line": 158,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "className=\"w-full py-3 rounded-xl font-bold text-sm bg-gradient-to-r from-teal-400 to-cyan-400 hover:from-teal-300 hover:to-cyan-300 text-slate-950 transition-all flex items-center justify-center gap-2 shadow-lg shadow-teal-500/20 active:scale-95 cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 71,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<h3 className=\"font-bold text-slate-100 text-sm sm:text-base\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 74,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 89,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-1.5 rounded-xl hover:bg-slate-800 text-slate-400 hover:text-white transition-colors\""
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 105,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "? 'bg-teal-500 text-slate-950 shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 106,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800 text-slate-400 hover:text-white border border-slate-700/60'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 135,
+    "matches": [
+      "text-slate-100"
+    ],
+    "text": "<span className=\"font-semibold text-xs sm:text-sm text-slate-100 line-clamp-1\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 144,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-[11px] text-slate-400 line-clamp-2\">"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/lab/TaskMode.tsx",
+    "line": 165,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "className=\"px-3 py-1 rounded-xl text-xs font-bold bg-teal-500/15 hover:bg-teal-500 text-teal-300 hover:text-slate-950 border border-teal-500/30 transition-all flex items-center gap-1 active:scale-95 cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TestTube.tsx",
+    "line": 96,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"absolute inset-y-4 right-1 flex flex-col justify-between pointer-events-none text-[8px] font-mono text-slate-400/60 select-none\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TestTube.tsx",
+    "line": 120,
+    "matches": [
+      "text-slate-300",
+      "text-white"
+    ],
+    "text": "isActive ? 'text-teal-300' : 'text-slate-300 group-hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/lab/TestTube.tsx",
+    "line": 125,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/layout/Footer.tsx",
+    "line": 43,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">•</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/layout/Header.tsx",
+    "line": 82,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200/50 dark:hover:bg-white/5'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/layout/Header.tsx",
+    "line": 122,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'text-white bg-gradient-to-r from-teal-500 to-purple-600 shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/AnalysisPanel.tsx",
+    "line": 55,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<Atom className=\"w-12 h-12 text-slate-300 dark:text-slate-600 mb-3 animate-spin-slow\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/AtomPalette.tsx",
+    "line": 63,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/AtomPalette.tsx",
+    "line": 77,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/AtomPalette.tsx",
+    "line": 91,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/AtomPalette.tsx",
+    "line": 104,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-red-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/AtomPalette.tsx",
+    "line": 137,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-3 py-1.5 rounded-xl text-xs font-semibold bg-gradient-to-r from-teal-500 to-emerald-600 text-white shadow-sm hover:shadow-teal-500/25 hover:brightness-110 active:scale-95 transition-all flex items-center gap-1\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/ExportButtons.tsx",
+    "line": 117,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-3 py-1.5 rounded-xl text-xs font-medium bg-teal-500 hover:bg-teal-600 text-white shadow-sm disabled:opacity-40 transition-all flex items-center gap-1.5\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeCanvas2D.tsx",
+    "line": 255,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-slate-400 dark:text-slate-500 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeCanvas2D.tsx",
+    "line": 269,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-slate-400 dark:text-slate-500 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeCanvas2D.tsx",
+    "line": 280,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-slate-400 dark:text-slate-500 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeCanvas2D.tsx",
+    "line": 294,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-slate-400 dark:text-slate-500\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeCanvas2D.tsx",
+    "line": 305,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-slate-400 dark:text-slate-500\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeCanvas2D.tsx",
+    "line": 316,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-slate-400 dark:text-slate-500\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeLibraryModal.tsx",
+    "line": 81,
+    "matches": [
+      "text-slate-400",
+      "text-slate-200"
+    ],
+    "text": "className=\"p-2 rounded-xl text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeLibraryModal.tsx",
+    "line": 91,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Search className=\"w-4 h-4 absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeLibraryModal.tsx",
+    "line": 110,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeLibraryModal.tsx",
+    "line": 123,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"col-span-full py-12 text-center text-slate-400 text-sm\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeLibraryModal.tsx",
+    "line": 157,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"w-full py-2 px-3 rounded-lg text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 group-hover:bg-teal-500 group-hover:text-white transition-all flex items-center justify-center gap-1.5\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 123,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 124,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 134,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 135,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 145,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 146,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 163,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400 font-normal\">/ {highScore}</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeQuiz.tsx",
+    "line": 249,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-4 py-2 rounded-xl text-xs font-semibold bg-teal-500 hover:bg-teal-600 text-white shadow-sm flex items-center gap-1.5 transition-all\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 329,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 330,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 340,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 341,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 351,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 352,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 365,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "autoRotate ? 'text-teal-400 bg-teal-950/40' : 'text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/molecules/MoleculeViewer3D.tsx",
+    "line": 374,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"absolute bottom-3 right-3 z-10 px-3 py-1 bg-slate-900/80 backdrop-blur-md rounded-xl border border-slate-800/80 text-[11px] text-slate-400 select-none pointer-events-none\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElectronShellDiagram.tsx",
+    "line": 72,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "className=\"text-slate-300 dark:text-slate-700 opacity-80\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementCell.tsx",
+    "line": 55,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "const stateColor = currentState === 'gas' ? 'text-purple-500' : currentState === 'liquid' ? 'text-blue-500' : 'text-slate-400';"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementListView.tsx",
+    "line": 76,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white font-bold shadow-xs'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementListView.tsx",
+    "line": 89,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white font-bold shadow-xs'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementListView.tsx",
+    "line": 102,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white font-bold shadow-xs'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementListView.tsx",
+    "line": 115,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white font-bold shadow-xs'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementListView.tsx",
+    "line": 157,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<ChevronRight className=\"w-4 h-4 text-slate-400 group-hover:text-teal-500 transform group-hover:translate-x-1 transition-all shrink-0\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementModal.tsx",
+    "line": 147,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-2 rounded-xl text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/10 transition-colors cursor-pointer\""
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/periodic/ElementModal.tsx",
+    "line": 147,
+    "matches": [
+      "text-slate-700"
+    ],
+    "text": "className=\"p-2 rounded-xl text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/10 transition-colors cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementModal.tsx",
+    "line": 264,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"flex items-center justify-between text-xs text-slate-400 mb-2\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementModal.tsx",
+    "line": 282,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"mt-2 text-[11px] text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementQuiz.tsx",
+    "line": 111,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<span className=\"px-3 py-1 rounded-xl bg-teal-500 text-white font-mono font-black text-lg sm:text-xl shadow-md\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/ElementQuiz.tsx",
+    "line": 184,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-2 text-slate-400 hover:text-slate-600 dark:hover:text-white rounded-lg transition-colors cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/Filters.tsx",
+    "line": 67,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-xs'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/Filters.tsx",
+    "line": 68,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/Filters.tsx",
+    "line": 90,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-xs'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/Filters.tsx",
+    "line": 91,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/HeatmapControl.tsx",
+    "line": 60,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">•</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/PeriodicTable.tsx",
+    "line": 91,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"text-[10px] font-mono font-bold text-slate-400 flex items-center justify-center\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/PeriodicTable.tsx",
+    "line": 99,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-[11px] font-mono font-bold text-slate-400 dark:text-slate-500 text-center flex items-center justify-center\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/PeriodicTable.tsx",
+    "line": 110,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"text-[11px] font-mono font-bold text-slate-400 dark:text-slate-500 flex items-center justify-center\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/SearchBar.tsx",
+    "line": 16,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Search className=\"w-4 h-4 text-slate-400 absolute left-3.5 pointer-events-none\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/SearchBar.tsx",
+    "line": 28,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"absolute right-3 p-1 rounded-md text-slate-400 hover:text-slate-600 dark:hover:text-white cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/periodic/TemperatureSlider.tsx",
+    "line": 93,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-xs font-bold'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 462,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-5 py-2.5 rounded-2xl bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs transition-all border border-slate-700 cursor-pointer flex items-center gap-2\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 478,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"p-8 rounded-3xl bg-slate-900 border border-slate-800 text-white space-y-6 animate-fade-in shadow-2xl\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 488,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-sm text-slate-400\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 500,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 uppercase font-bold block\">{t.scoreText}</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 506,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 uppercase font-bold block\">{t.accuracy}</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 510,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 uppercase font-bold block\">Best Streak</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 517,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-400 uppercase font-bold block\">Earned XP</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 540,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"w-full sm:flex-1 px-4 py-2.5 rounded-xl bg-slate-900 border border-slate-700 text-sm font-medium text-white placeholder:text-slate-500 focus:outline-none focus:border-amber-400 disabled:opacity-50\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 547,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-emerald-600 text-white cursor-default'"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 548,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": ": 'bg-amber-500 hover:bg-amber-400 text-slate-950 hover:scale-105 active:scale-95'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 570,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-6 py-3 rounded-2xl bg-gradient-to-r from-teal-500 to-indigo-600 hover:from-teal-400 hover:to-indigo-500 text-white font-extrabold text-sm transition-all shadow-lg hover:scale-105 active:scale-95 flex items-center gap-2 cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 590,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"p-6 md:p-8 rounded-3xl bg-slate-900 border border-slate-800 text-white space-y-6 shadow-2xl relative overflow-hidden\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 602,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">{t.subtitle}</p>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 638,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 639,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800 text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 652,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 653,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800 text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 666,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 667,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800 text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 680,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 681,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800 text-slate-400 hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 693,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"flex justify-between text-xs text-slate-400 font-bold\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 719,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<p className=\"text-sm sm:text-base font-bold text-white leading-relaxed\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 738,
+    "matches": [
+      "text-slate-200"
+    ],
+    "text": "'bg-slate-850 hover:bg-slate-800 border-slate-800 text-slate-200';"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 788,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 hover:bg-teal-400 text-white hover:scale-105 active:scale-95'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 815,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-6 py-3 rounded-2xl bg-teal-500 hover:bg-teal-400 text-white font-extrabold text-xs transition-all shadow-lg hover:scale-105 active:scale-95 flex items-center gap-2 ml-auto cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ElementsReactionsQuiz.tsx",
+    "line": 831,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<p className=\"text-xs sm:text-sm text-slate-300 leading-relaxed\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ExamSelector.tsx",
+    "line": 47,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<span className=\"text-xs font-bold px-2.5 py-0.5 rounded-full bg-teal-500 text-white shadow-sm\">"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 107,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "<div className=\"w-8 h-8 rounded-xl bg-gradient-to-br from-amber-300 via-amber-400 to-amber-600 text-slate-950 font-black flex items-center justify-center shadow-lg ring-2 ring-amber-400/50\">"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 113,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "<div className=\"w-8 h-8 rounded-xl bg-gradient-to-br from-slate-200 via-slate-300 to-slate-400 text-slate-950 font-black flex items-center justify-center shadow-md ring-2 ring-slate-300/40\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 119,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"w-8 h-8 rounded-xl bg-gradient-to-br from-amber-600 via-amber-700 to-amber-800 text-white font-black flex items-center justify-center shadow-md ring-2 ring-amber-700/40\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 125,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<div className=\"w-8 h-8 rounded-xl bg-slate-800 border border-slate-700 text-slate-300 font-mono font-bold flex items-center justify-center\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 147,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className={`p-6 sm:p-8 rounded-3xl bg-slate-900 border border-slate-800 text-white shadow-2xl relative overflow-hidden space-y-6 ${className}`}"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 158,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<h3 className=\"text-lg sm:text-xl font-extrabold text-white\">{t.title}</h3>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 160,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<p className=\"text-xs text-slate-400\">{t.subtitle}</p>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 168,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-4 py-2 rounded-xl bg-teal-500 hover:bg-teal-400 text-white font-extrabold text-xs transition-all shadow-md flex items-center gap-1.5 cursor-pointer hover:scale-105 active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 179,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-rose-400 transition-colors cursor-pointer border border-slate-700\""
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 195,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "? 'bg-amber-500 text-slate-950 font-black shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 196,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": ": 'bg-slate-800/80 text-slate-400 hover:text-white border border-slate-700/60'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 212,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<div className=\"p-8 text-center rounded-2xl bg-slate-850/60 border border-slate-800 text-slate-400 text-xs\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 237,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<span className=\"font-extrabold text-sm text-white truncate max-w-[200px] sm:max-w-[240px]\">"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 241,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "<span className=\"px-2 py-0.5 rounded-md bg-teal-500 text-slate-950 font-black text-[10px] uppercase tracking-wider\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 252,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400 text-[11px] flex items-center gap-1 font-mono\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 264,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] uppercase font-bold text-slate-400 block\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 274,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] uppercase font-bold text-slate-400 block\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/QuizLeaderboard.tsx",
+    "line": 284,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] uppercase font-bold text-slate-400 block\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ResultPage.tsx",
+    "line": 92,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "{score} <span className=\"text-base text-slate-400\">/ {tasks.length}</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ResultPage.tsx",
+    "line": 123,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-5 py-2.5 rounded-xl text-xs font-bold bg-amber-500 hover:bg-amber-600 text-white shadow-md flex items-center gap-2 transition-all active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/ResultPage.tsx",
+    "line": 133,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-5 py-2.5 rounded-xl text-xs font-bold bg-teal-500 hover:bg-teal-600 text-white shadow-md flex items-center gap-2 transition-all active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/StatsDashboard.tsx",
+    "line": 137,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "className=\"p-1.5 rounded-lg text-slate-400 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-950/30 transition-colors\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/StatsDashboard.tsx",
+    "line": 232,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"mt-3 py-1.5 px-3 rounded-lg text-xs font-bold bg-orange-500 hover:bg-orange-600 text-white shadow-sm transition-all cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/TaskView.tsx",
+    "line": 241,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">→</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/TaskView.tsx",
+    "line": 278,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-5 py-2.5 rounded-xl text-xs font-bold bg-teal-500 hover:bg-teal-600 text-white shadow-md disabled:opacity-40 transition-all active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/TaskView.tsx",
+    "line": 286,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-5 py-2.5 rounded-xl text-xs font-bold bg-teal-500 hover:bg-teal-600 text-white shadow-md flex items-center gap-2 transition-all active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/TopicPicker.tsx",
+    "line": 35,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/trainer/TopicPicker.tsx",
+    "line": 51,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/Button.tsx",
+    "line": 34,
+    "matches": [
+      "text-white"
+    ],
+    "text": "'bg-teal-600 hover:bg-teal-500 text-white shadow-md shadow-teal-500/20 hover:shadow-teal-500/35',"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/Button.tsx",
+    "line": 42,
+    "matches": [
+      "text-white"
+    ],
+    "text": "'btn-gradient text-white font-semibold shadow-lg shadow-teal-500/25 hover:shadow-teal-500/40',"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/Button.tsx",
+    "line": 44,
+    "matches": [
+      "text-white"
+    ],
+    "text": "'bg-red-600 hover:bg-red-500 text-white shadow-md shadow-red-500/20',"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/ErrorBoundary.tsx",
+    "line": 52,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-teal-600 hover:bg-teal-500 text-white font-medium text-sm transition-colors cursor-pointer shadow-md\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/LanguageSwitcher.tsx",
+    "line": 34,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-gradient-to-r from-teal-500 to-teal-600 text-white shadow-sm'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/LanguageSwitcher.tsx",
+    "line": 35,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-black/5 dark:hover:bg-white/5'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/Modal.tsx",
+    "line": 78,
+    "matches": [
+      "text-slate-400",
+      "text-white"
+    ],
+    "text": "className=\"p-1.5 rounded-lg text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/10 transition-colors ml-auto cursor-pointer\""
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/ui/Modal.tsx",
+    "line": 78,
+    "matches": [
+      "text-slate-700"
+    ],
+    "text": "className=\"p-1.5 rounded-lg text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/10 transition-colors ml-auto cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/Tabs.tsx",
+    "line": 35,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-white/40 dark:hover:bg-white/5'"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/components/ui/ThemeToggle.tsx",
+    "line": 32,
+    "matches": [
+      "text-slate-700"
+    ],
+    "text": "<Moon className=\"w-5 h-5 text-slate-700 transition-transform duration-300 hover:-rotate-12\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/components/ui/Tooltip.tsx",
+    "line": 37,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className={`absolute z-40 px-2.5 py-1 text-xs font-medium text-white bg-slate-900/95 dark:bg-slate-800/95 rounded-lg shadow-lg border border-slate-700/60 whitespace-nowrap pointer-events-none transition-opacity duration-150 animate-in fade-in zoom-in-95 ${positionStyles[position]}`}"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/AboutPage.tsx",
+    "line": 121,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className={`w-8 h-8 rounded-lg bg-gradient-to-tr ${mod.gradient} flex items-center justify-center text-white text-xs font-bold`}>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/BalancerPage.tsx",
+    "line": 268,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-6 py-3.5 rounded-2xl font-bold text-sm sm:text-base text-white dark:text-slate-950 bg-teal-600 dark:bg-gradient-to-r dark:from-teal-400 dark:to-cyan-400 hover:bg-teal-700 dark:hover:from-teal-300 dark:hover:to-cyan-300 transition-all transform active:scale-95 shadow-lg shadow-teal-500/25 flex items-center justify-center gap-2 shrink-0 cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/BalancerPage.tsx",
+    "line": 277,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<HelpCircle className=\"w-3.5 h-3.5 text-slate-400 shrink-0\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/MoleculesPage.tsx",
+    "line": 178,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"relative overflow-hidden rounded-3xl bg-gradient-to-br from-slate-900 via-slate-850 to-slate-950 p-6 md:p-8 text-white border border-slate-800 shadow-2xl\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/MoleculesPage.tsx",
+    "line": 190,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<p className=\"text-sm text-slate-300 leading-relaxed max-w-xl\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/MoleculesPage.tsx",
+    "line": 200,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"px-4 py-2.5 rounded-xl text-xs font-bold bg-gradient-to-r from-teal-500 to-indigo-600 hover:from-teal-400 hover:to-indigo-500 text-white shadow-lg shadow-teal-500/20 flex items-center gap-2 transition-all active:scale-95\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/MoleculesPage.tsx",
+    "line": 224,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/MoleculesPage.tsx",
+    "line": 237,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/MoleculesPage.tsx",
+    "line": 250,
+    "matches": [
+      "text-white"
+    ],
+    "text": ": 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/PlaceholderPage.tsx",
+    "line": 87,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className={`w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-gradient-to-tr ${gradient} flex items-center justify-center text-white shadow-xl shrink-0`}>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/PlaceholderPage.tsx",
+    "line": 154,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<Mail className=\"w-5 h-5 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2\" />"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 248,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"relative overflow-hidden rounded-3xl bg-gradient-to-br from-slate-900 via-slate-850 to-slate-950 p-6 md:p-8 text-white border border-slate-800 shadow-2xl\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 260,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<p className=\"text-sm text-slate-300 leading-relaxed max-w-xl\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 272,
+    "matches": [
+      "text-slate-300"
+    ],
+    "text": "<span className=\"text-[10px] text-slate-300 block uppercase font-bold\">Streak</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 289,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 300,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 312,
+    "matches": [
+      "text-slate-950"
+    ],
+    "text": "? 'bg-amber-500 text-slate-950 shadow-md font-black'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 324,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 335,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 346,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 357,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-teal-500 text-white shadow-md'"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 367,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<div className=\"p-4 sm:p-5 rounded-2xl bg-slate-900 border border-slate-800 text-white shadow-xl space-y-3 animate-fade-in\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 374,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-[10px] uppercase font-bold text-slate-400 block\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 378,
+    "matches": [
+      "text-white"
+    ],
+    "text": "<span className=\"font-extrabold text-sm sm:text-base text-white\">"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 391,
+    "matches": [
+      "text-slate-400"
+    ],
+    "text": "<span className=\"text-slate-400\">{t.scoreWord}:</span>"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 498,
+    "matches": [
+      "text-white"
+    ],
+    "text": "style = 'bg-teal-500 text-white font-extrabold ring-2 ring-teal-500/50';"
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 522,
+    "matches": [
+      "text-white"
+    ],
+    "text": "className=\"w-full py-2.5 rounded-xl bg-slate-900 dark:bg-slate-800 hover:bg-teal-600 text-white text-xs font-bold transition-all shadow-md cursor-pointer\""
+  },
+  {
+    "type": "LIGHT_PALE",
+    "file": "src/pages/TrainerPage.tsx",
+    "line": 540,
+    "matches": [
+      "text-white"
+    ],
+    "text": "? 'bg-amber-500 text-white shadow-md'"
+  },
+  {
+    "type": "DARK_UNSTYLED",
+    "file": "src/utils/elementHelpers.ts",
+    "line": 131,
+    "matches": [
+      "text-slate-700"
+    ],
+    "text": "textLight: 'text-slate-700',"
+  }
+]
